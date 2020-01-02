@@ -15,28 +15,15 @@
 		<property name="username" value="sa"/> </bean> -->
 
 	<!-- Mysql (POM에서 commons-dbcp, mysql-connector-java 관련 라이브러리 설정 ) -->
-	<!-- 
 	<bean id="dataSource" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
-		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql://changsu0.cafe24.com:3306/changsu0" />
+		<!-- <property name="driverClassName" value="com.mysql.jdbc.Driver" /> -->
+		<!-- <property name="url" value="jdbc:mysql://changsu0.cafe24.com:3306/changsu0" /> -->
+		
+		<property name="driverClassName" value="net.sf.log4jdbc.sql.jdbcapi.DriverSpy" />
+		<property name="url" value="jdbc:log4jdbc:mysql://changsu0.cafe24.com:3306/changsu0" />
+
 		<property name="username" value="changsu0" />
 		<property name="password" value="triangle5" />
-	</bean>
- 	-->
-	<bean id="dataSourceSpied" class="org.apache.commons.dbcp.BasicDataSource" destroy-method="close">
-		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
-		<property name="url" value="jdbc:mysql://changsu0.cafe24.com:3306/changsu0" />
-		<property name="username" value="changsu0" />
-		<property name="password" value="triangle5" />
-	</bean>
-	<bean id="dataSource" class="net.sf.log4jdbc.Log4jdbcProxyDataSource">
-		<constructor-arg ref="dataSourceSpied" />
-		<property name="logFormatter">
-			<bean class="net.sf.log4jdbc.tools.Log4JdbcCustomFormatter">
-				<property name="loggingType" value="MULTI_LINE" />
-				<property name="sqlPrefix" value="SQL : " />
-			</bean>
-		</property>
 	</bean>
 
 
