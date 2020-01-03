@@ -190,7 +190,6 @@
                 <!-- ============================================================== -->
                 <!-- Start Page Content -->
                 <!-- ============================================================== -->
-                
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="card card-outline-info">
@@ -198,14 +197,14 @@
                                 <h4 class="mb-0 text-white">조회조건</h4>
                             </div>
                             <div class="card-body">
-                                <form action="#">
+                                <form id="frmSearch">
                                     <div class="form-body">
                                         <div class="row pt-3">
                                             <div class="col-md-6">
                                                 <div class="form-group">
                                                     <label class="control-label">First Name</label>
-                                                    <input type="text" id="firstName" class="form-control" placeholder="John doe">
-                                                    <small class="form-control-feedback"> This is inline help </small> </div>
+                                                    <input type="text" id="" name="col1" class="form-control" placeholder="Col1">
+												</div>
                                             </div>
                                             <!-- 
                                             <div class="col-md-6">
@@ -262,15 +261,9 @@
             <!-- ============================================================== -->
             <!-- End Container fluid  -->
             <!-- ============================================================== -->
-            <!-- ============================================================== -->
-            <!-- footer -->
-            <!-- ============================================================== -->
             <footer class="footer">
                 © 2019 Monster Admin by wrappixel.com
             </footer>
-            <!-- ============================================================== -->
-            <!-- End footer -->
-            <!-- ============================================================== -->
         </div>
         <!-- ============================================================== -->
         <!-- End Page wrapper  -->
@@ -290,9 +283,10 @@
 			getProtoTypeList();
 		});
 	});
-  
+
+
 	let getProtoTypeList = function(){
-		_ajaxCall('/selectProtoTypeList.ajax', '', cb_protoTypeList);	
+		_ajaxCall('/selectProtoTypeList.ajax', $('#frmSearch').serialize(), cb_protoTypeList);	
 	};
   
 	let cb_protoTypeList = function(data){

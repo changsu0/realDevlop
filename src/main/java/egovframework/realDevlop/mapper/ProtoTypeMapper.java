@@ -15,6 +15,7 @@
  */
 package egovframework.realDevlop.mapper;
 
+import java.util.HashMap;
 import java.util.List;
 
 import egovframework.rte.psl.dataaccess.mapper.Mapper;
@@ -43,6 +44,6 @@ public interface ProtoTypeMapper {
 	 * @return 글 목록
 	 * @exception Exception
 	 */
-	List<?> selectProtoTypeList() throws Exception;
+	List<?> selectProtoTypeList(HashMap<String, Object> paramMap) throws Exception;
 
 }

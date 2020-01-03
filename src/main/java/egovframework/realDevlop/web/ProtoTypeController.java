@@ -15,6 +15,7 @@
  */
 package egovframework.realDevlop.web;
 
+import java.util.HashMap;
 import java.util.List;
 
 import javax.annotation.Resource;
@@ -24,10 +25,10 @@ import org.springframework.ui.ModelMap;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
+import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.servlet.ModelAndView;
 
 import egovframework.realDevlop.service.ProtoTypeService;
-import egovframework.realDevlop.service.SampleDefaultVO;
 
 /**
  * @Class Name : EgovSampleController.java
@@ -65,9 +66,10 @@ public class ProtoTypeController {
 	}
 	
 	@RequestMapping(value = "/selectProtoTypeList.ajax", method = RequestMethod.POST)
-	public ModelAndView selectProtoTypeList(@ModelAttribute ModelMap model) throws Exception{
+	public ModelAndView selectProtoTypeList(@RequestParam HashMap<String, Object> paramMap) throws Exception{
 		ModelAndView mv = new ModelAndView("jsonView");
-		List<?> protoTypeList = protoTypeService.selectProtoTypeList();
+		
+		List<?> protoTypeList = protoTypeService.selectProtoTypeList(paramMap);
 		
 		mv.addObject("protoTypeList", protoTypeList);
 		return mv;

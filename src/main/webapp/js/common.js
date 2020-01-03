@@ -28,6 +28,8 @@ const _ajaxCall = function(_url, _param, _func) {
 	$.ajax({
 		url : _url,
 		type : "POST",
+		/*contentType: 'application/json',*/
+		contentType : "application/x-www-form-urlencoded; charset=UTF-8", 
 		data : _param,
 		dataType : 'json',
 		beforeSend : function(xmlHttpRequest){

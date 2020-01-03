@@ -9,5 +9,9 @@
 			, proto4
 			, proto5
 		FROM tb_proto_type
+		WHERE 1=1
+		<if test="col1 != null and col1 != ''">
+			AND proto1 = #{col1}
+		</if>
 	</select>
 </mapper>

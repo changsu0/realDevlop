@@ -15,6 +15,7 @@
  */
 package egovframework.realDevlop.service;
 
+import java.util.HashMap;
 import java.util.List;
 
 /**
@@ -41,6 +42,6 @@ public interface ProtoTypeService {
 	 * @return 글 목록
 	 * @exception Exception
 	 */
-	List<?> selectProtoTypeList() throws Exception;
+	List<?> selectProtoTypeList(HashMap<String, Object> paramMap) throws Exception;
 
 }

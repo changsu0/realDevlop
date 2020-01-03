@@ -49,9 +49,7 @@
 	    p:prefix="/WEB-INF/jsp/egovframework/" p:suffix=".jsp"/>
 
 	<bean class="org.springframework.web.servlet.view.BeanNameViewResolver" id="viewResolver" p:order="0"/>
-	<bean id="jsonView" class="org.springframework.web.servlet.view.json.MappingJackson2JsonView">
-		<property name="contentType" value="text/html;charset=UTF-8"/>
-	</bean>
+	<bean id="jsonView" class="org.springframework.web.servlet.view.json.MappingJackson2JsonView" />
 
 
 

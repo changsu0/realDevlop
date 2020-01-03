@@ -15,6 +15,7 @@
  */
 package egovframework.realDevlop.service.impl;
 
+import java.util.HashMap;
 import java.util.List;
 
 import javax.annotation.Resource;
@@ -60,9 +61,8 @@ public class ProtoTypeServiceImpl extends EgovAbstractServiceImpl implements Pro
 	 * @exception Exception
 	 */
 	@Override
-	public List<?> selectProtoTypeList() throws Exception {
-		System.out.println("impl");
-		return protoTypeMapper.selectProtoTypeList();
+	public List<?> selectProtoTypeList(HashMap<String, Object> paramMap) throws Exception {
+		return protoTypeMapper.selectProtoTypeList(paramMap);
 	}
 
 }
