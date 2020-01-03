@@ -61,7 +61,7 @@ public class ProtoTypeController {
 	 * @exception Exception
 	 */
 	@RequestMapping(value = "/noneStyleList.do")
-	public String selectSampleList(@ModelAttribute ModelMap model) throws Exception {
+	public String selectNoneStyleList(@ModelAttribute ModelMap model) throws Exception {
 		return "protoType/noneStyleList";
 	}
 	
@@ -74,5 +74,16 @@ public class ProtoTypeController {
 		mv.addObject("protoTypeList", protoTypeList);
 		return mv;
 	} 
+	
+	/**
+	 * 화면이동
+	 * @param model
+	 * @return "protoType/noneStyleList"
+	 * @exception Exception
+	 */
+	@RequestMapping(value = "/dataGridStyleList.do")
+	public String selectDataGridStyleList(@ModelAttribute ModelMap model) throws Exception {
+		return "protoType/dataGridStyleList";
+	}
 
 }
