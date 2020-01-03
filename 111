@@ -1,0 +1,3335 @@
+CD_TP	CD_TP_EXPLAIN	CD_TP_USE
+AE_CODE	판매유형 식별코드	Y
+AGRA_DIVISION	약관구분코드	Y
+AMT_UNIT	금액단위	Y
+AN_DELIMETER	조회용구분자(내부품종)	Y
+AREA_CODE	지역번호(전화번호)	Y
+AUCTION_DATE_FLAG	경매일정구분 FLAG	Y
+AUCTION_METHOD	Package경매 낙찰조건	Y
+AUCTION_PROGRESS_STATUS	경매진행구분	Y
+AUCTION_SCHEDULE_WEEKDAY	일정관리 - 요일	Y
+AUCTION_TIME	프리미엄,옥션,아울렛판매운영시간	Y
+AUCTION_TIME_MINUTE	경매시간-분	Y
+AUCTION_TYPE	경매/선착순 구분	Y
+BANK_NUMBER	은행코드	Y
+BBS_CATEGORY_NAME	공지사항분류	Y
+BIDDING_METHOD	경매 입찰구분	Y
+BUYER_CNT	바이어제안등록 유찰횟수	Y
+CANCEL_PROCESS_STATUS	낙찰취소진행상태	Y
+CANCEL_REASON_CODE	낙찰취소사유	Y
+CARRIER_COMPANY_CD	운송사코드	Y
+CARRIER_TYPE	운송수단구분	Y
+CELL_TELL_AREA_CODE	휴대전화(앞자리)	Y
+CITY_PROVINCE_CD	시도	Y
+CONF_FLAG	확정여부	Y
+CONTRACT_KIND	계약구분코드	Y
+COUNTURY_CODE	국가코드	Y
+CREATE_DEPOSIT_PLAN_NUMBER	입금예정번호 신규생성 앞2자리 관리	Y
+CREDIT_TERM	외상기간	Y
+CURRENCY_CODE	통화코드	Y
+CUSTOMER_ERP_REG_STATUS	ERP등록상태	Y
+CUSTOMER_FLAG	회원사구분	Y
+CUSTOMER_SALES_TYPE	실수요/유통구분	Y
+CUSTOMER_STATUS_CODE	입찰제한상태	N
+CUSTOMER_TYPE	개인회사구분코드	Y
+CUST_DELV_YN	공급사 가능여부	Y
+CUST_GUBUN	고객사 구분	Y
+CUST_USER_CODE	사용자 구분 코드	Y
+DATE_FLAG	일자조회구분	Y
+DATE_FORMAT	날짜 포멧	Y
+DATE_TYPE	주문서조회기간구분	Y
+DELIVERY_AREA_CD	지역코드	Y
+DELI_EQUIPMENT_CD	운송장비구분	Y
+DELI_EQUIPMENT_TYPE	운송장비유형	Y
+DEPOSIT_DAY_CNT	입금가능일수	Y
+DEPOSIT_KIND	입금내용구분	Y
+DEPOSIT_TP	입금구분	Y
+DEPT_CODE	부서	Y
+DESTINATION_USE_YN	도착지사용여부	Y
+DETAIL_ARRIVAL_REGISTER	상세착지권한	Y
+DETL_SVC_TCD	상세서비스유형	Y
+DISTRI_WH_CD	유통기지창고	Y
+DML_TYPE	데이터 작업유형	Y
+DOWNLOAD_CENTER_TP	자료실코드구분	Y
+ERP_RETURN	ERP 수신 타입	Y
+ESALES_CANCEL	e-Sales 낙찰취소담당자	Y
+ESALES_CHK	e-Sales 가격체크 담당자	Y
+EXCEL_EXPOTED_FLAG	엑셀 Download 코드 구분	Y
+EXPORT_PRODUCT_GROUP	수출Blind경매 품종 코드	Y
+EXTRA_STD_CODE	Extra기준코드	Y
+EXT_APPR_TOT_GRD	외관종합등급	Y
+EXT_TOT_JDG_GD	외관종합등급	Y
+FAQ_POST_TYPE	FAQ게시글분류	Y
+FAQ_USE_SEPERATE	FAQ게시구분	Y
+FAST_RATE	경매즉시낙찰비율	Y
+FEW_WEEKS	주차(월의 몇주차)	Y
+FIX_YN	상단고정여부	Y
+FREIGHT_BASIS_CD	운송비기준코드	Y
+FREIGHT_QUARTER	분기구분	Y
+GCS_COMP_CODE	연결결산법인구분	Y
+GCS_COMP_CODE_TYPE	법인형태구분	Y
+G_GCS_COMP_CODE	연결결산법인코드(글로벌현황)	Y
+HARD_KIND	품질설계경도시험종류구분	Y
+HEAD_STATUS	주문상태	Y
+IMG_PERPOSE_USE	이미지사용목적	Y
+IMG_USE_TYPE	이미지사용유형	Y
+IMG_YN	이미지사용여부	Y
+INV_CD	Invoice 사용 코드	Y
+LANGUAGE_TYPE	언어구분	Y
+LCC_CD	물류비코드	Y
+LCOPERATOR	신규등록은행담당자	Y
+LICENSE_YN	사업자등록증 유무	Y
+LOCATION_INFO	유통위치정보(가격동향)	Y
+LOGI_FC_DDY_TP_CD	물류세부운송비유형코드	Y
+LOGI_TRS_AGM_BUSI_TP	사업유형	Y
+LOGI_TRS_AGM_STAT_TP	물류운송계약상태구분	Y
+MAIL_AREA_CODE	메일주소	Y
+MAIL_SENDER_ADDRESS	CM메일발송주소	Y
+MAIN_NOTI_VIEW_YN	공지사항메인화면표시여부	Y
+MAKER_CD	제조사	Y
+MENU_TYPE	메뉴구분	Y
+METAFRAME_IP	MetaFrame IP주소	Y
+MONTH	월	Y
+MSG_TYPE	발송타입	Y
+MSG_USE	메세지사용여부	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_B1	상품상세필드_여재	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_BP	상품상세필드_BP	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_CG	상품상세필드_CG	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_CR	상품상세필드_CR	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_EG	상품상세필드_EG	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_FH	상품상세필드_FH	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_GN	상품상세필드_전기강판	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_H1	상품상세필드_열연	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_HG	상품상세필드_HG	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_P1	상품상세필드_후판	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_PO	상품상세필드_PO	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_QC	상품상세필드_STS CR	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_QH	상품상세필드_STS HR	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_TP	상품상세필드_TP	Y
+MYAUCTION_BID_DYNAMIC_COLUMN_W1	상품상세필드_선재	Y
+NOTI_TYPE	공지사항종류	Y
+OBJECT_TYPE	객체유형	Y
+OM_ACT_ST	문의 상태	Y
+OM_AUC_TP	경매유형	Y
+OM_BID_AMT_UNIT	입찰금액단위	Y
+OM_BID_ST	입찰 상태	Y
+OM_BID_TIME	Open Market 경매 시간	Y
+OM_FEE_CHANGE_SABUN	중개수수료 변경 수신자 사번	Y
+OM_FEE_DIV	중개수수료구분	Y
+OM_GDS_TP	제품유형	Y
+OM_INQY_KIND	문의 종류	Y
+OM_KDWON_ST	경매 상태	Y
+OM_MKR_CD	제조사코드	Y
+OM_MTRY_YN	필수 여부	Y
+OM_ORGN_CD	원산지	Y
+OM_PG_BANK	PG은행코드	Y
+OM_PG_CONFIG	오픈마켓 PG Config	Y
+OM_PG_INPUT_IP	PG사인입IP	Y
+OM_PG_REGYN	오픈마켓PG등록구분	Y
+OM_PG_SEND_MAIL	PG관련오픈마켓대응메일	Y
+OM_PG_SEND_TELNO	PG관련오픈마켓대응전화	Y
+OM_PRD_REQ_ST	제품요청상태	Y
+OM_PR_LINE_ST	구매라인별상태	Y
+OM_PURH_ST	구매요청상태	Y
+OM_SELL_TP	판매유형	Y
+OM_SHIP_ST	출하상태	Y
+OM_UOM	UOM	Y
+OM_USENESS_RSN_CD	불용사유코드	Y
+OM_VNDR_DIV	공급사구분	Y
+ORDER_CLASS	낙찰상품주문서분류	Y
+ORDER_NO_FLAG	주문번호조회구분	Y
+ORDER_PRODUCT_CATEGORY_CODE	제품구분	Y
+ORDER_PRODUCT_GROUP_CODE	품종(구)	Y
+ORDER_PRODUCT_NAME_CODE	품명	Y
+ORDER_SEARCH_TP	Order 조회구분	Y
+ORDER_STAT_PRD_TP	주문진행품종	Y
+ORDER_TYPE_GROUP_CODE	수주구분	Y
+ORDER_TYPE_ORDERING	주문서용 수주구분	Y
+ORD_PDT_ITDS_CD	품종	Y
+ORD_PDT_ITP_CD	주문품종코드(주문조회)	Y
+ORD_PDT_ITP_GROUP	상품구분	Y
+OS_PROCESS_STATUS_CD	주문진행상태코드	Y
+OUTLET_AN_DELIMETER_EXCEPT_PAIRING	아울렛 대상 제외 조회그룹	Y
+OUTLET_BASE_TIME	아울렛 기준 시간	Y
+PACKAGE_AE_CODE	패키지그룹코드	Y
+PACKAGE_AUCTION_TARGET_DIVISION	Package경매편성 대상조건	Y
+PACKAGE_CONFIRM_USER	Package경매 대상 확정 사용자	Y
+PACKAGE_GROUP_LEVEL	Package경매 그룹 구간 	Y
+PACKAGE_PAYMENT_TERMS_TP	Package경매 결재조건	Y
+PACKAGE_PRODUCT_GROUP	Package경매 품종 코드	Y
+PACKAGE_SHPPING_METHOD	Package경매 인도조건	Y
+PACKAGE_STS_CUST_GROUP	Package경매 STS 고객 그룹	Y
+PACKAGE_TIME_HR	패키지경매시간-시간	Y
+PACKAGE_UNORDER_RELEASE	Package경매 미주문 유찰기준일자	Y
+PACKAGE_WEIGHT_LIMIT	Package경매 구간중량Limit기준	Y
+PAYMENT_FLAG	결제여부	Y
+PAYMENT_NEGO_TERMS	상품판매	Y
+PAYMENT_TERMS	결제조건	Y
+PAYMENT_TYPE_CODE	상품경매대금결제방식구분	Y
+PERSON_SEARCH_FLAG	직원조회구분	Y
+PG_CODE	PG 결과코드	Y
+PG_PAY_REQ_STATUS	PG 지급요청 상태	Y
+PG_SEND_YN	PG송신여부	Y
+POLL_QUESTION_TYPE	설문질문유형	Y
+POPUP_YN	팝업표시여부	Y
+PORT_CD	항구코드	Y
+PRD_FLAW_CD	상품결함코드	Y
+PRD_PRG_TP	물류상품진도	Y
+PRD_STATUS	상품진행상태	Y
+PRD_TOT_CLS_SEQ	상품등급일련번호	Y
+PRD_TOT_GRD	상품종합등급	Y
+PRD_WH_ENT_FLAG	상품창고입고여부	Y
+PRE_CONF	프리미엄_설정	Y
+PRICE_KIND	가격종류(가격동향)	Y
+PRICE_PRODUCT_NAME	가격동향상품명	Y
+PROCESS_STATUS	낙찰진행상태	Y
+PRODUCT_CODE	경매조회상품그룹구분	Y
+PRODUCT_DETAIL_COLUMNS_1	상품상세 항목정의 1열	Y
+PRODUCT_DETAIL_COLUMNS_2	상품상세 항목정의 2열	Y
+PRODUCT_DETAIL_COLUMNS_3	상품상세 항목정의 3열	Y
+PRODUCT_FLAG_CODE_ABO	제품구분코드(수출)	Y
+PRODUCT_FLAG_CODE_DOM	제품구분코드(내수)	Y
+PRODUCT_FLAG_CODE_OVERSEA	제품구분코드(단압밀)	Y
+PRODUCT_GUIDE_CLASS	제품종류	Y
+PRODUCT_GUIDE_TYPE	제품구분	Y
+PRODUCT_WH_CD	창고(하치장)코드	Y
+Q&A_POST_TYPE	Q&A게시글분류	Y
+Q&A_REPLY_STATUS	Q&A답변상태	Y
+QUSA_QUES_SCLZ_CBG	설문질문척도배점	Y
+REFUSAL_TYPE	반려유형	Y
+REQUEST_TYPE	ERP요청 타입	Y
+RESTRAINT_RELEASE	제재구분	Y
+RESTRAINT_SERVICE_CODE	제재사유	Y
+RESTRAINT_TYPE	제재유형	Y
+SAL_CUS_LOC_L_CLS_TP	판매고객사지역대분류구분	Y
+SCRAP_DEPT_CODE	스크랩이관 부서코드	Y
+SCRAP_OFFLINE_CODE	스크랩/오프라인 전환코드-> AE_CODE/class=S사용	N
+SERVER_INFO	접속 서버 정보	Y
+SHIPMENT_TYPE	출항구분	Y
+SHIPPING_METHOD	인도조건코드	Y
+SHIPPING_METHOD_N	e-Sales 인도조건	Y
+SHIPPING_PORT	선적항	Y
+SHIP_FLOW_STATUS	출하진행상태	Y
+SHIP_ITEM_CODE	제품구분	Y
+SITE_LIMIT_INFOR	화면단위조절	Y
+SKIN_PASS_RST_FLAG	품질설계열연SkinPass지정구분	Y
+SMS_SEND_FLAG	SMS발송여부	Y
+STOCK_BID_DYNAMIC_COLUMN_B1	상품상세필드_여재	Y
+STOCK_BID_DYNAMIC_COLUMN_BP	상품상세필드_BP	Y
+STOCK_BID_DYNAMIC_COLUMN_CG	상품상세필드_CG	Y
+STOCK_BID_DYNAMIC_COLUMN_CR	상품상세필드_CR	Y
+STOCK_BID_DYNAMIC_COLUMN_EG	상품상세필드_EG	Y
+STOCK_BID_DYNAMIC_COLUMN_FH	상품상세필드_FH	Y
+STOCK_BID_DYNAMIC_COLUMN_GN	상품상세필드_전기강판	Y
+STOCK_BID_DYNAMIC_COLUMN_H1	상품상세필드_열연	Y
+STOCK_BID_DYNAMIC_COLUMN_HG	상품상세필드_HG	Y
+STOCK_BID_DYNAMIC_COLUMN_P1	상품상세필드_후판	Y
+STOCK_BID_DYNAMIC_COLUMN_PO	상품상세필드_PO	Y
+STOCK_BID_DYNAMIC_COLUMN_QC	상품상세필드_STS CR	Y
+STOCK_BID_DYNAMIC_COLUMN_QH	상품상세필드_STS HR	Y
+STOCK_BID_DYNAMIC_COLUMN_TP	상품상세필드_TP	Y
+STOCK_BID_DYNAMIC_COLUMN_W1	상품상세필드_선재	Y
+STOCK_CODE	재고상품판매구분	Y
+STS_RL_MK_A_HPN_SD_TP	STS압연Marking실적발생면구분	Y
+STS_SPEC_GRD	스테인레스규격별계열	Y
+SVC_TCD	서비스유형	Y
+TAX_DOMESTIC_TYPE	수주구분(내수)	Y
+TERMS_DETAIL_CD	약관상세코드	Y
+TERMS_TYPE	약관구분코드(신규)	Y
+TRANS_ORDER_TYPE	출하운송지시구분	Y
+TRANS_TARGET	운송비 담당자	Y
+TRANS_YN	운송사여부	Y
+TRFF_ITEM_CD	품종코드(정산용)	Y
+TRNS_COST_TCD	물류운송비유형코드	Y
+TYPE_TP	PG 지급결과 유형구분	Y
+USER_TYPE	사용자유형	Y
+USE_YN	사용유무	Y
+WAREHOUSE	제철소	Y
+WAREHOUSE_N	제철소	Y
+WEEK	요일	Y
+WGT_SECTION_CD	중량구간코드	Y
+WGT_UNIT	중량단위	Y
+"WISH_PKG_001
+"	냉연패키지제안	Y
+WISH_PKG_002	열연패키지제안	Y
+WISH_PKG_003	후판패키지제안	Y
+WORKS_CODE	사소구분	Y
+YEAR	년도	Y
+dormancy	휴면일 수	Y
+
+
+
+
+
+
+
+CD_TP	LANGUAGE_CODE	CD_V	CD_V_MEANING	CD_DT_NM_SEQ	CODE_CLASS	CODE_DESCRIPTION	ETC1	ETC2	ETC3	CD_TP_USE
+AE_CODE	ko	A	옥션	2	A	class=A:옥션	ETC2-ASIS-MAPPING	A|E		Y
+AE_CODE	ko	B	바이어패키지	7	D	주문작성시에만 변경하고 그전에 아울렛상태로 관리	ETC2-ASIS-MAPPING			Y
+AE_CODE	ko	C	스크랩	10	S	class=S:판매전환	ETC2-ASIS-MAPPING	C		Y
+AE_CODE	ko	D	패키지경매	5	D	class=D:패키지	ETC2-ASIS-MAPPING	D		Y
+AE_CODE	ko	E	수출비딩	6	D	주문작성시에만 변경하고 그전에 아울렛상태로 관리	ETC2-ASIS-MAPPING			Y
+AE_CODE	ko	F	판매전환	11	S		ETC2-ASIS-MAPPING	B|F|W		Y
+AE_CODE	ko	L	라스트패키지	8	D	주문작성시에만 변경하고 그전에 아울렛상태로 관리	ETC2-ASIS-MAPPING			Y
+AE_CODE	ko	M	상품보류	12	X	판매중지	ETC2-ASIS-MAPPING	M		Y
+AE_CODE	ko	O	아울렛	3	O	class=O:아울렛	ETC2-ASIS-MAPPING	O		Y
+AE_CODE	ko	P	프리미엄	1	P	class=P:프리미엄	ETC2-ASIS-MAPPING	P|V		Y
+AE_CODE	ko	S	특가판매	4	O		ETC2-ASIS-MAPPING	S		Y
+AE_CODE	ko	X	에러	13	X	class=X:에러및판매중지	ETC2-ASIS-MAPPING			Y
+AGRA_DIVISION	ko	SCT	윤리실천특별약관	4	*					Y
+AGRA_DIVISION	ko	auctionT	재고품 경매약관	5	*					N
+AGRA_DIVISION	ko	buyAgre	구매사 약관	1	*					Y
+AGRA_DIVISION	ko	personinfo	개인정보 처리방침	3	*					Y
+AGRA_DIVISION	ko	sellAgre	공급사 약관	2	*					Y
+AMT_UNIT	ko	1	1	1	*					Y
+AN_DELIMETER	ko	B1	빌렛	13	B	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/SL01.jpg		55	N
+AN_DELIMETER	ko	BP	BP    	10	S	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/BP01.jpg		55	Y
+AN_DELIMETER	ko	CG	CG    	4	C	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/CG01.jpg		55	Y
+AN_DELIMETER	ko	CR	CR    	3	C	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/CR01.jpg		55	Y
+AN_DELIMETER	ko	EG	EG    	6	C	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/EG01.jpg		55	Y
+AN_DELIMETER	ko	FH	FH    	8	C	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/FH01.jpg		55	Y
+AN_DELIMETER	ko	GN	전기강판	9	G	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/ES01.jpg		55	Y
+AN_DELIMETER	ko	H1	열연	1	H	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/HR01.jpg		55	Y
+AN_DELIMETER	ko	HG	HG	7	C	Class=PRODUCT_CODE | GI(H) --> HG 원복 | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/HG01.jpg		55	Y
+AN_DELIMETER	ko	P1	후판	2	P	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/SP01.jpg		45	Y
+AN_DELIMETER	ko	PO	PO    	5	C	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/PO01.jpg		55	Y
+AN_DELIMETER	ko	QC	STS CR	15	Q	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/STSCR01.jpg		55	Y
+AN_DELIMETER	ko	QH	STS HR	14	Q	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/STSHR01.jpg		55	Y
+AN_DELIMETER	ko	TP	TP    	11	S	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/TP01.jpg		55	N
+AN_DELIMETER	ko	W1	선재	12	W	Class=PRODUCT_CODE | ETC1:메인화면아울렛에 사용될 이미지 | ETC3:class이전값	../../front/img/esales/WR01.jpg		60	Y
+AREA_CODE	ko	02	서울	1	*					Y
+AREA_CODE	ko	031	경기도	2	*					Y
+AREA_CODE	ko	032	인천광역시	3	*					Y
+AREA_CODE	ko	033	강원도	4	*					Y
+AREA_CODE	ko	041	충청남도	5	*					Y
+AREA_CODE	ko	042	대전광역시	6	*					Y
+AREA_CODE	ko	043	충청북도	7	*					Y
+AREA_CODE	ko	044	세종특별자치시	8	*					Y
+AREA_CODE	ko	051	부산광역시	9	*					Y
+AREA_CODE	ko	052	울산광역시	10	*					Y
+AREA_CODE	ko	053	대구광역시	11	*					Y
+AREA_CODE	ko	054	경상북도	12	*					Y
+AREA_CODE	ko	055	경상남도	13	*					Y
+AREA_CODE	ko	061	광주광역시	14	*					Y
+AREA_CODE	ko	062	전라남도	15	*					
+AREA_CODE	ko	063	전라북도	16	*					Y
+AREA_CODE	ko	064	제주특별자치도	17	*					Y
+AREA_CODE	ko	070	070	90	*					
+AUCTION_DATE_FLAG	ko	ALL	오전,오후	1	*					Y
+AUCTION_DATE_FLAG	ko	AM	오전경매FLAG	2	*					Y
+AUCTION_DATE_FLAG	ko	PM	오후경매FLAG	3	*					Y
+AUCTION_DATE_FLAG	ko	aa	aa		*					N
+AUCTION_METHOD	ko	1	일괄구매방식	1	*					Y
+AUCTION_METHOD	ko	2	최소낙찰량방식	2	*					Y
+AUCTION_METHOD	ko	3	물량 할인/할증방식	3	*					Y
+AUCTION_PROGRESS_STATUS	ko	1	오픈대기	1	*	경매, 아울렛 진행을 대기중인 상태				Y
+AUCTION_PROGRESS_STATUS	ko	2	진행중	2	*	경매, 아울렛이 현재 진행중인 상태				Y
+AUCTION_PROGRESS_STATUS	ko	3	마감중	3	*	낙찰등 Job을 돌리고 있는 상태				Y
+AUCTION_PROGRESS_STATUS	ko	4	종료	4	*	낙찰 및 입금요청서편성까지 모든 작업이 끝난 상태				Y
+AUCTION_SCHEDULE_WEEKDAY	ko	2	월	1	*					Y
+AUCTION_SCHEDULE_WEEKDAY	ko	3	화	2	*					Y
+AUCTION_SCHEDULE_WEEKDAY	ko	4	수	3	*					Y
+AUCTION_SCHEDULE_WEEKDAY	ko	5	목	4	*					Y
+AUCTION_SCHEDULE_WEEKDAY	ko	6	금	5	*					Y
+AUCTION_TIME	ko	0900	AM 09:00	1	A					Y
+AUCTION_TIME	ko	1000	AM 10:00	2	A					Y
+AUCTION_TIME	ko	1100	AM 11:00	3	A					Y
+AUCTION_TIME	ko	1200	PM 12:00	4	A					Y
+AUCTION_TIME	ko	1300	PM 01:00	5	P					Y
+AUCTION_TIME	ko	1400	PM 02:00	6	P					Y
+AUCTION_TIME	ko	1500	PM 03:00	7	P					Y
+AUCTION_TIME	ko	1600	PM 04:00	8	P					Y
+AUCTION_TIME_MINUTE	ko	00	00	1	*					
+AUCTION_TIME_MINUTE	ko	10	10	2	*					
+AUCTION_TIME_MINUTE	ko	20	20	3	*					
+AUCTION_TIME_MINUTE	ko	30	30	4	*					
+AUCTION_TIME_MINUTE	ko	40	40	5	*					
+AUCTION_TIME_MINUTE	ko	50	50	6	*					
+AUCTION_TYPE	ko	A	경매	1	*					Y
+AUCTION_TYPE	ko	S	선착순	2	*					Y
+BANK_NUMBER	ko	02	한국산업은행	38	*	한국산업은행				Y
+BANK_NUMBER	ko	03	IBK기업은행	6	*	IBK기업은행				Y
+BANK_NUMBER	ko	04	KB국민은행	4	*	KB국민은행				Y
+BANK_NUMBER	ko	05	KEB하나은행(구 외환)	37	*	KEB하나은행(구 외환)				Y
+BANK_NUMBER	ko	06	KB국민은행 (구 주택)	5	*	KB국민은행 (구 주택)				Y
+BANK_NUMBER	ko	07	수협중앙회	15	*	수협중앙회				Y
+BANK_NUMBER	ko	11	NH농협은행	7	*	NH농협은행				Y
+BANK_NUMBER	ko	12	단위농협	9	*	단위농협				Y
+BANK_NUMBER	ko	16	축협중앙회	32	*	축협중앙회				Y
+BANK_NUMBER	ko	20	우리은행	27	*	우리은행				Y
+BANK_NUMBER	ko	21	신한은행(구 조흥)	26	*	신한은행(구 조흥)				Y
+BANK_NUMBER	ko	22	상업은행	17	*	상업은행				Y
+BANK_NUMBER	ko	23	SC제일은행	30	*	SC제일은행				Y
+BANK_NUMBER	ko	24	한일은행	41	*	한일은행				Y
+BANK_NUMBER	ko	25	서울은행	20	*	서울은행				Y
+BANK_NUMBER	ko	26	신한은행(구 신한)	25	*	신한은행(구 신한)				Y
+BANK_NUMBER	ko	27	한국씨티은행(구 한미)	40	*	한국씨티은행(구 한미)				Y
+BANK_NUMBER	ko	31	대구은행	10	*	대구은행				Y
+BANK_NUMBER	ko	32	부산은행	13	*	부산은행				Y
+BANK_NUMBER	ko	34	광주은행	3	*	광주은행				Y
+BANK_NUMBER	ko	35	제주은행	31	*	제주은행				Y
+BANK_NUMBER	ko	37	전북은행	29	*	전북은행				Y
+BANK_NUMBER	ko	38	강원은행	1	*	강원은행				Y
+BANK_NUMBER	ko	39	경남은행	2	*	경남은행				Y
+BANK_NUMBER	ko	41	비씨카드	14	*	비씨카드				Y
+BANK_NUMBER	ko	45	새마을금고	19	*	새마을금고				Y
+BANK_NUMBER	ko	48	신협	23	*	신협				Y
+BANK_NUMBER	ko	50	상호저축은행	18	*	상호저축은행				Y
+BANK_NUMBER	ko	53	한국씨티은행	39	*	한국씨티은행				Y
+BANK_NUMBER	ko	54	홍콩상하이은행	42	*	홍콩상하이은행				Y
+BANK_NUMBER	ko	55	도이치은행	11	*	도이치은행				Y
+BANK_NUMBER	ko	56	ABN암로	43	*	ABN암로				Y
+BANK_NUMBER	ko	57	JP모건	45	*	JP모건				Y
+BANK_NUMBER	ko	59	미쓰비시도쿄은행	12	*	미쓰비시도쿄은행				Y
+BANK_NUMBER	ko	60	BOA(Bank Of America)	44	*	BOA(Bank Of America)				Y
+BANK_NUMBER	ko	64	산림조합	16	*	산림조합				Y
+BANK_NUMBER	ko	70	신안상호저축은행	22	*	신안상호저축은행				Y
+BANK_NUMBER	ko	71	우체국	28	*	우체국				Y
+BANK_NUMBER	ko	81	KEB 하나은행	36	*	KEB 하나은행				Y
+BANK_NUMBER	ko	83	평화은행	35	*	평화은행				Y
+BANK_NUMBER	ko	87	신세계	21	*	신세계				Y
+BANK_NUMBER	ko	88	신한은행	24	*	신한은행				Y
+BANK_NUMBER	ko	89	케이뱅크은행	34	*	케이뱅크은행				Y
+BANK_NUMBER	ko	90	카카오뱅크	33	*	카카오뱅크				Y
+BBS_CATEGORY_NAME	ko	A	전체	0	*					Y
+BBS_CATEGORY_NAME	ko	C	회원사	1	*					Y
+BIDDING_METHOD	ko	N	Open경매	2	*					Y
+BIDDING_METHOD	ko	Y	Blind경매	1	*					Y
+BUYER_CNT	ko	20	바이어제안등록 유찰횟수	1	*					
+CANCEL_PROCESS_STATUS	ko	01	대기	0	*	사용자취소요청 요청상태				Y
+CANCEL_PROCESS_STATUS	ko	D1	사용자요청취소	1	*	사용자취소요청 승인상태				Y
+CANCEL_PROCESS_STATUS	ko	DC	반려	2	*	사용자취소요청 반려상태				Y
+CANCEL_PROCESS_STATUS	ko	S1	시스템취소(제재대상)	8	*	미입금, 주문미작성 등 제재대상 시스템취소				Y
+CANCEL_PROCESS_STATUS	ko	Z1	시스템취소(제재미대상)	9	*	낙찰최소중량 등 시스템에 의한 취소				Y
+CANCEL_REASON_CODE	ko	A	낙찰가오류	1	D1					Y
+CANCEL_REASON_CODE	ko	B	재질상이	2	D1					Y
+CANCEL_REASON_CODE	ko	C	자금부족	3	D1					Y
+CANCEL_REASON_CODE	ko	D	기타	4	D1					Y
+CANCEL_REASON_CODE	ko	E	열연PLATE중량미달	5	D1					Y
+CANCEL_REASON_CODE	ko	F	광폭재중량미달	6	D1					Y
+CANCEL_REASON_CODE	ko	G	최소낙찰량미달	7	D1					Y
+CANCEL_REASON_CODE	ko	X	미입금	1	S1					Y
+CANCEL_REASON_CODE	ko	Y	주문미작성	2	S1					Y
+CARRIER_COMPANY_CD	ko	V100001	(주)로덱스	1	N					Y
+CARRIER_COMPANY_CD	ko	V100009	(주)동방	2	N					Y
+CARRIER_COMPANY_CD	ko	V100184	해동기업(주)	3	Y					Y
+CARRIER_TYPE	ko	1	공로운송	1	*					Y
+CELL_TELL_AREA_CODE	ko	010	010	1	*					Y
+CELL_TELL_AREA_CODE	ko	011	011	2	*					Y
+CELL_TELL_AREA_CODE	ko	016	016	3	*					Y
+CELL_TELL_AREA_CODE	ko	017	017	4	*					Y
+CELL_TELL_AREA_CODE	ko	018	018	5	*					Y
+CELL_TELL_AREA_CODE	ko	019	019	6	*					Y
+CITY_PROVINCE_CD	ko	0SL%	서울특별시	1	CITY					Y
+CITY_PROVINCE_CD	ko	10000	시도선택		CITY					Y
+CITY_PROVINCE_CD	ko	10CN%	충청남도	11	CITY					Y
+CITY_PROVINCE_CD	ko	11JB%	전라북도	12	CITY					Y
+CITY_PROVINCE_CD	ko	12JN%	전라남도	13	CITY					Y
+CITY_PROVINCE_CD	ko	13KB%	경상북도	14	CITY					Y
+CITY_PROVINCE_CD	ko	14KN%	경상남도	15	CITY					Y
+CITY_PROVINCE_CD	ko	1JN010	광주광역시	2	CITY					Y
+CITY_PROVINCE_CD	ko	2KB01%	대구광역시	3	CITY					Y
+CITY_PROVINCE_CD	ko	3CN010	대전광역시	4	CITY					Y
+CITY_PROVINCE_CD	ko	4PS%	부산광역시	5	CITY					Y
+CITY_PROVINCE_CD	ko	5KN02%	울산광역시	6	CITY					Y
+CITY_PROVINCE_CD	ko	6KK02%	인천광역시	7	CITY					Y
+CITY_PROVINCE_CD	ko	7KK%	경기도	8	CITY					Y
+CITY_PROVINCE_CD	ko	8KW%	강원도	9	CITY					Y
+CITY_PROVINCE_CD	ko	9CB%	충청북도	10	CITY					Y
+CONF_FLAG	ko	N	미확정	2	*					Y
+CONF_FLAG	ko	Y	확정	1	*					Y
+CONTRACT_KIND	ko	purchase	구매사 계약	1	*					Y
+CONTRACT_KIND	ko	sales	공급사 계약	2	*					Y
+COUNTURY_CODE	ko	KOR	대한민국	0	*					Y
+CURRENCY_CODE	ko	KRW	KRW	1	*					Y
+CURRENCY_CODE	ko	USD	USD	2	*					Y
+CUSTOMER_ERP_REG_STATUS	ko	00	승인대기	1	*					Y
+CUSTOMER_ERP_REG_STATUS	ko	01	승인처리중	2	*					Y
+CUSTOMER_ERP_REG_STATUS	ko	02	반려	3	*					Y
+CUSTOMER_ERP_REG_STATUS	ko	03	승인요청중	4	*					Y
+CUSTOMER_ERP_REG_STATUS	ko	04	승인완료	5	*					Y
+CUSTOMER_ERP_REG_STATUS	ko	05	비요청대상	6	*					Y
+CUSTOMER_FLAG	ko	C	구매사	1	*					Y
+CUSTOMER_FLAG	ko	T	운송사	3	*					Y
+CUSTOMER_FLAG	ko	V	공급사	2	*					Y
+CUSTOMER_TYPE	ko	C	회사	2	*					Y
+CUSTOMER_TYPE	ko	I	개인	1	*					Y
+CUST_DELV_YN	ko	N	불가능	1	*					Y
+CUST_DELV_YN	ko	Y	가능	0	*					Y
+CUST_USER_CODE	ko	O	관리자	1	*					Y
+CUST_USER_CODE	ko	T	운송기사	2	*					Y
+DATE_FLAG	ko	A	요청일자	1	PRE					Y
+DATE_FLAG	ko	B	희망결제일	2	PRE					Y
+DATE_FLAG	ko	C	B/L Date	1	SH					Y
+DATE_FLAG	ko	D	매출계상일	2	SH					Y
+DATE_FLAG	ko	E	작성일자	1	OR_CE					Y
+DATE_FLAG	ko	F	선적일자	2	OR_CE					Y
+DATE_TYPE	ko	ORDER	주문접수일	2	*					Y
+DATE_TYPE	ko	SUBMIT	주문확정일	1	*					Y
+DELIVERY_AREA_CD	ko	A	동남아시아	1	*					Y
+DELIVERY_AREA_CD	ko	ALL	Total	0	*					Y
+DELIVERY_AREA_CD	ko	C	중국	2	*					Y
+DELIVERY_AREA_CD	ko	E	유럽	3	*					Y
+DELIVERY_AREA_CD	ko	J	일본	4	*					Y
+DELIVERY_AREA_CD	ko	K	한국	5	*					Y
+DELIVERY_AREA_CD	ko	S	서남아	6	*					Y
+DELIVERY_AREA_CD	ko	U	미주	7	*					Y
+DELIVERY_AREA_CD	ko	Z	기타	8	*					Y
+DELI_EQUIPMENT_CD	ko	A1	일반트럭	1	*					Y
+DELI_EQUIPMENT_CD	ko	B1	카고트럭	2	*					Y
+DELI_EQUIPMENT_CD	ko	C1	트레일러	3	*					Y
+DELI_EQUIPMENT_TYPE	ko	15	15톤	1	*					Y
+DELI_EQUIPMENT_TYPE	ko	24	24톤	2	*					Y
+DELI_EQUIPMENT_TYPE	ko	27	27톤	3	*					Y
+DELI_EQUIPMENT_TYPE	ko	30	30톤	4	*					Y
+DEPOSIT_DAY_CNT	ko	DAY_CNT	3	0	*	입금가능일수				Y
+DEPOSIT_KIND	ko	01	주문취소	0	*	PG사의주문취소				Y
+DEPOSIT_KIND	ko	02	구매취소	1	*	PG사의구매취소				Y
+DEPOSIT_KIND	ko	03	미입금	2	*	PG사의미입금				Y
+DEPOSIT_KIND	ko	04	입금완료	3	*	PG사의입금완료				Y
+DEPOSIT_TP	ko	1	입금	1	*					Y
+DEPOSIT_TP	ko	2	미입금	2	*					Y
+DEPT_CODE	ko	BB050	테스트부서1	1	*					
+DEPT_CODE	ko	BM980	테스트부서2	2	*					
+DEPT_CODE	ko	BM990	테스트부서3	3	*					
+DEPT_CODE	ko	CA097	테스트부서4	4	*					
+DEPT_CODE	ko	CA145	테스트부서5	5	*					
+DEPT_CODE	ko	WA810	테스트부서6	6	*					
+DESTINATION_USE_YN	ko	N	미사용	1	*	도착지 미사용				Y
+DESTINATION_USE_YN	ko	Y	사용	0	*	도착지 사용				Y
+DETAIL_ARRIVAL_REGISTER	ko	60181	PLMMGR	50370	222					Y
+DETL_SVC_TCD	ko	NTD	공로운송(부적)	3	*					Y
+DETL_SVC_TCD	ko	NTR	공로운송(대당기준)	2	*					Y
+DETL_SVC_TCD	ko	NTT	공로운송(주문기준)	1	*					Y
+DISTRI_WH_CD	ko	WBB	부곡	5	*					Y
+DISTRI_WH_CD	ko	WMM	마산	4	*					Y
+DISTRI_WH_CD	ko	WNN	인천	1	*					Y
+DISTRI_WH_CD	ko	WPP	평택	3	*					Y
+DISTRI_WH_CD	ko	WSS	시화	2	*					Y
+DISTRI_WH_CD	ko	WTK	포항연관단지	6	*					Y
+DISTRI_WH_CD	ko	WTT	포항부두임항	7	*					Y
+DML_TYPE	ko	A	추가	1	*					Y
+DML_TYPE	ko	D	삭제	3	*					Y
+DML_TYPE	ko	U	수정	2	*					Y
+DOWNLOAD_CENTER_TP	ko	1	광양	1	B7031B7032B7033B7034					Y
+DOWNLOAD_CENTER_TP	ko	2	포항	2	B7031B7032B7033B7034					Y
+DOWNLOAD_CENTER_TP	ko	C	냉연	3	B7060					Y
+DOWNLOAD_CENTER_TP	ko	E	전강	6	B7060					Y
+DOWNLOAD_CENTER_TP	ko	ENG	ENGLISH	2	B7051B7052					Y
+DOWNLOAD_CENTER_TP	ko	H	열연	2	B7060					Y
+DOWNLOAD_CENTER_TP	ko	KOR	KOREAN	1	B7051B7052					Y
+DOWNLOAD_CENTER_TP	ko	M	마그네슘	8	B7060					Y
+DOWNLOAD_CENTER_TP	ko	P	후판	4	B7060					Y
+DOWNLOAD_CENTER_TP	ko	S	STS	7	B7060					Y
+DOWNLOAD_CENTER_TP	ko	T	공통	1	B7060					Y
+DOWNLOAD_CENTER_TP	ko	W	선재	5	B7060					Y
+ERP_RETURN	ko	10	ERP 코드 수신	1	*	ERP 코드 수신				Y
+ERP_RETURN	ko	20	계좌번호 수신	2	*	계좌번호 수신				Y
+ERP_RETURN	ko	30	반려처리 수신	3	*	반려처리 수신				Y
+ESALES_CANCEL	ko	01027125346	e-Sales 낙찰취소담당자	3	차보훈					
+ESALES_CANCEL	ko	01051776105	e-Sales 낙찰취소담당자	4	김재조					
+ESALES_CANCEL	ko	01065396619	e-Sales 낙찰취소담당자	2	김금주					
+ESALES_CANCEL	ko	01090887616	e-Sales 낙찰취소담당자	1	정우준					
+ESALES_CHK	ko	esales12@poscointl.com	e-Sales 가격체크 담당자	1	고명환					Y
+ESALES_CHK	ko	esales31@poscointl.com	e-Sales 가격체크 담당자	2	김창중					Y
+EXCEL_EXPOTED_FLAG	ko	0	JSP Download	0	*					Y
+EXPORT_PRODUCT_GROUP	ko	A	도금	3	A1	도금 제품 수출				Y
+EXPORT_PRODUCT_GROUP	ko	B	냉연도금	5	B1	냉연도금 제품 수출				Y
+EXPORT_PRODUCT_GROUP	ko	C	냉연	1	C1	냉연 제품 수출				Y
+EXPORT_PRODUCT_GROUP	ko	H	열연	4	H1	열연 제품 수출				Y
+EXPORT_PRODUCT_GROUP	ko	P	후판	2	P1	후판 제품 수출				Y
+EXTRA_STD_CODE	ko	CYBER_PRD_LTH	길이	3	R		code-class=S:지정-SCOM511/R:범위-SCOM510			Y
+EXTRA_STD_CODE	ko	CYBER_PRD_WGT	중량(kg)	5	R		code-class=S:지정-SCOM511/R:범위-SCOM510			N
+EXTRA_STD_CODE	ko	C_ST_CONST_C_RST	탄소	10	R		code-class=S:지정-SCOM511/R:범위-SCOM510			N
+EXTRA_STD_CODE	ko	C_ST_CONST_MN_RST	망간	11	R		code-class=S:지정-SCOM511/R:범위-SCOM510			N
+EXTRA_STD_CODE	ko	EDGE_FLAG	EDGE	31	*					Y
+EXTRA_STD_CODE	ko	LAST_OUT_ORDER_OCCUR_CAU_CD	원인코드	20	S	TB_S20_SAUC040.최초주문외발생원인코드	code-class=S:지정-SCOM511/R:범위-SCOM510			Y
+EXTRA_STD_CODE	ko	PRD_THK	두께	1	R		code-class=S:지정-SCOM511/R:범위-SCOM510			Y
+EXTRA_STD_CODE	ko	PRD_WTH	폭	2	R		code-class=S:지정-SCOM511/R:범위-SCOM510			Y
+EXTRA_STD_CODE	ko	SUBST_SPEC_CD_N1	규격	30	S	TB_S20_SAUC040.대체규격약호	code-class=S:지정-SCOM511/R:범위-SCOM510			Y
+EXTRA_STD_CODE	ko	TSL_TEST_TS	Ts	12	R		code-class=S:지정-SCOM511/R:범위-SCOM510			N
+EXT_APPR_TOT_GRD	ko	1	주문외 1급		*					Y
+EXT_APPR_TOT_GRD	ko	2	주문외 2급		*					Y
+EXT_APPR_TOT_GRD	ko	5	급외품		*					Y
+EXT_APPR_TOT_GRD	ko	7	부생품		*					Y
+EXT_TOT_JDG_GD	ko	1	주문외 1급	1	*					Y
+EXT_TOT_JDG_GD	ko	2	주문외 2급	2	*					Y
+EXT_TOT_JDG_GD	ko	5	급외품	3	*					Y
+EXT_TOT_JDG_GD	ko	7	부생품	4	*					Y
+FAQ_POST_TYPE	ko	01	제품문의	1	*					N
+FAQ_POST_TYPE	ko	02	재고문의	2	*					N
+FAQ_POST_TYPE	ko	03	주문문의	3	*					N
+FAQ_POST_TYPE	ko	04	출하문의	4	*					N
+FAQ_POST_TYPE	ko	05	회원정보,로그인문의	5	*					Y
+FAQ_POST_TYPE	ko	06	경매문의	6	*					N
+FAQ_POST_TYPE	ko	07	기타문의	7	*					N
+FAQ_POST_TYPE	ko	08	회원가입 문의	0	*					Y
+FAQ_POST_TYPE	ko	09	입찰 방법문의	8	*					Y
+FAQ_POST_TYPE	ko	10	낙찰,주문문의	9	*					Y
+FAQ_POST_TYPE	ko	11	제품등록 문의	10	*					Y
+FAQ_POST_TYPE	ko	12	제품정산 문의	11	*					Y
+FAQ_USE_SEPERATE	ko	CM	서비스 공통	0	*					Y
+FAQ_USE_SEPERATE	ko	ES	e-Sales	1	*					Y
+FAQ_USE_SEPERATE	ko	OM	Open Market	2	*					Y
+FAST_RATE	ko	103	즉시낙찰	1	*		103			Y
+FEW_WEEKS	ko	1	1주차	0	*					Y
+FEW_WEEKS	ko	2	2주차	1	*					Y
+FEW_WEEKS	ko	3	3주차	2	*					Y
+FEW_WEEKS	ko	4	4주차	3	*					Y
+FIX_YN	ko	N	N	0	*					Y
+FIX_YN	ko	Y	Y	0	*					Y
+FREIGHT_BASIS_CD	ko	A	톤당	1	*					Y
+FREIGHT_BASIS_CD	ko	B	대당	2	*					Y
+FREIGHT_QUARTER	ko	1	1분기	1	*					Y
+FREIGHT_QUARTER	ko	2	2분기	2	*					Y
+FREIGHT_QUARTER	ko	3	3분기	3	*					Y
+FREIGHT_QUARTER	ko	4	4분기	4	*					Y
+GCS_COMP_CODE	ko	00	포스코인터내셔날	1	*					Y
+GRID_CD	ko	allpage	전체	1	DOWNLOAD					Y
+GRID_CD	ko	currentpage	화면	0	DOWNLOAD					Y
+GRID_CD	ko	fix	틀고정	0	GRID					Y
+GRID_CD	ko	hide	숨기기	3	GRID					Y
+GRID_CD	ko	multisort	다중선택정렬	2	GRID					Y
+GRID_CD	ko	release	틀고정취소	1	GRID					Y
+GRID_CD	ko	reset	해제	2	DOWNLOAD					Y
+GRID_CD	ko	restore	전체항목보기	1	show					Y
+GRID_CD	ko	show	숨기기취소	4	GRID					Y
+G_GCS_COMP_CODE	ko	01	포스코	4	MAP_4					Y
+G_GCS_COMP_CODE	ko	76	인도	2	MAP_2					Y
+G_GCS_COMP_CODE	ko	97	베트남	3	MAP_3					Y
+G_GCS_COMP_CODE	ko	98	멕시코	1	MAP_1					Y
+G_GCS_COMP_CODE	ko	Q8	인니	5	MAP_5					Y
+IMG_PERPOSE_USE	ko	M	Mobile	1	*					Y
+IMG_PERPOSE_USE	ko	P	PC	0	*					Y
+IMG_USE_TYPE	ko	AM	관리자메인	2	*					Y
+IMG_USE_TYPE	ko	FM	사용자메인	1	*					Y
+IMG_YN	ko	N	미사용	2	*					Y
+IMG_YN	ko	Y	사용	1	*					Y
+INV_CD	ko	1A024 	A5 / 1A024 	20	VESSEL					Y
+INV_CD	ko	1A025	A6 / 1A025	16	VESSEL					Y
+INV_CD	ko	1A055	AQUAMARINE SW / 1A055	11	VESSEL					Y
+INV_CD	ko	1A084	AEC ABILITY / 1A084 	14	VESSEL					Y
+INV_CD	ko	1C069	COREWISE OL / 1C069	18	VESSEL					Y
+INV_CD	ko	1C078	COPACABANA / 1C078	9	VESSEL					Y
+INV_CD	ko	1D028	DAYDREAM BELIEVER / 1D028	10	VESSEL					Y
+INV_CD	ko	1I016	ISS BREEZE / 1I016	8	VESSEL					Y
+INV_CD	ko	1I021	ISS BREEZE / 1I021	19	VESSEL					Y
+INV_CD	ko	1I026	IKAN LEBAN / 1I026 	15	VESSEL					Y
+INV_CD	ko	1JD01	DELTA PRIDE / 1JD01	2	VESSEL					Y
+INV_CD	ko	1JD02	NEW HORIZON / 1JD02	1	VESSEL					Y
+INV_CD	ko	1JH01	PACIFIC SUCCESS / 1JH01	3	VESSEL					Y
+INV_CD	ko	1JJ01	HJ PITTSBURG / 1JJ01	4	VESSEL					Y
+INV_CD	ko	1L001	LA BAMBA / 1L001	5	VESSEL					Y
+INV_CD	ko	1LTB3	TBNJ12	156	6					Y
+INV_CD	ko	1O034	Ocean Crystal / 1O034	7	VESSEL					Y
+INV_CD	ko	1O126	OCEAN VOYAGER / 1O126	13	VESSEL					Y
+INV_CD	ko	1O144	BASIC CHALLENGER / 1O144	17	VESSEL					Y
+INV_CD	ko	1O166	OCEAN ECHO / 1O166	21	VESSEL					Y
+INV_CD	ko	1P022	PACIFIC SUCCESS / 1P022	6	VESSEL					Y
+INV_CD	ko	1T108	ISS BREEZE / 1T108 	12	VESSEL					Y
+INV_CD	ko	FDA	PO COIL	12	PRODUCT					Y
+INV_CD	ko	FFB	Full Hard(FB)	2	PRODUCT					Y
+INV_CD	ko	FHD	Hot Band(HD)	1	PRODUCT					Y
+INV_CD	ko	FHL	MINIMILL COIL(HL)	3	PRODUCT					Y
+INV_CD	ko	HFA	POSMAC(ZN-MG-AL COATED) COIL	11	PRODUCT					Y
+INV_CD	ko	M/T	Metric	1	UOM					Y
+INV_CD	ko	N/T	Net	2	UOM					Y
+INV_CD	ko	RCAG	STS CR AP COIL	10	PRODUCT					Y
+LANGUAGE_TYPE	ko	en	영어	2	*					Y
+LANGUAGE_TYPE	ko	ko	한국어	1	*					Y
+LCC_CD	ko	10A1	공로운송비	1	*					Y
+LCOPERATOR	ko	NO1	최홍석,02-3457-0709	1	*					Y
+LICENSE_YN	ko	1	유	0	*					Y
+LICENSE_YN	ko	2	무	1	*					Y
+LOCATION_INFO	ko	C	중국	1	*					Y
+LOCATION_INFO	ko	K	국내	0	*					Y
+LOCATION_INFO	ko	M	해당없음	2	*					Y
+LOGI_FC_DDY_TP_CD	ko	T0101	육송	1	T01					Y
+LOGI_FC_DDY_TP_CD	ko	T0104	이송	2	T01					Y
+LOGI_FC_DDY_TP_CD	ko	T0107	후판할증	3	T01					Y
+LOGI_FC_DDY_TP_CD	ko	T0108	부적운임	4	T01					Y
+LOGI_FC_DDY_TP_CD	ko	T0201	전자입찰	1	T02					Y
+LOGI_TRS_AGM_BUSI_TP	ko	A	역내판매운송	1	*					Y
+LOGI_TRS_AGM_STAT_TP	ko	Validity	Validity	1	*					Y
+MAIL_AREA_CODE	ko	gmail.com	gmail.com	5	*					Y
+MAIL_AREA_CODE	ko	hotmail.net	hotmail.net	3	*					Y
+MAIL_AREA_CODE	ko	i	직접입력	1	*					Y
+MAIL_AREA_CODE	ko	nate.com	nate.com	4	*					Y
+MAIL_AREA_CODE	ko	naver.com	naver.com	2	*					Y
+MAIL_SENDER_ADDRESS	ko	emarket@posco.com	e-transaction 메일발송 주소	1	*					Y
+MAIN_NOTI_VIEW_YN	ko	N	미사용	1	*					Y
+MAIN_NOTI_VIEW_YN	ko	Y	사용	0	*					Y
+MAKER_CD	ko	KR01	포스코	1	*					Y
+MAKER_CD	ko	KR02	현대제철	4	*					Y
+MAKER_CD	ko	KR03	동국제강	5	*					Y
+MAKER_CD	ko	KR04	기타	8	*					Y
+MAKER_CD	ko	KR05	포스코 강판	2	*					Y
+MAKER_CD	ko	KR06	포스코 대우 (포스코AST)	3	*					Y
+MAKER_CD	ko	KR07	동부제철	6	*					Y
+MAKER_CD	ko	KR08	세아제강 (세아창원특수강)	7	*					Y
+MENU_TYPE	ko	A	관리자	1	*					Y
+MENU_TYPE	ko	C	고객센터	4	*					Y
+MENU_TYPE	ko	F	사용자	2	*					Y
+MENU_TYPE	ko	M	마이페이지	3	*					Y
+MENU_TYPE	ko	Mobile	모바일	5	*					Y
+MENU_TYPE	ko	N	(null)	5	*					N
+METAFRAME_IP	ko	172.18.50.233	IP23	23	*					Y
+METAFRAME_IP	ko	172.31.22.173	IP12	12	*					Y
+METAFRAME_IP	ko	172.31.35.47	IP24	20	*					Y
+METAFRAME_IP	ko	172.31.35.68	IP19	19	*					Y
+METAFRAME_IP	ko	172.31.35.69	IP20	20	*					Y
+METAFRAME_IP	ko	172.31.35.70	IP21	21	*					Y
+METAFRAME_IP	ko	172.31.35.71	IP22	22	*					Y
+METAFRAME_IP	ko	172.31.50.51	IP1	1	*					Y
+METAFRAME_IP	ko	172.31.50.52	IP2	2	*					Y
+METAFRAME_IP	ko	172.31.50.53	IP3	3	*					Y
+METAFRAME_IP	ko	172.31.50.54	IP4	4	*					Y
+METAFRAME_IP	ko	172.31.50.55	IP5	5	*					Y
+METAFRAME_IP	ko	172.31.50.56	IP6	6	*					Y
+METAFRAME_IP	ko	172.31.50.57	IP7	7	*					Y
+METAFRAME_IP	ko	172.31.50.58	IP8	8	*					Y
+METAFRAME_IP	ko	172.31.50.59	IP9	9	*					Y
+METAFRAME_IP	ko	172.31.50.60	IP10	10	*					Y
+METAFRAME_IP	ko	172.31.50.61	IP11	11	*					Y
+METAFRAME_IP	ko	172.31.50.62	IP13	13	*					Y
+METAFRAME_IP	ko	172.31.50.63	IP14	14	*					Y
+METAFRAME_IP	ko	172.31.50.64	IP15	15	*					Y
+METAFRAME_IP	ko	172.31.50.65	IP16	16	*					Y
+METAFRAME_IP	ko	172.31.50.66	IP17	17	*					Y
+METAFRAME_IP	ko	172.31.50.67	IP18	18	*					Y
+MONTH	ko	01	1월	1	RATE					Y
+MONTH	ko	02	2월	2	RATE					Y
+MONTH	ko	03	3월	3	RATE					Y
+MONTH	ko	04	4월	4	RATE					Y
+MONTH	ko	05	5월	5	RATE					Y
+MONTH	ko	06	6월	6	RATE					Y
+MONTH	ko	07	7월	7	RATE					Y
+MONTH	ko	08	8월	8	RATE					Y
+MONTH	ko	09	9월	9	RATE					Y
+MONTH	ko	10	10월	10	RATE					Y
+MONTH	ko	11	11월	11	RATE					Y
+MONTH	ko	12	12월	12	RATE					Y
+MSG_TYPE	ko	M	MAIL	1	*	MAIL/메일				Y
+MSG_TYPE	ko	S	SMS	0	*	SMS/문자				Y
+MSG_USE	ko	N	미사용	1	*	미사용				Y
+MSG_USE	ko	Y	사용	0	*	사용				Y
+NOTI_TYPE	ko	B	긴급	1	*					Y
+NOTI_TYPE	ko	N	일반	2	*					Y
+OBJECT_TYPE	ko	B	버튼	4	*					Y
+OBJECT_TYPE	ko	M	화면	1	*					Y
+OBJECT_TYPE	ko	P	팝업	2	*					Y
+OBJECT_TYPE	ko	U	URL	3	*					Y
+OM_ACT_ST	ko	BM	조치전	1	*	구매사 등록				Y
+OM_ACT_ST	ko	CI	완료	3	*	e-Sales 확인 완료				Y
+OM_ACT_ST	ko	CM	조치완료	2	*	공급사 또는 고객센터 조치완료				Y
+OM_AUC_TP	ko	B	블라인드	2	*	Bidding Price Blind Auction				Y
+OM_AUC_TP	ko	O	오픈	1	*	Bidding Price Open Auction				Y
+OM_BID_AMT_UNIT	ko	10	1	1	*					Y
+OM_BID_AMT_UNIT	ko	100	10	10	*					Y
+OM_BID_AMT_UNIT	ko	20	2	2	*					Y
+OM_BID_AMT_UNIT	ko	30	3	3	*					Y
+OM_BID_AMT_UNIT	ko	40	4	4	*					Y
+OM_BID_AMT_UNIT	ko	50	5	5	*					Y
+OM_BID_AMT_UNIT	ko	60	6	6	*					Y
+OM_BID_AMT_UNIT	ko	70	7	7	*					Y
+OM_BID_AMT_UNIT	ko	80	8	8	*					Y
+OM_BID_AMT_UNIT	ko	90	9	9	*					Y
+OM_BID_ST	ko	10	진행중	1	*	진행중				Y
+OM_BID_ST	ko	20	낙찰	2	*	낙찰				Y
+OM_BID_ST	ko	30	유찰	3	*	유찰				Y
+OM_BID_TIME	ko	END	1600	2	*	종료시간				Y
+OM_BID_TIME	ko	START	1000	1	*	시작시간				Y
+OM_FEE_CHANGE_SABUN	ko	10	1801311	1	*	중개수수료 변경 수신자 사번				Y
+OM_FEE_DIV	ko	A	정액	1	*	Fixed Amount				Y
+OM_FEE_DIV	ko	F	정률	2	*	Fixed Rate				Y
+OM_GDS_TP	ko	DU	불용	1	*	Disuse				Y
+OM_GDS_TP	ko	GP	정품	3	*	Genuine Product				Y
+OM_GDS_TP	ko	LT	장기재고	2	*	Long-term Inventory				Y
+OM_INQY_KIND	ko	CI	주문취소	1	*	PO Cancel Inquiry				Y
+OM_INQY_KIND	ko	DI	배송문의	2	*	Delivery Inquiry				Y
+OM_INQY_KIND	ko	ET	기타	5	*	ETC Inquiry				Y
+OM_INQY_KIND	ko	RF	환불요청	4	*	Refund Inquiry				Y
+OM_KDWON_ST	ko	10	진행중	1	*	사용유무 코드 사용				Y
+OM_KDWON_ST	ko	20	낙찰	2	*	사용유무 코드 사용				Y
+OM_KDWON_ST	ko	30	유찰	3	*	사용유무 코드 사용				Y
+OM_MKR_CD	ko	10	포스코	1	*	Posco				Y
+OM_MKR_CD	ko	20	포스코강판	2	*	Poscocnc				Y
+OM_MKR_CD	ko	30	제조사1	3	*	제조사1				Y
+OM_MKR_CD	ko	99	기타	99	*	기타				Y
+OM_MTRY_YN	ko	N	아니오	2	*	사용유무 코드 사용				Y
+OM_MTRY_YN	ko	Y	예	1	*	사용유무 코드 사용				Y
+OM_ORGN_CD	ko	D	국내산	1	*	Domestic				Y
+OM_ORGN_CD	ko	I	수입산	2	*	Imported				Y
+OM_PG_BANK	ko	03	기업은행	0	*					Y
+OM_PG_BANK	ko	04	KB국민은행	1	*					Y
+OM_PG_BANK	ko	06	국민은행 구&&#35;41;주택	2	*					Y
+OM_PG_BANK	ko	07	수협중앙회	3	*					Y
+OM_PG_BANK	ko	11	NH농협은행	4	*					Y
+OM_PG_BANK	ko	20	우리은행	5	*					Y
+OM_PG_BANK	ko	23	SC은행	6	*					Y
+OM_PG_BANK	ko	27	한국씨티은행	7	*					Y
+OM_PG_BANK	ko	31	대구은행	8	*					Y
+OM_PG_BANK	ko	32	부산은행	9	*					Y
+OM_PG_BANK	ko	34	광주은행	10	*					Y
+OM_PG_BANK	ko	39	경남은행	11	*					Y
+OM_PG_BANK	ko	71	우체국	12	*					Y
+OM_PG_BANK	ko	81	KEB 하나은행	13	*					Y
+OM_PG_BANK	ko	88	신한은행	14	*					Y
+OM_PG_CONFIG	ko	CL_MAIN	1	10	*	판매자유형:MAIN MALL				Y
+OM_PG_CONFIG	ko	CL_SUB	2	11	*	판매자유형:SUB MALL				Y
+OM_PG_CONFIG	ko	CURRENCY	WON	2	*	PG통화단위				Y
+OM_PG_CONFIG	ko	DAY_CNT	5	12	*	입금가능일수				Y
+OM_PG_CONFIG	ko	FLGURL	32	3	*	MID여부				Y
+OM_PG_CONFIG	ko	GET_ACCOUNT_PAYMETHOD	Vacct	5	*	계좌채번PAYMETHOD				Y
+OM_PG_CONFIG	ko	GET_ACCOUNT_TMINPUT	2359	6	*	계좌채번입금시간				Y
+OM_PG_CONFIG	ko	GET_ACCOUNT_TYPE	Pay	4	*	계좌채번TYPE				Y
+OM_PG_CONFIG	ko	GET_ACCOUNT_URL	https://iniapi.inicis.com/api/v1/formpay	13	*	계좌채번URL				Y
+OM_PG_CONFIG	ko	HASH_KEY	mjlwK11MhfPPOMui	1	*	PG hashkey				Y
+OM_PG_CONFIG	ko	MID	poscost001	0	*	PGID				Y
+OM_PG_CONFIG	ko	PG_BALANCE	https://iniweb.inicis.com/service/open/remit_funds.jsp	19	*	잔액수신URL				Y
+OM_PG_CONFIG	ko	PG_CANCEL	https://iniapi.inicis.com/api/v1/refund	18	*	주문취소수신URL				Y
+OM_PG_CONFIG	ko	PG_FEE	https://iniweb.inicis.com/mall/cr/urlsvc/UrlSendCalCulAll.jsp	17	*	수수료수신URL				Y
+OM_PG_CONFIG	ko	PG_RESULT	https://iniweb.inicis.com/service/open/remit_result.jsp	16	*	지급결과수신URL				Y
+OM_PG_CONFIG	ko	PG_SUBMIT	https://iniweb.inicis.com/DefaultWebApp/mall/cr/open/OpMallReqUrlConnection.jsp	15	*	지급대행요청URL				Y
+OM_PG_CONFIG	ko	REFUND_PAYMETHOD	GVacct	9	*	주문취소PAYMETHOD				Y
+OM_PG_CONFIG	ko	REFUND_TYPE	Refund	8	*	주문취소TYPE				Y
+OM_PG_CONFIG	ko	REMIT_RESULT_TYPE	1	7	*	지금결과TYPE				Y
+OM_PG_CONFIG	ko	SET_ACCOUNT_URL	https://iniweb.inicis.com/DefaultWebApp/mall/cr/open/OpMallUrlConnection.jsp	14	*	계좌동기화URL				Y
+OM_PG_INPUT_IP	ko	IP1	203.238.37.3	0	*	PG인입IP1				Y
+OM_PG_INPUT_IP	ko	IP2	203.238.37.15	1	*	PG인입IP2				Y
+OM_PG_INPUT_IP	ko	IP3	203.238.37.16	2	*	PG인입IP3				Y
+OM_PG_INPUT_IP	ko	IP4	203.238.37.25	3	*	PG인입IP4				Y
+OM_PG_INPUT_IP	ko	IP5	39.115.212.9	4	*	PG인입IP5				Y
+OM_PG_REGYN	ko	N	수정	1	*	계좌동기화수정				Y
+OM_PG_REGYN	ko	Y	신규	0	*	계좌동기화신규				Y
+OM_PG_SEND_MAIL	ko	PG1	esales26@poscointl.com	0	*	PG관련대응메일-양성우				N
+OM_PG_SEND_MAIL	ko	PG2	esales10@poscointl.com	1	*	PG관련대응메일-김창수				N
+OM_PG_SEND_MAIL	ko	PG3	esales39@poscointl.com	2	*	PG관련대응메일-이지수				N
+OM_PG_SEND_MAIL	ko	PG4	esales23@poscointl.com	3	*	PG관련대응메일-박성진				N
+OM_PG_SEND_TELNO	ko	PG1	01031366171	0	*	PG관련대응-양성우				Y
+OM_PG_SEND_TELNO	ko	PG2	01079138998	1	*	PG관련대응-김창수				N
+OM_PG_SEND_TELNO	ko	PG3	01054439518	2	*	PG관련대응-이지수				N
+OM_PG_SEND_TELNO	ko	PG4	01089848011	3	*	PG관련대응-박성진				N
+OM_PRD_REQ_ST	ko	CON	제품등록승인	3	*	Registration Confirm				Y
+OM_PRD_REQ_ST	ko	ECO	전시제외승인	6	*	Display Exclude Confirm				Y
+OM_PRD_REQ_ST	ko	ERE	전시제외요청	5	*	Display Exclude Request				Y
+OM_PRD_REQ_ST	ko	ERJ	전시제외반려	7	*	Display Exclude Reject				Y
+OM_PRD_REQ_ST	ko	REJ	제품등록반려	4	*	Registration Reject				Y
+OM_PRD_REQ_ST	ko	REQ	제품등록요청	2	*	Registration Request				Y
+OM_PRD_REQ_ST	ko	SAV	임시저장	1	*	Save				Y
+OM_PR_LINE_ST	ko	10	구매요청	1	*	Create PR	구매요청	구매요청		Y
+OM_PR_LINE_ST	ko	20	구매접수취소	2	*	Reject PR	구매접수취소	구매접수취소		Y
+OM_PR_LINE_ST	ko	30	구매확정요청	3	*	Request PR Confirm	구매확정요청	구매확정요청		Y
+OM_PR_LINE_ST	ko	40	구매확정	4	*	Confirm PR	구매확정	구매확정		Y
+OM_PR_LINE_ST	ko	50	구매취소	5	*	Cancel PR	구매취소	구매취소		Y
+OM_PR_LINE_ST	ko	60	주문취소	6	*	Cancel PO	주문취소	주문취소		Y
+OM_PR_LINE_ST	ko	70	환불	7	*	Refund	환불	환불		Y
+OM_PURH_ST	ko	10	구매요청	1	*	Create PurchaseRequest 	구매요청	구매요청		Y
+OM_PURH_ST	ko	100	환불	10	*	Refund	환불	환불		Y
+OM_PURH_ST	ko	20	구매접수취소	2	*	Reject PR	구매접수취소	구매접수취소		Y
+OM_PURH_ST	ko	30	구매확정요청	3	*	Request PR Confirm	구매확정요청	구매확정요청		Y
+OM_PURH_ST	ko	40	구매확정	4	*	Confirm PR	구매확정	구매확정		Y
+OM_PURH_ST	ko	50	구매취소	5	*	Cancel PR	구매취소	구매취소		Y
+OM_PURH_ST	ko	60	입금요청	6	*	Request Receipt a Money(Request Create PO)	출하대기	입금요청		Y
+OM_PURH_ST	ko	70	입금	7	*	Receipt	출하대기	입금		Y
+OM_PURH_ST	ko	80	주문확정	8	*	Confirm PO(PurchaseOrder)	주문확정	주문확정		Y
+OM_PURH_ST	ko	90	주문취소	9	*	Cancel PO	주문취소	주문취소		Y
+OM_SELL_TP	ko	AUC	순경매	2	*	Auction				Y
+OM_SELL_TP	ko	FXP	정가	1	*	FixedPrice				Y
+OM_SHIP_ST	ko	10	구매확정요청	1	*	Request PR Confirm	구매확정요청	구매확정요청		Y
+OM_SHIP_ST	ko	100	배송완료승인	10	*	Confirm Delivery	배송완료승인	배송완료승인		Y
+OM_SHIP_ST	ko	120	환불	12	*	Refund	환불	환불		Y
+OM_SHIP_ST	ko	20	구매확정	2	*	Confirm PR	구매확정	구매확정		Y
+OM_SHIP_ST	ko	30	구매취소	3	*	Cancel PR	구매취소	구매취소		Y
+OM_SHIP_ST	ko	40	입금요청	4	*	Request Receipt a Money(Request Create PO)	출하대기	입금요청		Y
+OM_SHIP_ST	ko	50	입금	5	*	Receipt	출하대기	입금		Y
+OM_SHIP_ST	ko	60	주문확정	6	*	Confirm PO(PurchaseOrder)	출하대기	주문확정		Y
+OM_SHIP_ST	ko	70	주문취소	7	*	Cancel PO	주문취소	주문취소		Y
+OM_SHIP_ST	ko	80	출하	8	*	Shipping	출하(배송완료대기)	출하		Y
+OM_SHIP_ST	ko	90	배송완료	9	*	Complete Delivery	배송완료	배송완료		Y
+OM_UOM	ko	0	없음	100	*					Y
+OM_UOM	ko	10	kg	1	*					Y
+OM_UOM	ko	20	mm	2	*					Y
+OM_UOM	ko	30	m	3	*					Y
+OM_UOM	ko	40	%	4	*					Y
+OM_UOM	ko	50	inch	5	*					Y
+OM_UOM	ko	60	ea	6	*					Y
+OM_UOM	ko	70	mpa	7	*					Y
+OM_UOM	ko	80	g/m²	8	*					Y
+OM_VNDR_DIV	ko	C	가공센터	3	*	ManufacturingCenter				Y
+OM_VNDR_DIV	ko	D	독립사업부	4	*	DivisionDepartment				Y
+OM_VNDR_DIV	ko	I	포스코인터	5	*	PoscoInternational				Y
+OM_VNDR_DIV	ko	O	타사	2	*	OtherVendor				Y
+OM_VNDR_DIV	ko	P	그룹사	1	*	PoscoGroup				Y
+ORDER_CLASS	ko	A	일반마켓	1	A	프리미엄, 옥션, 아울렛				Y
+ORDER_CLASS	ko	D	패키지	5	B	수출비딩외 패키지				Y
+ORDER_CLASS	ko	E	수출비딩	6	B					Y
+ORDER_NO_FLAG	ko	O	Order No.	1	*					Y
+ORDER_NO_FLAG	ko	P	PO No.	2	*					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	A	열연	1	TOT_INV					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	ALL	Total	0	TOT_INV					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	B	HR Plate	2	ORIGINAL					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	C	냉연/전강	2	TOT_INV					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	D	전기강판	4	ORIGINAL					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	E	후판	3	TOT_INV					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	F	선재/강편	4	TOT_INV					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	G	STS열연	5	TOT_INV					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	H	STS냉연	6	TOT_INV					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	J	STS후판	7	TOT_INV					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	L	반제품	10	ORIGINAL					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	M	Steel Applications	11	ORIGINAL					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	X	석도강판	8	TOT_INV					Y
+ORDER_PRODUCT_CATEGORY_CODE	ko	Z	공통	12	ORIGINAL					Y
+ORDER_PRODUCT_GROUP_CODE	ko	F1	Cokes	1	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	F2	주물선	2	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	F4	TWB	3	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	F5	STS 냉연강판(TCM)	27	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	F6	HGA	28	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FA	Galvannealed	15	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FB	석도원판	12	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FC	냉연강판	11	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FD	산세강판	9	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FE	방향성 전기강판	17	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FF	Full Hard	10	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FG	아연도강판	14	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FH	열연강판	8	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FJ	석도강판	18	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FK	STS 강편	22	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FL	열연 아연도강판	13	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FM	무방향성 전기강판	20	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FN	열연 전기도금강판	16	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FP	Plate	7	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FQ	STS 열연강판	25	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FR	봉강	26	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FS	반제품	4	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FU	STS Plate	24	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FV	강편	5	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FW	Wire Rod	6	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FX	STS 반제품	21	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FY	STS Wire Rod	23	*					Y
+ORDER_PRODUCT_GROUP_CODE	ko	FZ	전기도금강판	17	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F1K	Lump Coke	137	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F2A	BF Hot Metal	138	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F2B	Foundry Hot Metal	139	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F2D	Foundry Pig Iron	140	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F2E	Ductile Pig Iron	141	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F2F	Cold Metal	142	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F4C	TWB	98	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F4H	Hydroformed Tube	99	STEEL_APP					Y
+ORDER_PRODUCT_NAME_CODE	ko	F4R	STS Hydroformed Tube	100	STEEL_APP					Y
+ORDER_PRODUCT_NAME_CODE	ko	F5K	Stainless Cold Rolled Coil(TCM)	86	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F5L	Stainless Cold Rolled Sheet(TCM)	87	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F5M	Stainless Cold Rolled Skelp(TCM)	88	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F6B	Hot Galvannealed Coil	57	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F6C	Hot Galvannealed Sheet	58	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F7A	Liquified Oxygen	143	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F7B	Oxide Gas	144	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F7C	Liquified Nitrogen	145	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F7D	Nitrid Gas	146	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F7E	Hydrogen Gas	147	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F7F	Argon Gas	148	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F7G	Steam	149	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F7H	COG/BFG/LDG	150	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F81	Waste TP Dummy Coil	107	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F82	BF Dust Coke	108	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F89	Iron Ground Metal	109	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8A	Lump Slag	110	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8B	Water Cooled Slag	111	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8C	Crude Coal Tar	112	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8D	Tar Sludge	113	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8E	Amonium Sulfate	114	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8F	Crude Kerozene	115	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8G	Liquified Sulphur	116	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8H	Pitch Oil	117	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8J	Iron Oxide Powder	118	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8K	Waste Zn Anode	119	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8L	Waste Ni Anode	120	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8M	Waste Pb-Sn Anode	121	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8N	Waste Sn Anode	122	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8P	Waste Fe Anode	123	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8R	Zinc Dross	124	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8S	Lime Stone	125	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8T	Fine Coke	126	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8U	Dust Coke	127	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8V	Breeze Coke	128	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8W	Converter Slag	129	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8X	Mini Mill Slag	130	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8Y	Stainless Slag	131	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F8Z	Blast Furnace Dust	132	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F9B	Carbon Steel Scrap	151	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	F9F	Magnesium Scrap	152	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FAB	Galvannealed Coil	37	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FAC	Galvannealed Sheet	38	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FAJ	Galvannealed Coil(Mini)	39	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FAK	Galvannealed Sheet(Mini)	40	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FAM	Galvannealed Coil(Mini LD)	41	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FAN	Galvannealed Sheet(Mini LD)	42	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FBD	Black Plate Coil	1	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FBE	Black Plate Sheet	2	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FBJ	Black Plate Coil(Mini)	3	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FBK	Black Plate Sheet(Mini)	4	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FBP	Black Plate Coil(Mini LD)	5	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FBQ	Black Plate Sheet(Mini LD)	6	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FCE	Cold Rolled Coil	7	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FCF	Cold Rolled Sheet	8	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FCJ	Cold Rolled Coil(Mini)	9	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FCK	Cold Rolled Sheet(Mini)	10	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FCP	Cold Rolled Coil(Mini LD)	11	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FCQ	Cold Rolled Sheet(Mini LD)	12	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FDA	PO Coil	72	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FDB	PO Sheet	73	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FEJ	HGO Coil	49	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FEK	CGO Coil	50	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FFB	Full Hard Coil	26	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FFC	Full Hard Sheet	27	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FFE	Full Hard Coil(ECL)	28	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FFK	Full Hard Coil (Mini)	29	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FFL	Full Hard Sheet(Mini)	30	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FFN	Full Hard Coil(ECL-Mini)	31	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FFP	Full Hard Sheet(ECL-Mini)	32	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FFU	Full Hard Coil (Mini LD)	33	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FFV	Full Hard Sheet(Mini LD)	34	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FFX	ECL FH Coil(Mini LD)	35	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FFY	ECL FH Sheet(Mini LD)	36	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FGB	Galvanized Coil	43	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FGC	Galvanized Sheet	44	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FGJ	Galvanized Coil(Mini)	45	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FGK	Galvanized Sheet(Mini)	46	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FGM	Galvanized Coil(Mini LD)	47	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FGN	Galvanized Sheet(Mini LD)	48	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FHD	Hot Rolled Coil	59	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FHE	Hot Rolled Plate	60	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FHF	Hot Rolled Sheet	61	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FHG	Hot Rolled Skelp	62	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FHH	Hot Rolled Checkered Coil	63	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FHJ	Hot Rolled Checkered Sheet	64	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FHK	Hot Rolled Checkered Skelp	65	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FHL	Thin Slab Hot Rolled Coil	66	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FHN	Thin Slab HR Coil(LD)	67	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FHS	HR Checkered Coil(Mini)	68	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FHT	HR Checkered Sheet(Mini)	69	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FJC	Tin Plate Coil	92	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FJD	Tin Plate Sheet	93	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FJE	Tin Plate Scroll	94	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FJF	Chrome Plate Coil(TFS)	95	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FJG	Chrome Plate Sheet(TFS)	96	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FJH	Chrome Plate Scroll(TFS)	97	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FLA	Hot Rolled Galvanized Coil	51	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FLB	Hot Rolled Galvanized Sheet	52	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FLJ	HR Galvanized Coil(Mini)	53	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FLK	HR Galvanized Sheet(Mini)	54	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FLM	HR Galvanized Coil(Mini LD)	55	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FLN	HR Galvanized Sheet(MiniLD)	56	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FMH	Fully NO Coil	70	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FMJ	Semi NO Coil	71	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FNA	Magnesium Strip Coil	102	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FNB	Magnesium RWM Coil	103	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FNC	Magnesium CLL Coil	104	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FND	Magnesium Skelp	105	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FNE	Magnesium Sheet	106	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FPJ	Plate	153	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FPK	Tapered Plate	154	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FPL	Clad Plate	155	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FQD	Stainless Checkered Coil	80	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FQE	Stainless Black Coil	81	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FQH	Stainless Hot Rolled Coil	82	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FQJ	STS H-CBL Coil	83	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FQL	STS CPL Black Coil(Strip Casting)	84	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FQP	STS HR Coil(Strip Casting)	85	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FR2	Stainless Cold Rolled Coil (Al Coat)	158	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FRK	Stainless Cold Rolled Coil	74	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FRL	Stainless Cold Rolled Sheet	75	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FRM	Stainless Cold Rolled Skelp	76	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FRX	STS CR Coil(Strip Casting)	77	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FRY	STS CR Sheet(Strip Casting)	78	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FRZ	STS CR Skelp(Strip Casting)	79	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FSE	Slab	135	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FSF	Bloom	136	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FSG	Continuous Casted Billet	91	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FUC	Stainless Plate	90	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FVB	Bloom Billet	101	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FWA	Wire Rod(Billet)	133	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FWB	Wire Rod(Bloom)	134	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FXC	Stainless Slab	89	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZG	EG Coil(Zn)	13	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZH	EG Sheet(Zn)	14	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZJ	EGF Coil(Zn-Fe)	15	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZK	EGF Sheet(Zn-Fe)	16	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZL	EGN Coil(Zn-Ni)	17	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZM	EGN Sheet(Zn-Ni)	18	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZN	EGFD Coil(2-Layer)	19	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZP	EGFD Sheet(2-Layer)	20	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZQ	EGFZ Coil(Fe-Zn/Zn)	21	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZR	EGFZ Sheet(Fe-Zn/Zn)	22	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZS	Terne Coil(Pb-Sn)	23	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZT	Terne Sheet(Pb-Sb)	24	*					Y
+ORDER_PRODUCT_NAME_CODE	ko	FZV	EGNZ Coil(Zn-Ni/Zn)	25	*					Y
+ORDER_SEARCH_TP	ko	D	Order No.	1	*					Y
+ORDER_SEARCH_TP	ko	E	Order Line No.	2	*					Y
+ORDER_STAT_PRD_TP	ko	F1	1 Cokes	1	*					Y
+ORDER_STAT_PRD_TP	ko	F2	2 주물선	24	*					Y
+ORDER_STAT_PRD_TP	ko	F5	5 냉연강판	15	*					Y
+ORDER_STAT_PRD_TP	ko	F6	6 STS 냉연강판	7	*					Y
+ORDER_STAT_PRD_TP	ko	F7	7 제조품	16	*					Y
+ORDER_STAT_PRD_TP	ko	F8	8 부산물	9	*					Y
+ORDER_STAT_PRD_TP	ko	F9	9 전기도금강판	22	*					Y
+ORDER_STAT_PRD_TP	ko	FA	A GalvaAnnealed	17	*					Y
+ORDER_STAT_PRD_TP	ko	FB	B 석도원판	18	*					Y
+ORDER_STAT_PRD_TP	ko	FC	C 냉연강판	14	*					Y
+ORDER_STAT_PRD_TP	ko	FD	D 산세강판	10	*					Y
+ORDER_STAT_PRD_TP	ko	FE	E 방향성 전기강판	27	*					Y
+ORDER_STAT_PRD_TP	ko	FF	F Full Hard	25	*					Y
+ORDER_STAT_PRD_TP	ko	FG	G 아연도금강판	26	*					Y
+ORDER_STAT_PRD_TP	ko	FH	H 열연강판	4	*					Y
+ORDER_STAT_PRD_TP	ko	FJ	J 석도강판	19	*					Y
+ORDER_STAT_PRD_TP	ko	FL	L 열연 아연도금강판	29	*					Y
+ORDER_STAT_PRD_TP	ko	FM	M 무방향성 전기강판	11	*					Y
+ORDER_STAT_PRD_TP	ko	FN	N 열연 전기도금강판	23	*					Y
+ORDER_STAT_PRD_TP	ko	FP	P Plate	8	*					Y
+ORDER_STAT_PRD_TP	ko	FQ	Q STS 열연강판	12	*					Y
+ORDER_STAT_PRD_TP	ko	FR	R 봉강	6	*					Y
+ORDER_STAT_PRD_TP	ko	FS	S 반제품	28	*					Y
+ORDER_STAT_PRD_TP	ko	FU	U STS Plate	5	*					Y
+ORDER_STAT_PRD_TP	ko	FV	V 강편	2	*					Y
+ORDER_STAT_PRD_TP	ko	FW	W Wire Rod	3	*					Y
+ORDER_STAT_PRD_TP	ko	FX	X STS 반제품	20	*					Y
+ORDER_STAT_PRD_TP	ko	FY	Y STS Wire Rod	13	*					Y
+ORDER_STAT_PRD_TP	ko	FZ	Z 전기도금강판	21	*					Y
+ORDER_TYPE_GROUP_CODE	ko	L	L/C거래	2	*					Y
+ORDER_TYPE_GROUP_CODE	ko	S	내수	1	*					Y
+ORDER_TYPE_ORDERING	ko	L	LC	0	*					Y
+ORDER_TYPE_ORDERING	ko	S	SC	0	*					Y
+ORD_PDT_ITDS_CD	ko	12	주물선/부산물	7	*					Y
+ORD_PDT_ITDS_CD	ko	CE	냉연/전기강판	2	*					Y
+ORD_PDT_ITDS_CD	ko	H	열연	1	*					Y
+ORD_PDT_ITDS_CD	ko	HF	하이드로포밍	9	*					Y
+ORD_PDT_ITDS_CD	ko	P	후판	3	*					Y
+ORD_PDT_ITDS_CD	ko	SF	반제품	4	*					Y
+ORD_PDT_ITDS_CD	ko	SHF	STS하이드로포밍	10	*					Y
+ORD_PDT_ITDS_CD	ko	STS	스테인레스	6	*					Y
+ORD_PDT_ITDS_CD	ko	TWB	TWB	8	*					Y
+ORD_PDT_ITDS_CD	ko	WV	선재/강편	5	*					Y
+ORD_PDT_ITP_CD	ko	FR	FR	3	WR					Y
+ORD_PDT_ITP_GROUP	ko	CR	냉연	2	EXP	주문진행 수출 제품				Y
+ORD_PDT_ITP_GROUP	ko	HP	반제품	6	EXP	주문진행 수출 제품				Y
+ORD_PDT_ITP_GROUP	ko	HR	열연	1	EXP	주문진행 수출 제품				Y
+ORD_PDT_ITP_GROUP	ko	PLT	후판	4	EXP	주문진행 수출 제품				Y
+ORD_PDT_ITP_GROUP	ko	SIS	전기강판	3	EXP	주문진행 수출 제품				Y
+ORD_PDT_ITP_GROUP	ko	STS_CR	STS냉연	8	EXP	주문진행 수출 제품				Y
+ORD_PDT_ITP_GROUP	ko	STS_HR	STS열연	7	EXP	주문진행 수출 제품				Y
+ORD_PDT_ITP_GROUP	ko	STS_PLT	STS후판	9	EXP	주문진행 수출 제품				Y
+ORD_PDT_ITP_GROUP	ko	WR	선재	5	EXP	주문진행 수출 제품				Y
+OS_PROCESS_STATUS_CD	ko	AAC	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	AAD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	AAE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	BAF	Slab정정	0	COM_SLAB_CORR					Y
+OS_PROCESS_STATUS_CD	ko	CAD	산세대기	0	CR_PICKL_DIRCT					Y
+OS_PROCESS_STATUS_CD	ko	CAE	산세대기	0	CR_PICKL_DIRCT					Y
+OS_PROCESS_STATUS_CD	ko	CAK	산세대기	0	CR_PICKL_DIRCT					Y
+OS_PROCESS_STATUS_CD	ko	CBD	BAF작업	0	STS_BAF					Y
+OS_PROCESS_STATUS_CD	ko	CBE	소둔대기	0	CR_ANNEAL					Y
+OS_PROCESS_STATUS_CD	ko	CBK	소둔대기	0	CR_ANNEAL					Y
+OS_PROCESS_STATUS_CD	ko	CCD	조질대기	0	CR_REFINING					Y
+OS_PROCESS_STATUS_CD	ko	CCE	조질대기	0	CR_REFINING					Y
+OS_PROCESS_STATUS_CD	ko	CCK	조질대기	0	CR_REFINING					Y
+OS_PROCESS_STATUS_CD	ko	CDD	도금대기	0	CR_PLATING					Y
+OS_PROCESS_STATUS_CD	ko	CDE	도금대기	0	CR_PLATING					Y
+OS_PROCESS_STATUS_CD	ko	CDK	도금대기	0	CR_PLATING					Y
+OS_PROCESS_STATUS_CD	ko	CED	냉연정정	0	CR_CORR					Y
+OS_PROCESS_STATUS_CD	ko	CEE	냉연정정	0	CR_CORR					Y
+OS_PROCESS_STATUS_CD	ko	CEK	냉연정정	0	CR_CORR					Y
+OS_PROCESS_STATUS_CD	ko	CFD	도금대기	0	CR_PLATING					Y
+OS_PROCESS_STATUS_CD	ko	CFE	도금대기	0	CR_PLATING					Y
+OS_PROCESS_STATUS_CD	ko	CGD	C1차냉압	0	STSCR_C1_CR					Y
+OS_PROCESS_STATUS_CD	ko	CGE	C1차냉압	0	STSCR_C1_CR					Y
+OS_PROCESS_STATUS_CD	ko	CGH	소둔대기	0	CR_ANNEAL					Y
+OS_PROCESS_STATUS_CD	ko	CGK	C1차냉압	0	STSCR_C1_CR					Y
+OS_PROCESS_STATUS_CD	ko	CHH	도금대기	0	CR_PLATING					Y
+OS_PROCESS_STATUS_CD	ko	CJD	C1차소둔	0	STSCR_C1_ANN					Y
+OS_PROCESS_STATUS_CD	ko	CJE	C1차소둔	0	STSCR_C1_ANN					Y
+OS_PROCESS_STATUS_CD	ko	CJH	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	CJK	C1차소둔	0	STSCR_C1_ANN					Y
+OS_PROCESS_STATUS_CD	ko	CKD	C3CAL	0	STSCR_C3_CAL					Y
+OS_PROCESS_STATUS_CD	ko	CKE	C3CAL	0	STSCR_C3_CAL					Y
+OS_PROCESS_STATUS_CD	ko	CKH	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	CKK	C3CAL	0	STSCR_C3_CAL					Y
+OS_PROCESS_STATUS_CD	ko	CLD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	CLE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	CLH	C3CAL	0	STSCR_C3_CAL					Y
+OS_PROCESS_STATUS_CD	ko	CMD	APL산세	0	STSCR_APL_PICK					Y
+OS_PROCESS_STATUS_CD	ko	CME	APL산세	0	STSCR_APL_PICK					Y
+OS_PROCESS_STATUS_CD	ko	CMK	APL산세	0	STSCR_APL_PICK					Y
+OS_PROCESS_STATUS_CD	ko	CND	C2차냉압	0	STSCR_C2_CR					Y
+OS_PROCESS_STATUS_CD	ko	CNE	C2차냉압	0	STSCR_C2_CR					Y
+OS_PROCESS_STATUS_CD	ko	CNK	C2차냉압	0	STSCR_C2_CR					Y
+OS_PROCESS_STATUS_CD	ko	COD	EGL	0	STSCR_EGL					Y
+OS_PROCESS_STATUS_CD	ko	COE	EGL	0	STSCR_EGL					Y
+OS_PROCESS_STATUS_CD	ko	COK	EGL	0	STSCR_EGL					Y
+OS_PROCESS_STATUS_CD	ko	CPD	SPM	0	STSCR_SPM					Y
+OS_PROCESS_STATUS_CD	ko	CPE	SPM	0	STSCR_SPM					Y
+OS_PROCESS_STATUS_CD	ko	CPK	SPM	0	STSCR_SPM					Y
+OS_PROCESS_STATUS_CD	ko	CQD	CPL	0	STSCR_CPL					Y
+OS_PROCESS_STATUS_CD	ko	CQE	CPL	0	STSCR_CPL					Y
+OS_PROCESS_STATUS_CD	ko	CQK	CPL	0	STSCR_CPL					Y
+OS_PROCESS_STATUS_CD	ko	CRD	CSL	0	STSCR_CSL					Y
+OS_PROCESS_STATUS_CD	ko	CRE	CSL	0	STSCR_CSL					Y
+OS_PROCESS_STATUS_CD	ko	CRK	CSL	0	STSCR_CSL					Y
+OS_PROCESS_STATUS_CD	ko	CSD	TLL	0	STSCR_TLL					Y
+OS_PROCESS_STATUS_CD	ko	CSE	TLL	0	STSCR_TLL					Y
+OS_PROCESS_STATUS_CD	ko	CSK	TLL	0	STSCR_TLL					Y
+OS_PROCESS_STATUS_CD	ko	CTD	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	CTE	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	CTK	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	CUD	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	CUE	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	CUK	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	CVD	임가공	0	STSCR_TM					Y
+OS_PROCESS_STATUS_CD	ko	CVE	임가공	0	STSCR_TM					Y
+OS_PROCESS_STATUS_CD	ko	CVK	임가공	0	STSCR_TM					Y
+OS_PROCESS_STATUS_CD	ko	CYY	전강입고대기	0	SIS_STOCK					Y
+OS_PROCESS_STATUS_CD	ko	DAF	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	DAG	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	DAH	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	DBD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	DBE	전강정정대기	0	SIS_HR_ROLL					Y
+OS_PROCESS_STATUS_CD	ko	DBH	반입반출	0	PLT_CARRY_IN_OUT					Y
+OS_PROCESS_STATUS_CD	ko	DCH	반입반출	0	PLT_CARRY_IN_OUT					Y
+OS_PROCESS_STATUS_CD	ko	DDD	후판압연대기	0	PLT_ROLL					Y
+OS_PROCESS_STATUS_CD	ko	DDE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	DED	S/Z압연	0	PLT_SZ_ROLL					Y
+OS_PROCESS_STATUS_CD	ko	DEE	S/Z압연	0	PLT_SZ_ROLL					Y
+OS_PROCESS_STATUS_CD	ko	DYY	입고대기	0	COM_STOCK					Y
+OS_PROCESS_STATUS_CD	ko	EAD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EAE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EAK	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EBD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EBE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EBK	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	ECD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	ECE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	ECK	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EDD	도금대기	0	CR_PLATING					Y
+OS_PROCESS_STATUS_CD	ko	EDE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EDK	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EED	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EEE	소둔대기	0	CR_ANNEAL					Y
+OS_PROCESS_STATUS_CD	ko	EEK	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EFD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EFE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EFK	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EGD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EGE	ACL	0	SIS_ACL					Y
+OS_PROCESS_STATUS_CD	ko	EGK	ACL	0	SIS_ACL					Y
+OS_PROCESS_STATUS_CD	ko	EHD	DNL	0	SIS_DRL					Y
+OS_PROCESS_STATUS_CD	ko	EHE	DNL	0	SIS_DRL					Y
+OS_PROCESS_STATUS_CD	ko	EHK	DNL	0	SIS_DRL					Y
+OS_PROCESS_STATUS_CD	ko	EHM	DNL	0	SIS_DRL					Y
+OS_PROCESS_STATUS_CD	ko	END	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	ENE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	ENK	냉연정정	0	CR_CORR					Y
+OS_PROCESS_STATUS_CD	ko	EPD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EPE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EPK	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	EYY	입고대기	0	COM_STOCK					Y
+OS_PROCESS_STATUS_CD	ko	FA1	판정대기	0	COM_TOT_JUDGE					Y
+OS_PROCESS_STATUS_CD	ko	FA2	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	FA3	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	FAA	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	FAB	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FAC	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FAD	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FBE	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FBF	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FBG	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FBJ	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FBK	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FBL	출하품선적대기	0	COM_SHIPPING_SHIP					Y
+OS_PROCESS_STATUS_CD	ko	FBM	매출대기	0	COM_SALES					Y
+OS_PROCESS_STATUS_CD	ko	FBP	유통기지이송품입고대기	0	COM_DISTRI_TRANS_STOCK					Y
+OS_PROCESS_STATUS_CD	ko	FBQ	유통기지출하품입고대기	0	COM_DISTRI_SHIPPING_STOCK					Y
+OS_PROCESS_STATUS_CD	ko	FBR	유통기지이송품지시대기	0	COM_DISTRI_TRANS_DIRCT					Y
+OS_PROCESS_STATUS_CD	ko	FBS	유통기지이송품출하대기	0	COM_DISTRI_TRANS_SHIP					Y
+OS_PROCESS_STATUS_CD	ko	FBT	유통기지출하품출하대기	0	COM_DISTRI_SHIPPING_SHIP					Y
+OS_PROCESS_STATUS_CD	ko	FBU	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FBV	출하완료	0	COM_SHIP_COMPLETE					Y
+OS_PROCESS_STATUS_CD	ko	FBW	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FCA	선적지출항(수출)	0	COM_LEAVING_SHIP					Y
+OS_PROCESS_STATUS_CD	ko	FCB	양하지입항(수출)	0	COM_ENTER_UNLOADING					Y
+OS_PROCESS_STATUS_CD	ko	FCC	양하지접안(수출)	0	COM_HARBOR_BERTH					Y
+OS_PROCESS_STATUS_CD	ko	FCD	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FCE	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FCF	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	FCX	고객사인도대기	0	COM_DELIVERY_WAIT					Y
+OS_PROCESS_STATUS_CD	ko	FCY	생산완료량	0	COM_PRODUCT					Y
+OS_PROCESS_STATUS_CD	ko	HAD	STS열연정정대기	0	STS_HR_CORR					Y
+OS_PROCESS_STATUS_CD	ko	HAE	전강정정대기	0	SIS_HR_CORR					Y
+OS_PROCESS_STATUS_CD	ko	HAK	STS열연정정대기	0	STS_HR_CORR					Y
+OS_PROCESS_STATUS_CD	ko	HAN	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	HBH	냉연이송	0	COM_HR_CORR					Y
+OS_PROCESS_STATUS_CD	ko	HCH	H_APL	0	STS_H_APL	14.02.13 수정				Y
+OS_PROCESS_STATUS_CD	ko	HDD	정정대기	0	COM_HR_CORR					Y
+OS_PROCESS_STATUS_CD	ko	HDE	전강정정대기	0	SIS_HR_CORR					Y
+OS_PROCESS_STATUS_CD	ko	HED	산세대기	0	CR_PICKL_DIRCT					Y
+OS_PROCESS_STATUS_CD	ko	HEE	산세대기	0	CR_PICKL_DIRCT					Y
+OS_PROCESS_STATUS_CD	ko	HEK	산세대기	0	CR_PICKL_DIRCT					Y
+OS_PROCESS_STATUS_CD	ko	HFD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	HFE	CBL	0	SIS_PCM_CBL					Y
+OS_PROCESS_STATUS_CD	ko	HFK	CBL	0	SIS_PCM_CBL					Y
+OS_PROCESS_STATUS_CD	ko	HGD	BAF작업	0	STS_BAF					Y
+OS_PROCESS_STATUS_CD	ko	HGE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	HGH	소둔대기	0	CR_ANNEAL					Y
+OS_PROCESS_STATUS_CD	ko	HGK	소둔대기	0	CR_ANNEAL					Y
+OS_PROCESS_STATUS_CD	ko	HHD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	HHE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	HHH	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	HHK	산세대기	0	CR_PICKL_DIRCT					Y
+OS_PROCESS_STATUS_CD	ko	HJD	H-APL작업	0	STS_H_APL					Y
+OS_PROCESS_STATUS_CD	ko	HJE	H-APL작업	0	STS_H_APL					Y
+OS_PROCESS_STATUS_CD	ko	HJH	H-APL작업	0	STS_H_APL					Y
+OS_PROCESS_STATUS_CD	ko	HJK	H-APL작업	0	STS_H_APL					Y
+OS_PROCESS_STATUS_CD	ko	HYY	입고대기	0	COM_STOCK					Y
+OS_PROCESS_STATUS_CD	ko	P1E	후판정정대기	0	PLT_CORR					Y
+OS_PROCESS_STATUS_CD	ko	P3E	S/B	0	PLT_SB					Y
+OS_PROCESS_STATUS_CD	ko	P4E	열처리	0	PLT_HEAT					Y
+OS_PROCESS_STATUS_CD	ko	P5E	열처리	0	PLT_HEAT					Y
+OS_PROCESS_STATUS_CD	ko	P8E	후판정정대기	0	PLT_CORR					Y
+OS_PROCESS_STATUS_CD	ko	P9E	후판정정대기	0	PLT_CORR					Y
+OS_PROCESS_STATUS_CD	ko	P9H	후판정정대기	0	PLT_CORR					Y
+OS_PROCESS_STATUS_CD	ko	PDE	후판정정대기	0	PLT_CORR					Y
+OS_PROCESS_STATUS_CD	ko	PEE	후판정정대기	0	PLT_CORR					Y
+OS_PROCESS_STATUS_CD	ko	PGE	후판정정대기	0	PLT_CORR					Y
+OS_PROCESS_STATUS_CD	ko	PHE	후판정정대기	0	PLT_CORR					Y
+OS_PROCESS_STATUS_CD	ko	PIE	GAS	0	PLT_GAS					Y
+OS_PROCESS_STATUS_CD	ko	PLE	후판정정대기	0	PLT_CORR					Y
+OS_PROCESS_STATUS_CD	ko	PPE	후판입고대기	0	PLT_STOCK					Y
+OS_PROCESS_STATUS_CD	ko	PQE	반납대기	0	PLT_RETURN					Y
+OS_PROCESS_STATUS_CD	ko	PSE	GAS	0	PLT_GAS					Y
+OS_PROCESS_STATUS_CD	ko	PTE	GAS	0	PLT_GAS					Y
+OS_PROCESS_STATUS_CD	ko	PUE	GAS	0	PLT_GAS					Y
+OS_PROCESS_STATUS_CD	ko	PVE	GAS	0	PLT_GAS					Y
+OS_PROCESS_STATUS_CD	ko	PWE	GAS	0	PLT_GAS					Y
+OS_PROCESS_STATUS_CD	ko	PXE	UST	0	PLT_UST					Y
+OS_PROCESS_STATUS_CD	ko	PYE	후판정정대기	0	PLT_CORR					Y
+OS_PROCESS_STATUS_CD	ko	PZE	후판정정대기	0	PLT_CORR					Y
+OS_PROCESS_STATUS_CD	ko	QAD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	QAE	BAF작업	0	STS_BAF					Y
+OS_PROCESS_STATUS_CD	ko	QAH	소둔대기	0	CR_ANNEAL					Y
+OS_PROCESS_STATUS_CD	ko	QAK	소둔대기	0	CR_ANNEAL					Y
+OS_PROCESS_STATUS_CD	ko	QBD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	QBE	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	QBH	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	QBK	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	QCD	H-APL작업	0	STS_H_APL					Y
+OS_PROCESS_STATUS_CD	ko	QCE	H-APL작업	0	STS_H_APL					Y
+OS_PROCESS_STATUS_CD	ko	QCH	H-APL작업	0	STS_H_APL					Y
+OS_PROCESS_STATUS_CD	ko	QCK	H-APL작업	0	STS_H_APL					Y
+OS_PROCESS_STATUS_CD	ko	QDD	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	QDE	H-CGL작업	0	STS_H_CGL					Y
+OS_PROCESS_STATUS_CD	ko	QDH	H-CGL작업	0	STS_H_CGL					Y
+OS_PROCESS_STATUS_CD	ko	QDK	H-CGL작업	0	STS_H_CGL					Y
+OS_PROCESS_STATUS_CD	ko	QEH	STS냉연이송	0	STSCR_TANS					Y
+OS_PROCESS_STATUS_CD	ko	QFD	C1차냉압	0	STSCR_C1_CR					Y
+OS_PROCESS_STATUS_CD	ko	QFE	C1차냉압	0	STSCR_C1_CR					Y
+OS_PROCESS_STATUS_CD	ko	QFK	C1차냉압	0	STSCR_C1_CR					Y
+OS_PROCESS_STATUS_CD	ko	QHD	CBL	0	STSCR_CBL					Y
+OS_PROCESS_STATUS_CD	ko	QHE	CBL	0	STSCR_CBL					Y
+OS_PROCESS_STATUS_CD	ko	QHH	CBL	0	STSCR_CBL					Y
+OS_PROCESS_STATUS_CD	ko	QHK	CBL	0	STSCR_CBL					Y
+OS_PROCESS_STATUS_CD	ko	QJH	STS열연정정대기	0	STS_HR_CORR					Y
+OS_PROCESS_STATUS_CD	ko	QYY	진행량계	0	COM_PROGRESS					Y
+OS_PROCESS_STATUS_CD	ko	RAD	C1차냉압	0	STSCR_C1_CR					Y
+OS_PROCESS_STATUS_CD	ko	RAE	C1차냉압	0	STSCR_C1_CR					Y
+OS_PROCESS_STATUS_CD	ko	RAK	C1차냉압	0	STSCR_C1_CR					Y
+OS_PROCESS_STATUS_CD	ko	RBD	C1차소둔	0	STSCR_C1_ANN					Y
+OS_PROCESS_STATUS_CD	ko	RBE	C1차소둔	0	STSCR_C1_ANN					Y
+OS_PROCESS_STATUS_CD	ko	RBK	C1차소둔	0	STSCR_C1_ANN					Y
+OS_PROCESS_STATUS_CD	ko	RCD	APL산세	0	STSCR_APL_PICK					Y
+OS_PROCESS_STATUS_CD	ko	RCE	APL산세	0	STSCR_APL_PICK					Y
+OS_PROCESS_STATUS_CD	ko	RCK	APL산세	0	STSCR_APL_PICK					Y
+OS_PROCESS_STATUS_CD	ko	RDD	C2차냉압	0	STSCR_C2_CR					Y
+OS_PROCESS_STATUS_CD	ko	RDE	C2차냉압	0	STSCR_C2_CR					Y
+OS_PROCESS_STATUS_CD	ko	RDK	C2차냉압	0	STSCR_C2_CR					Y
+OS_PROCESS_STATUS_CD	ko	RED	C2차소둔	0	STSCR_C2_ANN					Y
+OS_PROCESS_STATUS_CD	ko	REE	C2차소둔	0	STSCR_C2_ANN					Y
+OS_PROCESS_STATUS_CD	ko	REK	C2차소둔	0	STSCR_C2_ANN					Y
+OS_PROCESS_STATUS_CD	ko	RFD	C3차냉압	0	STSCR_C3_CR					Y
+OS_PROCESS_STATUS_CD	ko	RFE	C3차냉압	0	STSCR_C3_CR					Y
+OS_PROCESS_STATUS_CD	ko	RFK	C3차냉압	0	STSCR_C3_CR					Y
+OS_PROCESS_STATUS_CD	ko	RGD	C3차소둔	0	STSCR_C3_ANN					Y
+OS_PROCESS_STATUS_CD	ko	RGE	C3차소둔	0	STSCR_C3_ANN					Y
+OS_PROCESS_STATUS_CD	ko	RGK	C3차소둔	0	STSCR_C3_ANN					Y
+OS_PROCESS_STATUS_CD	ko	RHD	EGL	0	STSCR_EGL					Y
+OS_PROCESS_STATUS_CD	ko	RHE	EGL	0	STSCR_EGL					Y
+OS_PROCESS_STATUS_CD	ko	RHK	EGL	0	STSCR_EGL					Y
+OS_PROCESS_STATUS_CD	ko	RJD	SPM	0	STSCR_SPM					Y
+OS_PROCESS_STATUS_CD	ko	RJE	SPM	0	STSCR_SPM					Y
+OS_PROCESS_STATUS_CD	ko	RJK	SPM	0	STSCR_SPM					Y
+OS_PROCESS_STATUS_CD	ko	RKD	CPL	0	STSCR_CPL					Y
+OS_PROCESS_STATUS_CD	ko	RKE	CPL	0	STSCR_CPL					Y
+OS_PROCESS_STATUS_CD	ko	RKK	CPL	0	STSCR_CPL					Y
+OS_PROCESS_STATUS_CD	ko	RLD	CSL	0	STSCR_CSL					Y
+OS_PROCESS_STATUS_CD	ko	RLE	CSL	0	STSCR_CSL					Y
+OS_PROCESS_STATUS_CD	ko	RLK	CSL	0	STSCR_CSL					Y
+OS_PROCESS_STATUS_CD	ko	RMD	TLL	0	STSCR_TLL					Y
+OS_PROCESS_STATUS_CD	ko	RME	TLL	0	STSCR_TLL					Y
+OS_PROCESS_STATUS_CD	ko	RMK	TLL	0	STSCR_TLL					Y
+OS_PROCESS_STATUS_CD	ko	RND	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	RNE	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	RNK	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	RPD	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	RPE	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	RPK	SC정정대기	0	STSCR_SC_FN					Y
+OS_PROCESS_STATUS_CD	ko	RQD	임가공	0	STSCR_TM					Y
+OS_PROCESS_STATUS_CD	ko	RQE	임가공	0	STSCR_TM					Y
+OS_PROCESS_STATUS_CD	ko	RQK	임가공	0	STSCR_TM					Y
+OS_PROCESS_STATUS_CD	ko	RYY	STS냉연입고대기	0	STSCR_STOCK					Y
+OS_PROCESS_STATUS_CD	ko	SEH	S/Z정정	0	PLT_SZ_CORR					Y
+OS_PROCESS_STATUS_CD	ko	SFF	S/Z정정	0	PLT_SZ_CORR					Y
+OS_PROCESS_STATUS_CD	ko	SFH	S/Z이송	0	PLT_CARRY_IN_OUT	15.03.26 임시 추가				Y
+OS_PROCESS_STATUS_CD	ko	SGD	후판압연대기	0	PLT_ROLL					Y
+OS_PROCESS_STATUS_CD	ko	SGE	후판압연대기	0	PLT_ROLL					Y
+OS_PROCESS_STATUS_CD	ko	TBH	H-CPL	0	STS_H_CPL	14.02.13 수정				Y
+OS_PROCESS_STATUS_CD	ko	THD	H-CPL작업	0	STS_H_CPL					Y
+OS_PROCESS_STATUS_CD	ko	THE	H-CPL작업	0	STS_H_CPL					Y
+OS_PROCESS_STATUS_CD	ko	THH	H-CPL작업	0	STS_H_CPL					Y
+OS_PROCESS_STATUS_CD	ko	TJD	H-APL작업	0	STS_H_APL					Y
+OS_PROCESS_STATUS_CD	ko	TJE	H-APL작업	0	STS_H_APL					Y
+OS_PROCESS_STATUS_CD	ko	TJH	H-APL작업	0	STS_H_APL					Y
+PACKAGE_AE_CODE	ko	B	바이어패키지	3	*					Y
+PACKAGE_AE_CODE	ko	D	패키지경매	1	*					Y
+PACKAGE_AE_CODE	ko	E	수출Bidding	4	*					Y
+PACKAGE_AE_CODE	ko	L	라스트패키지	2	*					Y
+PACKAGE_AUCTION_TARGET_DIVISION	ko	A	경매 대기재	1	*					N
+PACKAGE_AUCTION_TARGET_DIVISION	ko	O	Outlet 대상	2	*					Y
+PACKAGE_AUCTION_TARGET_DIVISION	ko	S	스크랩 보류재	3	*					Y
+PACKAGE_GROUP_LEVEL	ko	1	1구간	1	*					Y
+PACKAGE_GROUP_LEVEL	ko	10	10구간	10	*					Y
+PACKAGE_GROUP_LEVEL	ko	11	11구간	11	*					Y
+PACKAGE_GROUP_LEVEL	ko	12	12구간	12	*					Y
+PACKAGE_GROUP_LEVEL	ko	13	13구간	13	*					Y
+PACKAGE_GROUP_LEVEL	ko	14	14구간	14	*					Y
+PACKAGE_GROUP_LEVEL	ko	15	15구간	15	*					Y
+PACKAGE_GROUP_LEVEL	ko	16	16구간	16	*					Y
+PACKAGE_GROUP_LEVEL	ko	17	17구간	17	*					Y
+PACKAGE_GROUP_LEVEL	ko	18	18구간	18	*					Y
+PACKAGE_GROUP_LEVEL	ko	19	19구간	19	*					Y
+PACKAGE_GROUP_LEVEL	ko	2	2구간	2	*					Y
+PACKAGE_GROUP_LEVEL	ko	20	20구간	20	*					Y
+PACKAGE_GROUP_LEVEL	ko	21	21구간	21	*					Y
+PACKAGE_GROUP_LEVEL	ko	22	22구간	22	*					Y
+PACKAGE_GROUP_LEVEL	ko	23	23구간	23	*					Y
+PACKAGE_GROUP_LEVEL	ko	24	24구간	24	*					Y
+PACKAGE_GROUP_LEVEL	ko	25	25구간	25	*					Y
+PACKAGE_GROUP_LEVEL	ko	26	26구간	26	*					Y
+PACKAGE_GROUP_LEVEL	ko	27	27구간	27	*					Y
+PACKAGE_GROUP_LEVEL	ko	28	28구간	28	*					Y
+PACKAGE_GROUP_LEVEL	ko	29	29구간	29	*					Y
+PACKAGE_GROUP_LEVEL	ko	3	3구간	3	*					Y
+PACKAGE_GROUP_LEVEL	ko	30	30구간	30	*					Y
+PACKAGE_GROUP_LEVEL	ko	31	31구간	31	*					Y
+PACKAGE_GROUP_LEVEL	ko	32	32구간	32	*					Y
+PACKAGE_GROUP_LEVEL	ko	33	33구간	33	*					Y
+PACKAGE_GROUP_LEVEL	ko	34	34구간	34	*					Y
+PACKAGE_GROUP_LEVEL	ko	35	35구간	35	*					Y
+PACKAGE_GROUP_LEVEL	ko	36	36구간	36	*					Y
+PACKAGE_GROUP_LEVEL	ko	37	37구간	37	*					Y
+PACKAGE_GROUP_LEVEL	ko	38	38구간	38	*					Y
+PACKAGE_GROUP_LEVEL	ko	39	39구간	39	*					Y
+PACKAGE_GROUP_LEVEL	ko	4	4구간	4	*					Y
+PACKAGE_GROUP_LEVEL	ko	40	40구간	40	*					Y
+PACKAGE_GROUP_LEVEL	ko	41	41구간	41	*					Y
+PACKAGE_GROUP_LEVEL	ko	42	42구간	42	*					Y
+PACKAGE_GROUP_LEVEL	ko	43	43구간	43	*					Y
+PACKAGE_GROUP_LEVEL	ko	44	44구간	44	*					Y
+PACKAGE_GROUP_LEVEL	ko	45	45구간	45	*					Y
+PACKAGE_GROUP_LEVEL	ko	46	46구간	46	*					Y
+PACKAGE_GROUP_LEVEL	ko	47	47구간	47	*					Y
+PACKAGE_GROUP_LEVEL	ko	48	48구간	48	*					Y
+PACKAGE_GROUP_LEVEL	ko	49	49구간	49	*					Y
+PACKAGE_GROUP_LEVEL	ko	5	5구간	5	*					Y
+PACKAGE_GROUP_LEVEL	ko	50	50구간	50	*					Y
+PACKAGE_GROUP_LEVEL	ko	6	6구간	6	*					Y
+PACKAGE_GROUP_LEVEL	ko	7	7구간	7	*					Y
+PACKAGE_GROUP_LEVEL	ko	8	8구간	8	*					Y
+PACKAGE_GROUP_LEVEL	ko	9	9구간	9	*					Y
+PACKAGE_PAYMENT_TERMS_TP	ko	AA000	현금	1	*					Y
+PACKAGE_PRODUCT_GROUP	ko	-	전체	999	10	다품종 Package				Y
+PACKAGE_PRODUCT_GROUP	ko	A	도금	3	A1	도금 제품 Package	CG|EG|HG|BP			Y
+PACKAGE_PRODUCT_GROUP	ko	B	냉연도금	5	B1	냉연도금 제품 Package	CR|PO|FH|GN|BP|W1|B1|CG|EG|HG			Y
+PACKAGE_PRODUCT_GROUP	ko	C	냉연	1	C1	냉연 제품 Package	CR|PO|FH|GN|BP|W1|B1			Y
+PACKAGE_PRODUCT_GROUP	ko	H	열연	4	H1	열연 제품 Package	H1			Y
+PACKAGE_PRODUCT_GROUP	ko	P	후판	2	P1	후판 제품 Package	P1			Y
+PACKAGE_PRODUCT_GROUP	ko	Q	스테인레스	6	Q1	STS 제품 Package	QH|QC			Y
+PACKAGE_TIME_HR	ko	09	AM 09	1	A					
+PACKAGE_TIME_HR	ko	10	AM 10	2	A					
+PACKAGE_TIME_HR	ko	11	AM 11	3	A					
+PACKAGE_TIME_HR	ko	12	PM 12	4	A					
+PACKAGE_TIME_HR	ko	13	PM 01	5	P					
+PACKAGE_TIME_HR	ko	14	PM 02	6	P					
+PACKAGE_TIME_HR	ko	15	PM 03	7	P					
+PACKAGE_TIME_HR	ko	16	PM 04	8	P					
+PACKAGE_WEIGHT_LIMIT	ko	WEIGHT	5000	1	kg	구간중량Limit				Y
+PAYMENT_FLAG	ko	A	전체	1	*					Y
+PAYMENT_FLAG	ko	B	결제	2	*					Y
+PAYMENT_FLAG	ko	C	미결제	3	*					Y
+PAYMENT_NEGO_TERMS	ko	GB	상품판매	1	*					Y
+PAYMENT_NEGO_TERMS	ko	GC	상품판매	2	*					Y
+PAYMENT_TERMS	ko	2LE1	L/C거래	20	L	class=L:LC / 고정입력하므로 사용여부 N 수정금지	L/C거래			N
+PAYMENT_TERMS	ko	AA000	출하전 현금입금	1	A	class=A:현금 / ETC2=이전코드,ETC3=간략명칭	현금입금	AA000	현금	Y
+PAYMENT_TERMS	ko	BE030	출하당월말 기준 30일 외상판매	2	C	class=C:외상 / ETC2=이전코드,ETC3=간략명칭	30일 외상	CE030	외상 30일	Y
+PAYMENT_TERMS	ko	BE040	출하당월말 기준 40일 외상판매	3	C	class=C:외상 / ETC2=이전코드,ETC3=간략명칭	"40일 외상
+"	CE040	외상 40일	Y
+PAYMENT_TERMS	ko	BE050	출하당월말 기준 50일 외상판매	4	C	class=C:외상 / ETC2=이전코드,ETC3=간략명칭	50일 외상	CE050	외상 50일	Y
+PAYMENT_TERMS	ko	BE060	출하당월말 기준 60일 외상판매	5	C	class=C:외상 / ETC2=이전코드,ETC3=간략명칭	60일 외상	CE060	외상 60일	Y
+PAYMENT_TERMS	ko	BE070	출하당월말 기준 70일 외상판매	6	C	class=C:외상 / ETC2=이전코드,ETC3=간략명칭	70일 외상	CE070	외상 70일	Y
+PAYMENT_TERMS	ko	BE080	출하당월말 기준 80일 외상판매	7	C	class=C:외상 / ETC2=이전코드,ETC3=간략명칭	80일 외상	CE080	외상 80일	Y
+PAYMENT_TERMS	ko	BE090	출하당월말 기준 90일 외상판매	8	C	class=C:외상 / ETC2=이전코드,ETC3=간략명칭	90일 외상	CE090	외상 90일	Y
+PAYMENT_TYPE_CODE	ko	A	외상	3	외상					N
+PAYMENT_TYPE_CODE	ko	B	현금	1	현금					Y
+PAYMENT_TYPE_CODE	ko	C	담보현금	2	현금					N
+PAYMENT_TYPE_CODE	ko	L	L/C	4	LC	수출비딩시 L/C거래 (고정입력이므로 사용여부 N변경금지)				N
+PERSON_SEARCH_FLAG	ko	A	담당자검색	1	PERSON					Y
+PERSON_SEARCH_FLAG	ko	B	부서검색	2	PERSON					Y
+PG_CODE	ko	1	성공	0	*					Y
+PG_CODE	ko	2	실패	1	*					Y
+PG_PAY_REQ_STATUS	ko	00	요청안함	1	*					Y
+PG_PAY_REQ_STATUS	ko	10	요청중	2	*					Y
+PG_PAY_REQ_STATUS	ko	20	지급완료	3	*					Y
+PG_PAY_REQ_STATUS	ko	30	지급실패	4	*					N
+PG_PAY_REQ_STATUS	ko	40	요청실패	5	*					Y
+PG_SEND_YN	ko	N	실패	1	*	PG송신실패				Y
+PG_SEND_YN	ko	Y	성공	0	*	PG송신성공				Y
+POLL_QUESTION_TYPE	ko	1	서술형	1	*					Y
+POLL_QUESTION_TYPE	ko	2	선택형	2	*					Y
+POPUP_YN	ko	N	N	0	*					Y
+POPUP_YN	ko	Y	Y	1	*					Y
+PORT_CD	ko	B1	부산연합철강	1	PORT_CD					Y
+PORT_CD	ko	B2	부산한진중공업	2	PORT_CD					Y
+PORT_CD	ko	BB	부산항	3	PORT_CD					Y
+PORT_CD	ko	C	광양컨테이너항	4	PORT_CD					Y
+PORT_CD	ko	D1	당진항	5	PORT_CD					Y
+PORT_CD	ko	D2	당진하이스코	6	PORT_CD					Y
+PORT_CD	ko	G1	거제삼성중공업	7	PORT_CD					Y
+PORT_CD	ko	G2	거제대우조선	8	PORT_CD					Y
+PORT_CD	ko	GG	거제항	9	PORT_CD					Y
+PORT_CD	ko	I2	인천일반항	10	PORT_CD					Y
+PORT_CD	ko	II	인천항	11	PORT_CD					Y
+PORT_CD	ko	K	광양	12	PORT_CD					Y
+PORT_CD	ko	K1	순천하이스코	13	PORT_CD					Y
+PORT_CD	ko	MM	마산항	14	PORT_CD					Y
+PORT_CD	ko	P	포항	15	PORT_CD					Y
+PORT_CD	ko	QQ	군산항	16	PORT_CD					Y
+PORT_CD	ko	SS	평택항	17	PORT_CD					Y
+PORT_CD	ko	U1	현대-울산항	18	PORT_CD					Y
+PORT_CD	ko	U2	울산현대자동차	19	PORT_CD					Y
+PORT_CD	ko	U3	울산현대강관	20	PORT_CD					Y
+PORT_CD	ko	UU	울산항	21	PORT_CD					Y
+PORT_CD	ko	Y1	영암(신호Steel)	22	PORT_CD					Y
+PORT_CD	ko	Y2	영암삼호중공업	23	PORT_CD					Y
+PORT_CD	ko	YY	영암대불공단	24	PORT_CD					Y
+PRD_FLAW_CD	ko	A	표면흠	1	*					Y
+PRD_FLAW_CD	ko	B	평탄도	2	*					Y
+PRD_FLAW_CD	ko	C	러스트	3	*					Y
+PRD_FLAW_CD	ko	D	포장손상	4	*					Y
+PRD_FLAW_CD	ko	E	밴드풀림	5	*					Y
+PRD_FLAW_CD	ko	F	우천미복포	6	*					Y
+PRD_PRG_TP	ko	1	종합 판정 대기	1	*					Y
+PRD_PRG_TP	ko	2	반제품반납대기	2	*					Y
+PRD_PRG_TP	ko	3	판매품반납대기	3	*					Y
+PRD_PRG_TP	ko	A	Item변경대기	4	*					Y
+PRD_PRG_TP	ko	B	입고대기	5	*					Y
+PRD_PRG_TP	ko	C	판매대기	6	*					Y
+PRD_PRG_TP	ko	D	천포장대기	7	*					Y
+PRD_PRG_TP	ko	E	출하지시대기	8	*					Y
+PRD_PRG_TP	ko	F	운송지시대기	9	*					Y
+PRD_PRG_TP	ko	G	이송품운송대기	10	*					Y
+PRD_PRG_TP	ko	J	운송작업대기	11	*					Y
+PRD_PRG_TP	ko	K	이송품선적대기	12	*					Y
+PRD_PRG_TP	ko	L	출하품선적대기	13	*					Y
+PRD_PRG_TP	ko	M	고객인수대기	14	*					Y
+PRD_PRG_TP	ko	P	유통기지이송품입고대기	15	*					Y
+PRD_PRG_TP	ko	Q	유통기지출하품입고대기	16	*					Y
+PRD_PRG_TP	ko	R	유통기지이송품지시대기	17	*					Y
+PRD_PRG_TP	ko	S	유통기지이송품출하대기	18	*					Y
+PRD_PRG_TP	ko	T	유통기지출하품출하대기	19	*					Y
+PRD_PRG_TP	ko	U	유통기지이송품운송대기	20	*					Y
+PRD_PRG_TP	ko	V	유통기지출하품운송대기	21	*					Y
+PRD_PRG_TP	ko	W	유통기지이송품판매대기	22	*					Y
+PRD_PRG_TP	ko	X	고객사인도대기	23	*					Y
+PRD_PRG_TP	ko	Y	고객인도완료	24	*					Y
+PRD_STATUS	ko	0	판매중지	1	*	판매완료가 되지 않았으나, 판매편성대상이 아닌 상태				Y
+PRD_STATUS	ko	1	판매중	3	*	판매유형에 대상제품으로 포함된 상태				Y
+PRD_STATUS	ko	2	판매완료	5	*	낙찰 이후 상태 또는 Scrap/판매전환 상태				Y
+PRD_STATUS	ko	3	판매대기/유찰	4	*	낙찰된 후 제품선별시 유찰, 낙찰취소 상태				Y
+PRD_STATUS	ko	6	가격부가에러	6	*	가격체크시 오류가 발생된 상태				Y
+PRD_STATUS	ko	7	중복상품	7	*	중복된 상품이 존재하는 상태, 판매편성대상 아님				Y
+PRD_TOT_CLS_SEQ	ko	10	정품	1	*					N
+PRD_TOT_CLS_SEQ	ko	20	주문외 1급	2	S	POSCO의 주문외1급 제품				Y
+PRD_TOT_CLS_SEQ	ko	30	주문외 2급	3	S	POSCO의 주문외2급 제품				Y
+PRD_TOT_CLS_SEQ	ko	40	급외	4	*					N
+PRD_TOT_CLS_SEQ	ko	50	부생강재	5	*					N
+PRD_TOT_GRD	ko	1	주문외 1급	0	*					Y
+PRD_TOT_GRD	ko	2	주문외 2급	0	*					Y
+PRD_TOT_GRD	ko	5	급외품	0	*					Y
+PRD_TOT_GRD	ko	7	부생품	0	*					Y
+PRD_WH_ENT_FLAG	ko	N	미입고	2	*					Y
+PRD_WH_ENT_FLAG	ko	Y	입고	1	*					Y
+PRE_CONF	ko	MAX_VOL	10	1	*	프리미엄최대낙찰량10% (선착순만적용)				Y
+PRE_CONF	ko	OPEN_TARGET	A	3	*	프리미엄마켓 이용대상 : A:전체고객/P:우수고객사				Y
+PRE_CONF	ko	PRE_GRADE	20	2	*	프리미엄대상 최종등급(최종등급) : 1급:20/2급:30				Y
+PRICE_KIND	ko	RM	원료가격	1	*					Y
+PRICE_KIND	ko	SD	철강유통가격	0	*					Y
+PRICE_PRODUCT_NAME	ko	CFC	원료탄	5	*					Y
+PRICE_PRODUCT_NAME	ko	CR	CR	3	*					Y
+PRICE_PRODUCT_NAME	ko	GI	GI	1	*					Y
+PRICE_PRODUCT_NAME	ko	HR	HR	2	*					Y
+PRICE_PRODUCT_NAME	ko	IRONORE	철광석	6	*					Y
+PRICE_PRODUCT_NAME	ko	PANEL	후판	0	*					Y
+PRICE_PRODUCT_NAME	ko	SCRAP	스크랩	4	*					Y
+PROCESS_STATUS	ko	01	대기	10	*	아울렛 장바구니, 패키지 낙찰(주문작성전)				Y
+PROCESS_STATUS	ko	02	대기완료	11	*	패키지 낙찰(주문작성완료)				Y
+PROCESS_STATUS	ko	A1	낙찰선정	21	S1	S1=각단계의정상값				Y
+PROCESS_STATUS	ko	AC	낙찰선정중 취소	22	*					Y
+PROCESS_STATUS	ko	AX	낙찰선정 에러	23	*					Y
+PROCESS_STATUS	ko	B1	운송비산정(징구단가)	31	S1	S1=각단계의정상값				Y
+PROCESS_STATUS	ko	BC	운송비산정중 취소	32	*					Y
+PROCESS_STATUS	ko	BX	운송비산정 에러	33	*					Y
+PROCESS_STATUS	ko	C1	상품대산정	41	S1	S1=각단계의정상값				Y
+PROCESS_STATUS	ko	CC	상품대산정중 취소	42	*					Y
+PROCESS_STATUS	ko	CX	상품대산정 에러	43	*					Y
+PROCESS_STATUS	ko	D1	SO송신	51	S1	S1=각단계의정상값				Y
+PROCESS_STATUS	ko	DC	SO송신중 취소	52	*					Y
+PROCESS_STATUS	ko	DX	SO송수신 에러	53	*					Y
+PROCESS_STATUS	ko	E1	입금요청서	61	S1	S1=각단계의정상값				Y
+PROCESS_STATUS	ko	EC	입금요청서 처리중 취소	62	*					Y
+PROCESS_STATUS	ko	EX	입금요청서 에러	63	*					Y
+PROCESS_STATUS	ko	F1	입금요청서송신완료	71	S1	S1=각단계의정상값				Y
+PROCESS_STATUS	ko	FC	입금요청서 송신중 취소	72	*					Y
+PROCESS_STATUS	ko	FX	입금요청서송수신 에러	73	*					Y
+PROCESS_STATUS	ko	G1	주문확정	81	S1	S1=각단계의정상값				Y
+PROCESS_STATUS	ko	GX	주문확정 에러	83	*					Y
+PRODUCT_CODE	ko	B	Billet	0	*					Y
+PRODUCT_CODE	ko	C	냉연	0	*					Y
+PRODUCT_CODE	ko	G	전기강판	0	*					Y
+PRODUCT_CODE	ko	H	열연	0	*					Y
+PRODUCT_CODE	ko	O	PO	0	*					Y
+PRODUCT_CODE	ko	P	후판	0	*					Y
+PRODUCT_CODE	ko	Q	STS	0	*					Y
+PRODUCT_CODE	ko	S	석도	0	*					Y
+PRODUCT_CODE	ko	W	선재	0	*					Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	BP	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	B1	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	CR	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	P1	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	TP	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	H1	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	GN	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	PO	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	10	QC	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	W1	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	HG	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	EG	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	10	QH	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	FH	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	constJudGrd	S20_CONST_GRADE	14	CG	성분등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt1	S20_SHARE_1	21	EG	점유율1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt1	S20_SHARE_1	21	PO	점유율1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt1	S20_SHARE_1	21	HG	점유율1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt1	S20_SHARE_1	21	FH	점유율1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt1	S20_SHARE_1	21	CR	점유율1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt1	S20_SHARE_1	21	GN	점유율1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt1	S20_SHARE_1	21	BP	점유율1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt1	S20_SHARE_1	21	TP	점유율1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt1	S20_SHARE_1	21	CG	점유율1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt2	S20_SHARE_2	22	PO	점유율2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt2	S20_SHARE_2	22	CR	점유율2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt2	S20_SHARE_2	22	CG	점유율2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt2	S20_SHARE_2	22	BP	점유율2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt2	S20_SHARE_2	22	HG	점유율2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt2	S20_SHARE_2	22	EG	점유율2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt2	S20_SHARE_2	22	TP	점유율2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt2	S20_SHARE_2	22	GN	점유율2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt2	S20_SHARE_2	22	FH	점유율2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt3	S20_SHARE_3	23	CR	점유율3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt3	S20_SHARE_3	23	PO	점유율3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt3	S20_SHARE_3	23	CG	점유율3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt3	S20_SHARE_3	23	BP	점유율3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt3	S20_SHARE_3	23	EG	점유율3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt3	S20_SHARE_3	23	TP	점유율3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt3	S20_SHARE_3	23	GN	점유율3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt3	S20_SHARE_3	23	FH	점유율3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	crDefOcrOccupaRt3	S20_SHARE_3	23	HG	점유율3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	cyberPrdLth	S20_PRODUCT_LENGTH	16	QH	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	cyberPrdLth	S20_PRODUCT_LENGTH	16	QC	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	P1	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	CG	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	GN	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	H1	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	HG	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	TP	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	B1	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	PO	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	EG	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	FH	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	BP	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	CR	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode1	S20_FAULT_CODE_1	18	W1	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	W1	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	GN	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	PO	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	TP	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	P1	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	FH	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	EG	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	CG	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	BP	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	B1	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	CR	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	H1	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode2	S20_FAULT_CODE_2	19	HG	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	B1	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	P1	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	HG	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	TP	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	GN	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	W1	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	FH	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	H1	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	CR	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	CG	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	BP	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	PO	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	defectTesterCode3	S20_FAULT_CODE_3	20	EG	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	CR	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	W1	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	GN	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	EG	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	H1	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	CG	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	PO	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	TP	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	P1	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	HG	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	FH	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	B1	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	edgeFlag	S20_EDGE_TP	9	BP	Edge				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	GN	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	HG	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	9	QH	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	TP	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	B1	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	FH	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	CG	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	CR	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	H1	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	W1	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	PO	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	EG	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	9	QC	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	P1	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extTotJdgGd	S20_EXTERIOR_TOTAL_GRADE	13	BP	외관종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	BP	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	EG	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	B1	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	CR	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	H1	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	GN	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	7	QH	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	FH	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	CG	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	P1	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	PO	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	HG	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	7	QC	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	W1	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	extUseSurJdgGd	S20_SURFACE_GRADE	11	TP	표면등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	CG	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	EG	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	H1	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	HG	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	W1	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	PO	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	P1	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	TP	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	22	QH	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	GN	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	CR	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	BP	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	FH	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	22	QC	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	inspectionOrgCd	S20_CONDITIONING_AGENCY	8	B1	검사기관				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	QC	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	BP	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	PO	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	P1	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	FH	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	TP	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	GN	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	CR	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	W1	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	B1	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	EG	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	HG	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	CG	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	QH	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	ordPdtItdsCdN	S20_ORD_PDT_ITDS	5	H1	품명				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	pdtDefHpnLocCusOffeF	S20_PDT_DEF_HPN_LOC_CUS_OFFE_F	24	CG	결함부마킹여부				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	pdtDefHpnLocCusOffeF	S20_PDT_DEF_HPN_LOC_CUS_OFFE_F	24	CR	결함부마킹여부				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	20	QC	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	20	QH	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	21	QC	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	21	QH	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	18	QC	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	18	QH	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	19	QC	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	19	QH	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	W1	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	6	QC	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	B1	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	HG	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	TP	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	PO	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	P1	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	FH	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	6	QH	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	GN	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	H1	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	CR	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	EG	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	BP	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdOtOrdConvCd	S20_OUT_ORDER_OCCUR_CAU_CD	10	CG	주문외발생원인코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdThk	S20_PRODUCT_THICK	14	QC	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdThk	S20_PRODUCT_THICK	14	QH	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	12	QC	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	CG	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	BP	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	EG	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	B1	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	CR	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	H1	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	FH	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	W1	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	P1	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	GN	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	PO	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	TP	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	16	HG	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdTotGrd	S20_PRODUCT_TOTAL_GRADE	12	QH	제품종합등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	BP	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	GN	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	EG	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	CR	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	FH	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	TP	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	H1	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	W1	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	HG	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	B1	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	QH	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	CG	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	QC	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	PO	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWhEntDt	S20_IN_DATE	2	P1	입고일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWth	S20_PRODUCT_WIDTH_MM	15	QH	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	prdWth	S20_PRODUCT_WIDTH_MM	15	QC	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	FH	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	CR	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	QC	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	GN	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	PO	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	QH	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	HG	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	CG	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	B1	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	EG	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	W1	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	H1	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	TP	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	P1	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	productNo	S20L_PRODUCT_NO	1	BP	제품번호				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	11	QC	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	BP	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	PO	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	GN	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	P1	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	FH	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	TP	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	CG	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	11	QH	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	H1	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	CR	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	EG	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	HG	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	W1	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	qaJudCd	S20_MATERIAL_GRADE	15	B1	재질등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	W1	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	BP	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	B1	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	EG	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	HG	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	PO	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	FH	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	TP	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	CG	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	8	QH	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	GN	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	H1	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	CR	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	12	P1	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	rstApprGrd	S20_SHAPE_GRADE	8	QC	형상등급				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	CR	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	QC	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	FH	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	TP	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	P1	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	H1	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	B1	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	GN	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	EG	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	BP	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	QH	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	PO	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	CG	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	W1	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stckSalReqDt	S20_SALES_REQUEST_DAY	3	HG	판매의뢰일				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	HG	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	PO	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	EG	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	B1	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	BP	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	13	QC	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	W1	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	P1	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	GN	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	TP	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	CR	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	H1	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	13	QH	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	CG	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	stockCode	S20_STOCK_SALE_TYPE	17	FH	재고판매구분				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	W1	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	P1	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	TP	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	H1	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	EG	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	PO	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	HG	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	CG	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	CR	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	B1	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	GN	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	BP	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	6	FH	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	EG	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	TP	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	PO	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	CG	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	BP	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	P1	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	CR	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	B1	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	GN	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	H1	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	W1	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	FH	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	7	HG	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	17	QH	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	17	QC	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	H1	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	EG	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	P1	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	TP	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	CG	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	FH	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	QH	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	GN	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	CR	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	B1	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	W1	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	PO	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	HG	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	QC	제철소				Y
+PRODUCT_DETAIL_COLUMNS_1	ko	worksCode	S20_WAREHOUSE	4	BP	제철소				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	42	FH	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	35	QH	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	42	EG	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	42	TP	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	42	BP	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	42	CG	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	39	H1	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	42	PO	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	42	CR	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	35	QC	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	42	HG	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilInDia	S20_INNER_DIAMETER	42	GN	내경(in)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	43	BP	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	43	GN	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	43	CR	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	36	QH	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	43	CG	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	40	H1	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	43	EG	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	43	TP	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	43	HG	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	36	QC	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	43	FH	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	coilOutDia	S20_OUTER_DIAMETER	43	PO	외경(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxThk	S20_CR_COIL_MAX_THICK	38	BP	냉연코일최대두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxThk	S20_CR_COIL_MAX_THICK	38	CG	냉연코일최대두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxThk	S20_CR_COIL_MAX_THICK	38	GN	냉연코일최대두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxThk	S20_CR_COIL_MAX_THICK	38	PO	냉연코일최대두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxThk	S20_CR_COIL_MAX_THICK	38	HG	냉연코일최대두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxThk	S20_CR_COIL_MAX_THICK	38	CR	냉연코일최대두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxThk	S20_CR_COIL_MAX_THICK	38	FH	냉연코일최대두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxThk	S20_CR_COIL_MAX_THICK	38	TP	냉연코일최대두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxThk	S20_CR_COIL_MAX_THICK	38	EG	냉연코일최대두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxW	S20_CR_COIL_MAX_WIDTH	40	PO	냉연코일최대폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxW	S20_CR_COIL_MAX_WIDTH	40	FH	냉연코일최대폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxW	S20_CR_COIL_MAX_WIDTH	40	CR	냉연코일최대폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxW	S20_CR_COIL_MAX_WIDTH	40	GN	냉연코일최대폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxW	S20_CR_COIL_MAX_WIDTH	40	HG	냉연코일최대폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxW	S20_CR_COIL_MAX_WIDTH	40	CG	냉연코일최대폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxW	S20_CR_COIL_MAX_WIDTH	40	EG	냉연코일최대폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxW	S20_CR_COIL_MAX_WIDTH	40	BP	냉연코일최대폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMaxW	S20_CR_COIL_MAX_WIDTH	40	TP	냉연코일최대폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiThk	S20_CR_COIL_MIN_THICK	39	FH	냉연코일최소두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiThk	S20_CR_COIL_MIN_THICK	39	CG	냉연코일최소두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiThk	S20_CR_COIL_MIN_THICK	39	BP	냉연코일최소두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiThk	S20_CR_COIL_MIN_THICK	39	PO	냉연코일최소두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiThk	S20_CR_COIL_MIN_THICK	39	GN	냉연코일최소두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiThk	S20_CR_COIL_MIN_THICK	39	CR	냉연코일최소두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiThk	S20_CR_COIL_MIN_THICK	39	TP	냉연코일최소두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiThk	S20_CR_COIL_MIN_THICK	39	EG	냉연코일최소두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiThk	S20_CR_COIL_MIN_THICK	39	HG	냉연코일최소두께				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiW	S20_CR_COIL_MIN_WIDTH	41	CR	냉연코일최소폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiW	S20_CR_COIL_MIN_WIDTH	41	BP	냉연코일최소폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiW	S20_CR_COIL_MIN_WIDTH	41	EG	냉연코일최소폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiW	S20_CR_COIL_MIN_WIDTH	41	FH	냉연코일최소폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiW	S20_CR_COIL_MIN_WIDTH	41	TP	냉연코일최소폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiW	S20_CR_COIL_MIN_WIDTH	41	GN	냉연코일최소폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiW	S20_CR_COIL_MIN_WIDTH	41	HG	냉연코일최소폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiW	S20_CR_COIL_MIN_WIDTH	41	CG	냉연코일최소폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	crClMiW	S20_CR_COIL_MIN_WIDTH	41	PO	냉연코일최소폭				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	31	EG	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	28	P1	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	31	FH	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	31	PO	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	28	H1	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	31	GN	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	31	HG	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	31	CR	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	31	CG	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	31	BP	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	28	W1	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	31	TP	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	cyberPrdLth	S20_PRODUCT_LENGTH	28	B1	제품길이(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	defectTesterCode1	S20_FAULT_CODE_1	30	QC	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	defectTesterCode1	S20_FAULT_CODE_1	30	QH	결함코드1				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	defectTesterCode2	S20_FAULT_CODE_2	31	QH	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	defectTesterCode2	S20_FAULT_CODE_2	31	QC	결함코드2				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	defectTesterCode3	S20_FAULT_CODE_3	32	QH	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	defectTesterCode3	S20_FAULT_CODE_3	32	QC	결함코드3				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	edgeFlag	S20_EDGE_TP	33	QH	Edge				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	edgeFlag	S20_EDGE_TP	33	QC	Edge				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	hardKind	S20_HARD_KIND_TEST_TYPE	28	QC	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	hardKind	S20_HARD_KIND_TEST_TYPE	28	QH	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	hardRst	S20_HARD_KIND	29	QH	경도				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	hardRst	S20_HARD_KIND	29	QC	경도				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	oilingMethodCd	S20_OILING	44	PO	도유				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	oilingMethodCd	S20_OILING	44	EG	도유				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	oilingMethodCd	S20_OILING	44	TP	도유				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	oilingMethodCd	S20_OILING	44	CR	도유				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	oilingMethodCd	S20_OILING	44	CG	도유				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	oilingMethodCd	S20_OILING	44	BP	도유				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	oilingMethodCd	S20_OILING	44	HG	도유				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	oilingMethodCd	S20_OILING	44	FH	도유				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	packShQty	S20_SHEET_PACK_WEIGHT	30	W1	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	packShQty	S20_SHEET_PACK_WEIGHT	30	B1	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	packingType	S20_PAK_METHOD	29	W1	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	packingType	S20_PAK_METHOD	29	B1	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	packingType	S20_PAK_METHOD	34	QC	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	packingType	S20_PAK_METHOD	34	QH	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	picklingWeldingCd	S20_PICKLING_WELDING_RESULT_QUANTITY	45	BP	산세용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	picklingWeldingCd	S20_PICKLING_WELDING_RESULT_QUANTITY	45	CR	산세용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	picklingWeldingCd	S20_PICKLING_WELDING_RESULT_QUANTITY	44	GN	산세용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	picklingWeldingCd	S20_PICKLING_WELDING_RESULT_QUANTITY	45	CG	산세용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	picklingWeldingCd	S20_PICKLING_WELDING_RESULT_QUANTITY	45	EG	산세용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	picklingWeldingCd	S20_PICKLING_WELDING_RESULT_QUANTITY	45	PO	산세용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	picklingWeldingCd	S20_PICKLING_WELDING_RESULT_QUANTITY	45	FH	산세용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	picklingWeldingCd	S20_PICKLING_WELDING_RESULT_QUANTITY	45	HG	산세용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	picklingWeldingCd	S20_PICKLING_WELDING_RESULT_QUANTITY	45	TP	산세용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	plUstMethFlag	S20_UST_PARTICLE_METHOD_PLT	30	P1	UST탐상방법(후판)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	27	HG	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	27	FH	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	24	H1	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	27	TP	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	24	W1	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	27	EG	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	24	B1	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	27	BP	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	27	CR	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	27	CG	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	27	GN	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrActualWgt	S20_PRODUCT_GROSS_REAL_WEIGHT	27	PO	제품Gross실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	28	CR	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	25	H1	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	28	HG	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	28	CG	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	28	EG	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	28	BP	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	28	PO	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	28	GN	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	28	FH	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	25	B1	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	28	TP	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdGrTheoWgt	S20_PRODUCT_GROSS_THEORY_WEIGHT	25	W1	제품Gross이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	25	HG	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	25	PO	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	25	FH	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	25	GN	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	25	EG	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	25	CR	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	25	CG	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	22	W1	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	22	H1	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	25	TP	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	25	BP	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetActualWgt	S20L_PRODUCT_NET_ACTUAL_ACREAGE_WGT	22	B1	제품Net실평중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	26	HG	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	26	GN	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	23	W1	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	26	FH	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	23	P1	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	26	EG	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	26	TP	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	26	CG	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	23	H1	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	26	CR	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	23	B1	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	26	PO	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdNetTheoWgt	S20L_PRODUCT_NET_THEORY_WGT	26	BP	제품Net이론중량(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	29	FH	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	26	P1	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	29	CR	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	26	H1	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	29	BP	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	29	HG	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	29	TP	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	29	EG	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	26	B1	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	26	W1	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	29	PO	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	29	GN	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThk	S20_PRODUCT_THICK	29	CG	제품두께(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	31	H1	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	34	BP	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	39	QH	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	34	CG	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	34	GN	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	34	TP	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	39	QC	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	34	HG	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	34	EG	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	34	CR	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	34	FH	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkBot	S20_THICK_TAIL_MM	34	PO	두께Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMax	S20_THICK_MAX_NM	32	H1	두께Max(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	33	TP	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	33	FH	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	33	PO	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	33	EG	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	33	CR	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	38	QC	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	30	H1	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	33	GN	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	38	QH	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	33	BP	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	33	HG	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMid	S20_THICK_MIDDLE_MM	33	CG	두께Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkMin	S20_THICK_MIN_NM	33	H1	두께Min(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	32	CG	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	32	BP	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	32	PO	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	32	CR	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	29	H1	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	32	TP	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	32	HG	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	32	EG	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	32	FH	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	37	QH	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	37	QC	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdThkTop	S20_THICK_HEAD_MM	32	GN	두께Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWeldingCd	S20_PRODUCT_WELDING_RESULT_QUANTITY	46	BP	제품용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWeldingCd	S20_PRODUCT_WELDING_RESULT_QUANTITY	46	CR	제품용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWeldingCd	S20_PRODUCT_WELDING_RESULT_QUANTITY	46	FH	제품용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWeldingCd	S20_PRODUCT_WELDING_RESULT_QUANTITY	46	PO	제품용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWeldingCd	S20_PRODUCT_WELDING_RESULT_QUANTITY	46	EG	제품용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWeldingCd	S20_PRODUCT_WELDING_RESULT_QUANTITY	46	HG	제품용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWeldingCd	S20_PRODUCT_WELDING_RESULT_QUANTITY	46	TP	제품용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWeldingCd	S20_PRODUCT_WELDING_RESULT_QUANTITY	46	CG	제품용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWeldingCd	S20_PRODUCT_WELDING_RESULT_QUANTITY	45	GN	제품용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	27	P1	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	27	B1	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	27	H1	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	30	EG	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	30	CR	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	30	PO	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	30	FH	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	27	W1	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	30	CG	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	30	GN	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	30	HG	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	30	BP	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWth	S20_PRODUCT_WIDTH_MM	30	TP	제품폭(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	42	QH	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	37	GN	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	37	HG	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	37	EG	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	37	CG	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	37	PO	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	37	FH	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	37	CR	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	36	H1	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	42	QC	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	37	BP	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthBot	S20_WIDTH_TAIL_MM	37	TP	폭Tail(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMax	S20_WIDTH_MAX_MM	37	H1	폭Max(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	36	BP	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	36	CG	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	36	EG	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	41	QH	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	36	HG	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	41	QC	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	36	GN	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	36	CR	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	36	PO	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	36	TP	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	35	H1	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMid	S20_WIDTH_MIDDLE_MM	36	FH	폭Middle(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthMin	S20_WIDTH_MIN_MM	38	H1	폭Min(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	35	CR	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	35	TP	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	35	EG	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	40	QH	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	35	BP	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	35	GN	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	35	HG	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	34	H1	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	35	FH	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	40	QC	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	35	CG	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	prdWthTop	S20_WIDTH_HEAD_MM	35	PO	폭Head(mm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstFishTailTypeCd	S20_FISHTAIL	41	H1	FishTail				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstStampFlag	S20_STAMPING	29	P1	타각종류지정코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstSurfaceFinishCd	S20_SURFACE_FINISH	49	EG	표면마무리				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstSurfaceFinishCd	S20_SURFACE_FINISH	49	HG	표면마무리				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstSurfaceFinishCd	S20_SURFACE_FINISH	49	BP	표면마무리				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstSurfaceFinishCd	S20_SURFACE_FINISH	49	TP	표면마무리				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstSurfaceFinishCd	S20_SURFACE_FINISH	49	CR	표면마무리				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstSurfaceFinishCd	S20_SURFACE_FINISH	49	FH	표면마무리				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstSurfaceFinishCd	S20_SURFACE_FINISH	49	CG	표면마무리				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstTempGrade	S20_REFINING_DEGREE	47	CR	조질도				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstTempGrade	S20_REFINING_DEGREE	47	HG	조질도				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstTempGrade	S20_REFINING_DEGREE	47	BP	조질도				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstTempGrade	S20_REFINING_DEGREE	47	TP	조질도				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstTempGrade	S20_REFINING_DEGREE	47	CG	조질도				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstTempGrade	S20_REFINING_DEGREE	47	FH	조질도				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	rstTempGrade	S20_REFINING_DEGREE	47	EG	조질도				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	31	B1	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	31	W1	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	32	B1	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	32	W1	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	skinPassRstFlag	S20_SKIN_PASS	42	H1	SkinPass				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	sleeveUseFlag	S20_SLEEVE	48	TP	Sleeve				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	sleeveUseFlag	S20_SLEEVE	47	PO	Sleeve				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	sleeveUseFlag	S20_SLEEVE	48	FH	Sleeve				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	sleeveUseFlag	S20_SLEEVE	48	CR	Sleeve				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	sleeveUseFlag	S20_SLEEVE	48	BP	Sleeve				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	sleeveUseFlag	S20_SLEEVE	48	EG	Sleeve				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	sleeveUseFlag	S20_SLEEVE	48	HG	Sleeve				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	sleeveUseFlag	S20_SLEEVE	48	CG	Sleeve				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	23	QC	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	substSpecCdN1	S20_SUBSTITUTE_SPECIFICATION	23	QH	대체규격				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	24	QC	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	substUsageCdN1	S20_SUBSTITUTE_USAGE	24	QH	대체용도				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	tslTestEl	S20_EL	27	QC	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	tslTestEl	S20_EL	27	QH	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	tslTestTs	S20_TS	26	QC	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	tslTestTs	S20_TS	26	QH	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	tslTestYp	S20_YP	25	QH	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	tslTestYp	S20_YP	25	QC	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	24	EG	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	24	HG	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	24	CG	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	24	GN	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	24	BP	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	21	W1	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	24	TP	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	21	H1	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	24	CR	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	21	B1	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	24	PO	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_2	ko	weightDecisionCode	S20_WEIGHT_DECISION_CODE	24	FH	중량결정법코드				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	55	CR	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	43	QH	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	55	FH	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	43	QC	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	55	CG	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	55	HG	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	55	EG	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	38	W1	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	55	TP	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	53	PO	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	46	H1	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	46	P1	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	55	BP	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCRst	S20L_C_ST_CONST_C_RST	33	B1	C(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	61	FH	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	61	CG	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	61	BP	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	61	TP	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	52	H1	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	39	B1	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	61	CR	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	49	QH	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	44	W1	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	52	P1	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	49	QC	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	61	EG	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	59	PO	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstCrRstN	S20L_C_ST_CONST_CR_RST_N	61	HG	Cr(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	57	HG	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	48	P1	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	55	PO	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	57	EG	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	47	QC	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	40	W1	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	47	QH	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	57	CR	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	48	H1	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	57	TP	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	35	B1	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	57	BP	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	57	FH	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMnRst	S20L_C_ST_CONST_MN_RST	57	CG	Mn(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	62	HG	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	60	PO	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	62	EG	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	53	P1	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	45	W1	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	62	FH	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	53	H1	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	62	TP	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	62	BP	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	40	B1	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	62	CG	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstMoRstN	S20L_C_ST_CONST_MO_RST_N	62	CR	Mo(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	60	FH	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	60	HG	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	58	PO	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	60	EG	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	51	P1	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	43	W1	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	48	QH	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	60	CR	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	51	H1	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	60	TP	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	60	BP	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	38	B1	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	60	CG	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstNiRstN	S20L_C_ST_CONST_NI_RST_N	48	QC	Ni(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	44	QH	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	58	FH	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	56	PO	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	58	CG	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	36	B1	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	58	BP	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	58	TP	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	58	CR	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	49	H1	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	49	P1	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	41	W1	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	44	QC	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	58	EG	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstPRst	S20L_C_ST_CONST_P_RST	58	HG	P(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	45	QC	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	59	CG	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	59	HG	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	50	P1	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	57	PO	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	59	EG	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	50	H1	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	59	CR	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	59	TP	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	37	B1	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	45	QH	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	42	W1	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	59	BP	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSRst	S20L_C_ST_CONST_S_RST	59	FH	S(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	56	HG	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	47	H1	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	47	P1	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	46	QC	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	54	PO	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	56	CR	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	56	BP	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	56	FH	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	34	B1	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	56	CG	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	39	W1	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	56	TP	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	56	EG	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	CStConstSiRst	S20L_C_ST_CONST_SI_RST	46	QH	Si(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtLowerRst	S20_BASE_SIDE_WORK	72	CR	하면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtLowerRst	S20_BASE_SIDE_WORK	72	HG	하면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtLowerRst	S20_BASE_SIDE_WORK	72	CG	하면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtLowerRst	S20_BASE_SIDE_WORK	72	FH	하면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtLowerRst	S20_BASE_SIDE_WORK	72	BP	하면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtLowerRst	S20_BASE_SIDE_WORK	72	TP	하면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtLowerRst	S20_BASE_SIDE_WORK	72	EG	하면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtUpperRst	S20_UPSIDE_WORK	70	CG	상면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtUpperRst	S20_UPSIDE_WORK	70	HG	상면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtUpperRst	S20_UPSIDE_WORK	70	EG	상면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtUpperRst	S20_UPSIDE_WORK	70	FH	상면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtUpperRst	S20_UPSIDE_WORK	70	BP	상면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtUpperRst	S20_UPSIDE_WORK	70	CR	상면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatWgtUpperRst	S20_UPSIDE_WORK	70	TP	상면작업 실적도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatedProductThicknessCode	S20_COAT_PRODUCT_THICK_CLASSIFY	67	CG	도금제품두께구분				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatedProductThicknessCode	S20_COAT_PRODUCT_THICK_CLASSIFY	67	HG	도금제품두께구분				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatedProductThicknessCode	S20_COAT_PRODUCT_THICK_CLASSIFY	67	CR	도금제품두께구분				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatedProductThicknessCode	S20_COAT_PRODUCT_THICK_CLASSIFY	67	TP	도금제품두께구분				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatedProductThicknessCode	S20_COAT_PRODUCT_THICK_CLASSIFY	67	EG	도금제품두께구분				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatedProductThicknessCode	S20_COAT_PRODUCT_THICK_CLASSIFY	67	BP	도금제품두께구분				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatedProductThicknessCode	S20_COAT_PRODUCT_THICK_CLASSIFY	67	FH	도금제품두께구분				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coatingTypeCd	S20_SIS_COATING_TYPE_APPOINT_CODE	46	GN	전기강판코팅종류지정코드				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coreLoss1	S20_CORE_15_50	47	GN	철손(1.5T/50Hz)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coreLoss2	S20_CORE_17_50	50	GN	철손(1.7T/50Hz)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coreLoss3	S20_CORE_15_60	48	GN	철손(1.5T/60Hz)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	coreLoss4	S20_CORE_17_60	51	GN	철손(1.7T/60Hz)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	esDrdAcJobPrcF	S20_EXPRESSIONS_MINIATURE_PROCESS_CHECK	53	GN	자구미세화처리여부				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	grindingRstFlag	S20_STSHR_GRINDING	51	QH	STS열연Grinding				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	grindingRstFlag	S20_STSHR_GRINDING	51	QC	STS열연Grinding				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardKind	S20_HARD_KIND_TEST_TYPE	44	H1	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardKind	S20_HARD_KIND_TEST_TYPE	53	CR	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardKind	S20_HARD_KIND_TEST_TYPE	44	P1	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardKind	S20_HARD_KIND_TEST_TYPE	51	PO	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardKind	S20_HARD_KIND_TEST_TYPE	36	W1	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardKind	S20_HARD_KIND_TEST_TYPE	53	FH	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardKind	S20_HARD_KIND_TEST_TYPE	53	CG	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardKind	S20_HARD_KIND_TEST_TYPE	53	HG	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardKind	S20_HARD_KIND_TEST_TYPE	53	BP	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardKind	S20_HARD_KIND_TEST_TYPE	53	TP	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardKind	S20_HARD_KIND_TEST_TYPE	53	EG	경도시험 종류				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardRst	S20_HARD_KIND	54	CR	경도				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardRst	S20_HARD_KIND	54	BP	경도				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardRst	S20_HARD_KIND	45	P1	경도				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardRst	S20_HARD_KIND	54	FH	경도				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardRst	S20_HARD_KIND	45	H1	경도				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardRst	S20_HARD_KIND	37	W1	경도				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardRst	S20_HARD_KIND	54	TP	경도				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardRst	S20_HARD_KIND	54	EG	경도				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardRst	S20_HARD_KIND	52	PO	경도				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardRst	S20_HARD_KIND	54	CG	경도				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	hardRst	S20_HARD_KIND	54	HG	경도				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	magFluxTeSb8AcV	S20_MAGNET_FLUX_EMPC_B8	55	GN	자속밀도 (자구미세화,B8)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	magnetFlux1	S20_MAGNET_FLUX_B5	49	GN	자속밀도(B5)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	magnetFlux2	S20_MAGNET_FLUX_B8	52	GN	자속밀도(B8)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	matClhAClQt	S20_CORE_10_400	56	GN	철손(1.0T/400Hz)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	mseIrLossSeAcV	S20_CORE_EMPC_17_50	54	GN	철손 (자구미세화,1.7T/50Hz)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packShQty	S20_SHEET_PACK_WEIGHT	60	QH	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packShQty	S20_SHEET_PACK_WEIGHT	64	BP	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packShQty	S20_SHEET_PACK_WEIGHT	64	HG	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packShQty	S20_SHEET_PACK_WEIGHT	60	QC	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packShQty	S20_SHEET_PACK_WEIGHT	64	CG	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packShQty	S20_SHEET_PACK_WEIGHT	64	FH	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packShQty	S20_SHEET_PACK_WEIGHT	64	CR	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packShQty	S20_SHEET_PACK_WEIGHT	55	H1	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packShQty	S20_SHEET_PACK_WEIGHT	64	TP	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packShQty	S20_SHEET_PACK_WEIGHT	64	EG	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packShQty	S20_SHEET_PACK_WEIGHT	62	PO	포장당Sheet매수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packingType	S20_PAK_METHOD	61	PO	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packingType	S20_PAK_METHOD	63	CG	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packingType	S20_PAK_METHOD	63	BP	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packingType	S20_PAK_METHOD	54	H1	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packingType	S20_PAK_METHOD	63	FH	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packingType	S20_PAK_METHOD	63	TP	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packingType	S20_PAK_METHOD	63	CR	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packingType	S20_PAK_METHOD	63	HG	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	packingType	S20_PAK_METHOD	63	EG	포장방법				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	paperInsertFlag	S20_PAPER	57	QH	간지				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	paperInsertFlag	S20_PAPER	57	QC	간지				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	prdWeldingCd	S20_PRODUCT_WELDING_RESULT_QUANTITY	58	QC	제품용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	prdWeldingCd	S20_PRODUCT_WELDING_RESULT_QUANTITY	58	QH	제품용접실적갯수				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rdbaAHtMtTp	S20_RDBA_A_HT_MT_TP	46	W1	봉강실적열처리방법구분				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rdbaPdtUstATp	S20_RDBA_PDT_UST_A_TP	47	W1	봉강제품UST실적구분				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstBackPlQty	S20_BASE_SIDE_WORK	71	HG	하면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstBackPlQty	S20_BASE_SIDE_WORK	71	TP	하면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstBackPlQty	S20_BASE_SIDE_WORK	71	FH	하면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstBackPlQty	S20_BASE_SIDE_WORK	71	CR	하면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstBackPlQty	S20_BASE_SIDE_WORK	71	CG	하면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstBackPlQty	S20_BASE_SIDE_WORK	71	BP	하면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstBackPlQty	S20_BASE_SIDE_WORK	71	EG	하면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstCleaningCd	S20_NON_FAT_YN	56	QH	탈지여부(실적)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstCleaningCd	S20_NON_FAT_YN	56	QC	탈지여부(실적)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstCoatingQtyDcsFlag	S20_COAT_TYPE_APPOINT_CODE	68	TP	도금종류지정코드				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstCoatingQtyDcsFlag	S20_COAT_TYPE_APPOINT_CODE	68	HG	도금종류지정코드				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstCoatingQtyDcsFlag	S20_COAT_TYPE_APPOINT_CODE	68	FH	도금종류지정코드				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstCoatingQtyDcsFlag	S20_COAT_TYPE_APPOINT_CODE	68	CG	도금종류지정코드				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstCoatingQtyDcsFlag	S20_COAT_TYPE_APPOINT_CODE	68	BP	도금종류지정코드				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstCoatingQtyDcsFlag	S20_COAT_TYPE_APPOINT_CODE	68	EG	도금종류지정코드				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstCoatingQtyDcsFlag	S20_COAT_TYPE_APPOINT_CODE	68	CR	도금종류지정코드				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstFrtPlQty	S20_UPSIDE_WORK	69	TP	상면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstFrtPlQty	S20_UPSIDE_WORK	69	BP	상면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstFrtPlQty	S20_UPSIDE_WORK	69	CR	상면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstFrtPlQty	S20_UPSIDE_WORK	69	HG	상면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstFrtPlQty	S20_UPSIDE_WORK	69	CG	상면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstFrtPlQty	S20_UPSIDE_WORK	69	EG	상면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstFrtPlQty	S20_UPSIDE_WORK	69	FH	상면작업 주문도금량(g/㎟)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstHeatTttCd	S20_HEAT_TREAT	54	P1	후판열처리실적구분				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstMeshCd	S20_STSCR_GRIND_MESH	54	QC	STS냉연 연마Mesh				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstMeshCd	S20_STSCR_GRIND_MESH	54	QH	STS냉연 연마Mesh				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstPostAdheCdN	S20_POST_TREATMENT	73	CG	후처리				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstPostAdheCdN	S20_POST_TREATMENT	73	HG	후처리				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstPostAdheCdN	S20_POST_TREATMENT	73	FH	후처리				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstPostAdheCdN	S20_POST_TREATMENT	73	CR	후처리				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstPostAdheCdN	S20_POST_TREATMENT	73	EG	후처리				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstPostAdheCdN	S20_POST_TREATMENT	73	BP	후처리				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstPostAdheCdN	S20_POST_TREATMENT	73	TP	후처리				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstSurfaceFinishCd	S20_SURFACE_FINISH	63	QC	표면마무리				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstSurfaceFinishCd	S20_SURFACE_FINISH	63	QH	표면마무리				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstSurfaceProtectFilmCd	S20_SURFACE_PROTECT_FILM	55	QH	표면보호피막				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	rstSurfaceProtectFilmCd	S20_SURFACE_PROTECT_FILM	55	QC	표면보호피막				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	61	QH	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	56	H1	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	65	CR	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	65	CG	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	61	QC	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	65	TP	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	65	BP	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	65	FH	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	63	PO	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	65	HG	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sh1QtyUnWgt	S20_SHEET_PAPER_WEIGHT	65	EG	Sheet 1매당 단중(㎏)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	62	QC	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	66	TP	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	64	PO	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	66	EG	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	66	CG	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	66	BP	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	66	HG	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	66	FH	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	66	CR	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	57	H1	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	shPackHgt	S20_SHEET_PACK_HEIGHT	62	QH	Sheet Pack 높이(cm)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	skinPassRstFlag	S20_STSHR_SKINPASS	50	QH	STS열연 SkinPass				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	skinPassRstFlag	S20_STSHR_SKINPASS	50	QC	STS열연 SkinPass				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sleeveUseFlag	S20_SLEEVE	59	QH	Sleeve				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	sleeveUseFlag	S20_SLEEVE	59	QC	Sleeve				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	stsRlMkAHpnSdTp	S20_STS_RL_MK_A_HPN_SD_TP	53	QH	STS압연Marking실적발생면				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	stsRlMkAHpnSdTp	S20_STS_RL_MK_A_HPN_SD_TP	53	QC	STS압연Marking실적발생면				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	stsRlPdtSurAMkF	S20_HR_SURFACE_MARKING_CHECK	52	QH	STS열연표면Marking여부				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	stsRlPdtSurAMkF	S20_HR_SURFACE_MARKING_CHECK	52	QC	STS열연표면Marking여부				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	stsTempGrade	S20_STS_REFINING_DEGREE	64	QC	STS조질도지정코드				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	stsTempGrade	S20_STS_REFINING_DEGREE	64	QH	STS조질도지정코드				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestEl	S20_EL	52	BP	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestEl	S20_EL	52	TP	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestEl	S20_EL	35	W1	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestEl	S20_EL	52	EG	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestEl	S20_EL	43	H1	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestEl	S20_EL	52	HG	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestEl	S20_EL	52	FH	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestEl	S20_EL	43	P1	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestEl	S20_EL	50	PO	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestEl	S20_EL	52	CG	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestEl	S20_EL	52	CR	EL(%)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestTs	S20_TS	51	TP	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestTs	S20_TS	51	CG	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestTs	S20_TS	49	PO	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestTs	S20_TS	51	HG	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestTs	S20_TS	51	FH	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestTs	S20_TS	42	P1	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestTs	S20_TS	51	CR	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestTs	S20_TS	51	BP	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestTs	S20_TS	51	EG	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestTs	S20_TS	42	H1	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestTs	S20_TS	34	W1	TS(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestYp	S20_YP	50	CG	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestYp	S20_YP	48	PO	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestYp	S20_YP	50	FH	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestYp	S20_YP	50	BP	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestYp	S20_YP	50	HG	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestYp	S20_YP	50	TP	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestYp	S20_YP	41	H1	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestYp	S20_YP	50	EG	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestYp	S20_YP	41	P1	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestYp	S20_YP	33	W1	YP(MPa)				Y
+PRODUCT_DETAIL_COLUMNS_3	ko	tslTestYp	S20_YP	50	CR	YP(MPa)				Y
+PRODUCT_FLAG_CODE_ABO	ko	1	Total	0	Z					Y
+PRODUCT_FLAG_CODE_ABO	ko	2	열연	1	A					Y
+PRODUCT_FLAG_CODE_ABO	ko	3	냉연/전기강판	2	C					Y
+PRODUCT_FLAG_CODE_ABO	ko	4	후판	3	E					Y
+PRODUCT_FLAG_CODE_ABO	ko	5	선재/강편	4	F					Y
+PRODUCT_FLAG_CODE_ABO	ko	6	스테인레스(열연)	5	G					Y
+PRODUCT_FLAG_CODE_ABO	ko	7	스테인레스(냉연)	6	H					Y
+PRODUCT_FLAG_CODE_ABO	ko	8	반제품	7	L					Y
+PRODUCT_FLAG_CODE_DOM	ko	H	TOTAL	0	Z					Y
+PRODUCT_FLAG_CODE_DOM	ko	H1	냉연	3	C					Y
+PRODUCT_FLAG_CODE_DOM	ko	H10	열연	1	A					Y
+PRODUCT_FLAG_CODE_DOM	ko	H11	반제품	10	L					Y
+PRODUCT_FLAG_CODE_DOM	ko	H12	HR Plate	2	B					Y
+PRODUCT_FLAG_CODE_DOM	ko	H13	TWB	11	M					Y
+PRODUCT_FLAG_CODE_DOM	ko	H14	Hydroforming	12	N					Y
+PRODUCT_FLAG_CODE_DOM	ko	H15	STS Hydroforming	13	P					Y
+PRODUCT_FLAG_CODE_DOM	ko	H2	전기강판	4	D					Y
+PRODUCT_FLAG_CODE_DOM	ko	H3	후판	5	E					Y
+PRODUCT_FLAG_CODE_DOM	ko	H4	선재/강편	6	F					Y
+PRODUCT_FLAG_CODE_DOM	ko	H5	STS열연	7	G					Y
+PRODUCT_FLAG_CODE_DOM	ko	H6	STS냉연	8	H					Y
+PRODUCT_FLAG_CODE_DOM	ko	H7	STS후판	9	J					Y
+PRODUCT_FLAG_CODE_OVERSEA	ko	H	Total	0	Z					Y
+PRODUCT_FLAG_CODE_OVERSEA	ko	H1	냉연	3	C					Y
+PRODUCT_FLAG_CODE_OVERSEA	ko	H10	Hot-Rolled Sheet	5	A					Y
+PRODUCT_FLAG_CODE_OVERSEA	ko	H2	전기강판	4	D					Y
+PRODUCT_GUIDE_CLASS	ko	C1	열연	1	C					Y
+PRODUCT_GUIDE_CLASS	ko	C10	마그네슘	10	C					Y
+PRODUCT_GUIDE_CLASS	ko	C2	후판	2	C					Y
+PRODUCT_GUIDE_CLASS	ko	C3	선재	3	C					Y
+PRODUCT_GUIDE_CLASS	ko	C4	냉연	4	C					Y
+PRODUCT_GUIDE_CLASS	ko	C5	용융아연도금	5	C					Y
+PRODUCT_GUIDE_CLASS	ko	C6	전기아연도금	6	C					Y
+PRODUCT_GUIDE_CLASS	ko	C7	전기강판	7	C					Y
+PRODUCT_GUIDE_CLASS	ko	C8	스테인레스 	8	C					Y
+PRODUCT_GUIDE_CLASS	ko	C9	티타늄	9	C					Y
+PRODUCT_GUIDE_TYPE	ko	C	제품안내	1	*					Y
+PRODUCT_GUIDE_TYPE	ko	D	제품개발	2	*					Y
+PRODUCT_WH_CD	ko	ASHD001	(안산) STS	5	V100184	안산 STS사업부(독립사업부)	KORASNJ02	300		Y
+PRODUCT_WH_CD	ko	KYDB001	동방(광양) 후판	3	V100009	광양 포스코인터 주문외 후판창고	KORKANC68	25000		Y
+PRODUCT_WH_CD	ko	KYRDS01	로덱스(광양) 코일	4	V100001	광양 포스코인터 주문외 코일창고	KORKANC67	55000		Y
+PRODUCT_WH_CD	ko	PODB001	동방(포항) 코일	1	V100009	포항 포스코인터 주문외 코일창고	KORKPOC60	25000		Y
+PRODUCT_WH_CD	ko	PODB002	동방(포항) 후판	2	V100009	포항 포스코인터 주문외 후판창고	KORKPOC61	10000		Y
+PRODUCT_WH_CD	ko	PODB003	(포항) STS	6	V100009	포항 STS사업부(독립사업부)	KORKPOC01			Y
+PRODUCT_WH_CD	ko	PODB004	(포항 흥해) TMC	7	V100009	포항 TMC사업부(독립사업부)	KORKPOJ01			Y
+Q&A_POST_TYPE	ko	01	제품문의	1	*					Y
+Q&A_POST_TYPE	ko	02	재고문의	2	*					Y
+Q&A_POST_TYPE	ko	03	주문문의	3	*					Y
+Q&A_POST_TYPE	ko	04	출하문의	4	*					Y
+Q&A_POST_TYPE	ko	05	기타문의	5	*					Y
+Q&A_REPLY_STATUS	ko	N	답변대기	2	*					Y
+Q&A_REPLY_STATUS	ko	Y	답변완료	1	*					Y
+QUSA_QUES_SCLZ_CBG	ko	7	7점척도	1	*					Y
+REFUSAL_TYPE	ko	D	대기기간 초과반려	0	*	대기기간 초과반려				Y
+REFUSAL_TYPE	ko	E	ERP 반려처리	1	*	ERP 반려처리				Y
+REFUSAL_TYPE	ko	U	관리자 반려처리	2	*	관리자 반려처리				Y
+REQUEST_TYPE	ko	A	승인요청	1	*	승인요청				Y
+REQUEST_TYPE	ko	B	반려처리	3	*	반려처리				Y
+REQUEST_TYPE	ko	R	재승인요청	2	*	재승인요청				Y
+RESTRAINT_RELEASE	ko	N	제제	0	*					Y
+RESTRAINT_RELEASE	ko	Y	해제	0	*					Y
+RESTRAINT_SERVICE_CODE	ko	B1	낙찰취소	21	B					Y
+RESTRAINT_SERVICE_CODE	ko	B2	입금지연	22	B					Y
+RESTRAINT_SERVICE_CODE	ko	B3	기타	29	B					Y
+RESTRAINT_SERVICE_CODE	ko	B4	납기지연재	24	B					Y
+RESTRAINT_SERVICE_CODE	ko	B5	주문미작성	25	B	주문미작성으로 인한 취소				Y
+RESTRAINT_SERVICE_CODE	ko	B6	ERP요청	26	B	만기채권고객사 등 ERP요청에 의한 입찰제재				Y
+RESTRAINT_SERVICE_CODE	ko	C1	낙찰취소	31	C					Y
+RESTRAINT_SERVICE_CODE	ko	C2	입금지연	32	C					Y
+RESTRAINT_SERVICE_CODE	ko	C3	유통판매	33	C					Y
+RESTRAINT_SERVICE_CODE	ko	C4	수출	34	C					Y
+RESTRAINT_SERVICE_CODE	ko	C5	기타	35	C					Y
+RESTRAINT_SERVICE_CODE	ko	D1	폐업	41	D					Y
+RESTRAINT_TYPE	ko	B	입찰제한	1	*					Y
+RESTRAINT_TYPE	ko	C	ID 회수	2	*					Y
+RESTRAINT_TYPE	ko	D	폐업	3	*					Y
+SAL_CUS_LOC_L_CLS_TP	ko	A	동남아	1	*					Y
+SAL_CUS_LOC_L_CLS_TP	ko	C	중국	2	*					Y
+SAL_CUS_LOC_L_CLS_TP	ko	E	유럽	3	*					Y
+SAL_CUS_LOC_L_CLS_TP	ko	J	일본	4	*					Y
+SAL_CUS_LOC_L_CLS_TP	ko	K	한국	5	*					Y
+SAL_CUS_LOC_L_CLS_TP	ko	U	미국	6	*					Y
+SAL_CUS_LOC_L_CLS_TP	ko	Z	기타	7	*					Y
+SCRAP_DEPT_CODE	ko	BBB	스크랩부서1	2	F	ERP의부서코드(5자리숫자) / class=F:AE_CODE-판매전환				Y
+SCRAP_DEPT_CODE	ko	HIO	철강원료2그룹	1	C	ERP의부서코드(5자리숫자) / class=C:AE_CODE-스크랩				Y
+SCRAP_OFFLINE_CODE	ko	C	스크랩	1	*					Y
+SCRAP_OFFLINE_CODE	ko	F	판매전환	2	*					Y
+SHIPMENT_TYPE	ko	A	출항전	1	*					Y
+SHIPMENT_TYPE	ko	B	출항후	2	*					Y
+SHIPPING_METHOD	ko	1C1	착지도	1	*					Y
+SHIPPING_METHOD	ko	1C2	상차도	1	*					Y
+SHIPPING_METHOD_N	ko	1C1	육송	1	*					Y
+SHIPPING_METHOD_N	ko	2D1	철송	2	*					N
+SHIPPING_METHOD_N	ko	3D1	해송	3	*					N
+SHIPPING_PORT	ko	K	광양	2	*					Y
+SHIPPING_PORT	ko	P	포항	1	*					Y
+SHIP_FLOW_STATUS	ko	0	저장	2	OR_CE					Y
+SHIP_FLOW_STATUS	ko	01	Weight List 발행	1	WL					Y
+SHIP_FLOW_STATUS	ko	02	수출신고	2	WL					Y
+SHIP_FLOW_STATUS	ko	03	출고	3	WL					Y
+SHIP_FLOW_STATUS	ko	04	선적완료	4	WL					Y
+SHIP_FLOW_STATUS	ko	05	출항	5	WL					Y
+SHIP_FLOW_STATUS	ko	1	전송중	3	OR_CE					Y
+SHIP_FLOW_STATUS	ko	2	완료	4	OR_CE					Y
+SHIP_FLOW_STATUS	ko	3	송신오류	5	OR_CE					Y
+SHIP_FLOW_STATUS	ko	9	처리중	6	OR_CE					Y
+SHIP_FLOW_STATUS	ko	A	Item변경대기	4	*					Y
+SHIP_FLOW_STATUS	ko	ALL	Total	1	OR_CE					Y
+SHIP_FLOW_STATUS	ko	B	충당대기	5	*					Y
+SHIP_FLOW_STATUS	ko	C	판매대기	6	*					Y
+SHIP_FLOW_STATUS	ko	D	천포장대기	7	*					Y
+SHIP_FLOW_STATUS	ko	E	출하지시대기	8	*					Y
+SHIP_FLOW_STATUS	ko	F	출하대기	9	*					Y
+SHIP_FLOW_STATUS	ko	G	이송품운송대기	10	*					Y
+SHIP_FLOW_STATUS	ko	J	출하품운송대기	11	*					Y
+SHIP_FLOW_STATUS	ko	K	이송품선적대기	12	*					Y
+SHIP_FLOW_STATUS	ko	L	출하품선적대기	13	*					Y
+SHIP_FLOW_STATUS	ko	M	매출대기	14	*					Y
+SHIP_FLOW_STATUS	ko	P	유통기지이송품입고대기	15	*					Y
+SHIP_FLOW_STATUS	ko	Q	유통기지출하품입고대기	16	*					Y
+SHIP_FLOW_STATUS	ko	R	유통기지이송품지시대기	17	*					Y
+SHIP_FLOW_STATUS	ko	S	유통기지이송품출하대기	18	*					Y
+SHIP_FLOW_STATUS	ko	T	유통기지출하품출하대기	19	*					Y
+SHIP_FLOW_STATUS	ko	U	유통기지이송품운송대기	20	*					Y
+SHIP_FLOW_STATUS	ko	V	유통기지출하품운송대기	21	*					Y
+SHIP_FLOW_STATUS	ko	W	유통기지이송품판매대기	22	*					Y
+SHIP_FLOW_STATUS	ko	X	고객사인도대기	23	*					Y
+SHIP_FLOW_STATUS	ko	Y	고객사인도완료	24	*					Y
+SHIP_ITEM_CODE	ko	H1	냉연/전강	2	*					Y
+SHIP_ITEM_CODE	ko	H10	열연	1	*					Y
+SHIP_ITEM_CODE	ko	H11	반제품	9	*					Y
+SHIP_ITEM_CODE	ko	H2	후판	3	*					Y
+SHIP_ITEM_CODE	ko	H3	선재/강편	4	*					Y
+SHIP_ITEM_CODE	ko	H4	STS열연	5	*					Y
+SHIP_ITEM_CODE	ko	H5	STS냉연	6	*					Y
+SHIP_ITEM_CODE	ko	H6	STS후판	7	*					Y
+SHIP_ITEM_CODE	ko	H7	석도강판	8	*					Y
+SITE_LIMIT_INFOR	ko	ETAX	TRUE	1	2009112620100108					Y
+SKIN_PASS_RST_FLAG	ko	N	미실시	1	*	미실시				Y
+SKIN_PASS_RST_FLAG	ko	Y	실시	2	*	실시				Y
+STOCK_BID_DYNAMIC_COLUMN_B1	ko	CyberPrdWgt	중량<BR>(kg)	8	50					Y
+STOCK_BID_DYNAMIC_COLUMN_B1	ko	LastOutOrderOccurCauCd	원인<Br />코드	6	45					Y
+STOCK_BID_DYNAMIC_COLUMN_B1	ko	LowestPrice	최저가	9	55					Y
+STOCK_BID_DYNAMIC_COLUMN_B1	ko	OrdPdtItdsCdN	품명	0	60					Y
+STOCK_BID_DYNAMIC_COLUMN_B1	ko	PackShQty	매수	5	45					Y
+STOCK_BID_DYNAMIC_COLUMN_B1	ko	PrdFormula	치수<BR>(mm)	4	140					Y
+STOCK_BID_DYNAMIC_COLUMN_B1	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_B1	ko	ProductNo	제품번호	1	100					Y
+STOCK_BID_DYNAMIC_COLUMN_B1	ko	ProductWhCdNm	위치	7	45					Y
+STOCK_BID_DYNAMIC_COLUMN_B1	ko	SubstSpecCdN1	규격<BR>(mm)	3	100					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	CyberPrdWgt	중량<BR>(kg)	10	45					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	EdgeFlag	EDGE	7	40					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	LastOutOrderOccurCauCd	원인<Br />코드	8	35					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	LowestPrice	최저가	11	40					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	OilingMethodCd	도유	5	30					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	OrdPdtItdsCdN	품명	0	40					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	PrdFormula	치수<BR>(mm)	4	140					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	ProductNo	제품번호	1	70					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	ProductWhCdNm	위치	9	40					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	RstSurfaceFinishCd	표면사상<BR>(표면마무리)	6	50					Y
+STOCK_BID_DYNAMIC_COLUMN_BP	ko	SubstSpecCdN1	규격	3	80					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	CStConstCRst	C<BR>(%)	7	40					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	CyberPrdWgt	중량<BR>(kg)	12	45					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	HardRst	경도	9	30					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	LastOutOrderOccurCauCd	원인<Br />코드	10	30					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	LowestPrice	최저가	13	42					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	OilingMethodCd	도유	6	30					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	OrdPdtItdsCdN	품명	0	30					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	PrdFormula	치수<BR>(mm)	4	110					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	ProductNo	제품번호	1	72					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	ProductWhCdNm	위치	11	30					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	RstFrtPlQty	도금량	5	30					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	SubstSpecCdN1	규격	3	90					Y
+STOCK_BID_DYNAMIC_COLUMN_CG	ko	TslTestTs	TS<BR>(MPa)	8	48					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	CStConstCRst	C<BR>(%)	6	45					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	CyberPrdWgt	중량<BR>(kg)	11	50					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	HardRst	경도	8	30					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	LastOutOrderOccurCauCd	원인<Br />코드	9	35					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	LowestPrice	최저가	12	45					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	OilingMethodCd	도유	5	30					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	OrdPdtItdsCdN	품명	0	35					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	PrdFormula	치수<BR>(mm)	4	140					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	ProductNo	제품번호	1	73					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	ProductWhCdNm	위치	10	35					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	SubstSpecCdN1	규격	3	82					Y
+STOCK_BID_DYNAMIC_COLUMN_CR	ko	TslTestTs	TS<BR>(MPa)	7	45					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	CStConstCRst	C<BR>(%)	8	40					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	CyberPrdWgt	중량<BR>(kg)	13	47					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	HardRst	경도	10	30					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	LastOutOrderOccurCauCd	원인<Br />코드	11	30					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	LowestPrice	최저가	14	40					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	OilingMethodCd	도유	7	30					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	OrdPdtItdsCdN	품명	0	30					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	PrdFormula	치수<BR>(mm)	4	100					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	ProductNo	제품번호	1	70					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	ProductWhCdNm	위치	12	30					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	RstPlQtyFormula	도금량	5	40					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	RstPostAdheCd	후처리	6	35					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	SubstSpecCdN1	규격	3	78					Y
+STOCK_BID_DYNAMIC_COLUMN_EG	ko	TslTestTs	TS<BR>(MPa)	9	48					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	CStConstCRst	C<BR>(%)	6	40					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	CyberPrdWgt	중량<BR>(kg)	11	50					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	HardRst	경도	8	30					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	LastOutOrderOccurCauCd	원인<Br />코드	9	30					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	LowestPrice	최저가	12	50					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	OilingMethodCd	도유	5	35					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	OrdPdtItdsCdN	품명	0	40					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	PrdFormula	치수<BR>(mm)	4	140					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	ProductNo	제품번호	1	70					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	ProductWhCdNm	위치	10	30					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	SubstSpecCdN1	규격	3	75					Y
+STOCK_BID_DYNAMIC_COLUMN_FH	ko	TslTestTs	TS<BR>(MPa)	7	45					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	CoatingTypeCd	코팅	4	40					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	CoreLoss1	철손	5	45					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	CyberPrdWgt	중량<BR>(kg)	10	50					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	EdgeFlag	EDGE	7	50					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	LastOutOrderOccurCauCd	원인<Br />코드	8	40					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	LowestPrice	최저가	11	45					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	MagnetFlux1	자속밀도	6	65					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	OrdPdtItdsCdN	품명	0	50					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	ProductNo	제품번호	1	100					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	ProductWhCdNm	위치	9	40					Y
+STOCK_BID_DYNAMIC_COLUMN_GN	ko	SubstSpecCdN1	규격	3	90					Y
+STOCK_BID_DYNAMIC_COLUMN_H1	ko	CStConstCRst	C<BR>(%)	5	45					Y
+STOCK_BID_DYNAMIC_COLUMN_H1	ko	CyberPrdWgt	중량<BR>(kg)	9	60					Y
+STOCK_BID_DYNAMIC_COLUMN_H1	ko	LastOutOrderOccurCauCd	원인<Br />코드	7	40					Y
+STOCK_BID_DYNAMIC_COLUMN_H1	ko	LowestPrice	최저가	10	50					Y
+STOCK_BID_DYNAMIC_COLUMN_H1	ko	OrdPdtItdsCdN	품명	0	40					Y
+STOCK_BID_DYNAMIC_COLUMN_H1	ko	PrdFormula	치수<BR>(mm)	4	140					Y
+STOCK_BID_DYNAMIC_COLUMN_H1	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_H1	ko	ProductNo	제품번호	1	75					Y
+STOCK_BID_DYNAMIC_COLUMN_H1	ko	ProductWhCdNm	위치	8	40					Y
+STOCK_BID_DYNAMIC_COLUMN_H1	ko	SubstSpecCdN1	규격	3	100					Y
+STOCK_BID_DYNAMIC_COLUMN_H1	ko	TslTestTs	TS<BR>(MPa)	6	45					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	CStConstCRst	C<BR>(%)	8	40					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	CyberPrdWgt	중량<BR>(kg)	13	45					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	HardRst	경도	10	30					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	LastOutOrderOccurCauCd	원인<Br />코드	11	30					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	LowestPrice	최저가	14	40					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	OilingMethodCd	도유	7	30					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	OrdPdtItdsCdN	품명	0	30					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	PrdFormula	치수<BR>(mm)	4	100					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	ProductNo	제품번호	1	72					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	ProductWhCdNm	위치	12	30					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	RstPlQtyFormula	도금량	6	40					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	RstSurfaceFinishCd	표면마무리	5	30					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	SubstSpecCdN1	규격	3	80					Y
+STOCK_BID_DYNAMIC_COLUMN_HG	ko	TslTestTs	TS<BR>(MPa)	9	45					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	CStConstCRst	C<BR>(%)	5	45					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	CyberPrdWgt	중량<BR>(kg)	10	45					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	LastOutOrderOccurCauCd	원인<Br />코드	8	40					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	LowestPrice	최저가	11	45					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	OrdPdtItdsCdN	품명	0	35					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	PackShQty	매수	7	30					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	PrdFormula	치수<BR>(mm)	4	130					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	ProductNo	제품번호	1	90					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	ProductWhCdNm	위치	9	40					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	SubstSpecCdN1	규격<BR>(mm)	3	85					Y
+STOCK_BID_DYNAMIC_COLUMN_P1	ko	TslTestTs	TS<BR>(MPa)	6	45					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	CStConstCRst	C<BR>(%)	6	45					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	CyberPrdWgt	중량<BR>(kg)	11	50					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	HardRst	경도	8	30					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	LastOutOrderOccurCauCd	원인<Br />코드	9	35					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	LowestPrice	최저가	12	40					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	OilingMethodCd	도유	5	40					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	OrdPdtItdsCdN	품명	0	35					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	PrdFormula	치수<BR>(mm)	4	140					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	ProductNo	제품번호	1	70					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	ProductWhCdNm	위치	10	30					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	SubstSpecCdN1	규격	3	80					Y
+STOCK_BID_DYNAMIC_COLUMN_PO	ko	TslTestTs	TS<BR>(MPa)	7	45					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	CoatingTypeCd	포면보호막	7	45					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	CyberPrdWgt	중량<BR>(kg)	11	40					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	EdgeFlag	EDGE	8	40					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	LastOutOrderOccurCauCd	원인<Br />코드	9	35					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	LowestPrice	최저가	12	45					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	OrdPdtItdsCdN	품명	0	40					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	PrdFormula	치수<BR>(mm)	4	120					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	ProductNo	제품번호	1	73					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	ProductWhCdNm	위치	10	35					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	RstSurfaceFinishCd	표면마무리	6	45					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	SubstSpecCdN1	규격	3	80					Y
+STOCK_BID_DYNAMIC_COLUMN_QC	ko	SubstUsageCdN1	용도	5	35					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	CyberPrdWgt	중량<BR>(kg)	11	45					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	EdgeFlag	EDGE	8	40					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	GrindingRstFlag	GD	6	35					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	LastOutOrderOccurCauCd	원인<Br />코드	9	35					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	LowestPrice	최저가	12	45					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	OrdPdtItdsCdN	품명	0	40					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	PaperInsertFlag	간지	7	35					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	PrdFormula	치수<BR>(mm)	4	120					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	ProductNo	제품번호	1	70					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	ProductWhCdNm	위치	10	35					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	SubstSpecCdN1	규격	3	80					Y
+STOCK_BID_DYNAMIC_COLUMN_QH	ko	SubstUsageCdN1	용도	5	35					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	CyberPrdWgt	중량<BR>(kg)	11	65@65					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	LastOutOrderOccurCauCd	원인<Br />코드	9	50@50					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	LowestPrice	최저가	12	70@70					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	OilingMethodCd	도유	7	100@100					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	OrdPdtItdsCdN	품명	0	60@60					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	PackShQty	매수	8	100@100					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	PrdFormula	치수<BR>(mm)	4	140					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	ProductNo	제품번호	1	100@100					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	ProductWhCdNm	위치	10	50					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	RstPlQtyFormula	도금량	6	100@100					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	RstSurfaceFinishCd	표면마무리	5	100@100					Y
+STOCK_BID_DYNAMIC_COLUMN_TP	ko	SubstSpecCdN1	규격	3	100@100					Y
+STOCK_BID_DYNAMIC_COLUMN_W1	ko	567	567	9	*	567	567	567	567	N
+STOCK_BID_DYNAMIC_COLUMN_W1	ko	CyberPrdWgt	중량<BR>(kg)	8	60					Y
+STOCK_BID_DYNAMIC_COLUMN_W1	ko	LastOutOrderOccurCauCd	원인<Br />코드	6	50					Y
+STOCK_BID_DYNAMIC_COLUMN_W1	ko	LowestPrice	최저가	9	60					Y
+STOCK_BID_DYNAMIC_COLUMN_W1	ko	OrdPdtItdsCdN	품명	0	50					Y
+STOCK_BID_DYNAMIC_COLUMN_W1	ko	PrdThk	치수<font size='1'>(Φ)</font>	4	*					Y
+STOCK_BID_DYNAMIC_COLUMN_W1	ko	PrdTotClsSeqNm	등급	2	30					Y
+STOCK_BID_DYNAMIC_COLUMN_W1	ko	ProductNo	제품번호	1	80					Y
+STOCK_BID_DYNAMIC_COLUMN_W1	ko	ProductWhCdNm	위치	7	50					Y
+STOCK_BID_DYNAMIC_COLUMN_W1	ko	SubstSpecCdN1	규격	3	100					Y
+STOCK_BID_DYNAMIC_COLUMN_W1	ko	SubstUsageCdN1	용도	5	50					Y
+STOCK_CODE	ko	B	주문외 1급	0	*					Y
+STOCK_CODE	ko	R	주문외 2급	0	*					Y
+STOCK_CODE	ko	S	급외품	0	*					Y
+STOCK_CODE	ko	V	부생품	0	*					Y
+STS_RL_MK_A_HPN_SD_TP	ko	F	상면	1	*					Y
+STS_RL_MK_A_HPN_SD_TP	ko	R	하면	2	*					Y
+STS_SPEC_GRD	ko	022CR17NI-	GB/T3280-022Cr17Ni12Mo2	1	300	code-class=계열				Y
+STS_SPEC_GRD	ko	022CR19NI10	GB/T3280-022Cr19Ni10	2	300	code-class=계열				Y
+STS_SPEC_GRD	ko	06CR18NI11-	GB/T3280-06Cr18Ni11Ti	3	300	code-class=계열				Y
+STS_SPEC_GRD	ko	06CR19NI10	GB/T3280-06Cr19Ni10	4	300	code-class=계열				Y
+STS_SPEC_GRD	ko	122CR17NI-	GB 24511-022Cr17Ni12Mo2	5	300	code-class=계열				Y
+STS_SPEC_GRD	ko	122CR19NI10	GB 24511-022Cr19Ni10	6	300	code-class=계열				Y
+STS_SPEC_GRD	ko	16CR18NI11-	GB 24511-06Cr18Ni11Ti	7	300	code-class=계열				Y
+STS_SPEC_GRD	ko	16CR19NI10	GB 24511-06Cr19Ni10	8	300	code-class=계열				Y
+STS_SPEC_GRD	ko	AISI301	AISI301	9	300	code-class=계열				Y
+STS_SPEC_GRD	ko	AISI304	AISI304	10	300	code-class=계열				Y
+STS_SPEC_GRD	ko	AISI304L	AISI304L	11	300	code-class=계열				Y
+STS_SPEC_GRD	ko	AISI316L	AISI316L	12	300	code-class=계열				Y
+STS_SPEC_GRD	ko	AISI321	AISI321	13	300	code-class=계열				Y
+STS_SPEC_GRD	ko	AISI409	AISI409	14	400	code-class=계열				Y
+STS_SPEC_GRD	ko	AISI409NSTA	AISI-409-NSTA	15	400	code-class=계열				Y
+STS_SPEC_GRD	ko	AISI410S	AISI-410	16	400	code-class=계열				Y
+STS_SPEC_GRD	ko	AISI430	AISI430	17	400	code-class=계열				Y
+STS_SPEC_GRD	ko	AISI439	AISI439	18	400	code-class=계열				Y
+STS_SPEC_GRD	ko	AISI441	AISI441	19	400	code-class=계열				Y
+STS_SPEC_GRD	ko	ASME304H-13	2013 ASME-SA240M-304H	20	300	code-class=계열				Y
+STS_SPEC_GRD	ko	AST21	AST21	21	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM2205	ASTM-A240M-2205	22	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM2507	ASTM-A240M-2507	23	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM301	ASTM-A240M-301	24	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM304	ASTM-A240M-304	25	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM304(L)	ASTM-A240M-304/304L	26	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM304L	ASTM-A240M-304L	27	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM304N	ASTM-A240M-304N	28	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM304NI9	ASTM-A240M-304	29	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM309S	ASTM-A240M-309S	30	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM310S	ASTM-A240M-310S	31	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM316	ASTM-A240M-316	32	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM316L	ASTM-A240M-316L	33	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM316TI	ASTM-A240M-316TI	34	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM321	ASTM-A240M-321	35	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM409	ASTM-A240M-409	36	400	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM410S	ASTM-A240M-410S	37	400	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM430	ASTM-A240M-430	38	400	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM436	ASTM-A240M-436	39	400	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM439	ASTM-A240M-439	40	400	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM441	ASTM-A240M-441	41	400	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTM444	ASTM-A240M-444	42	400	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTMS31254	ASTM-A240M-S31254	43	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTMS31803	ASTM-A240M-S31803	44	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTMS32050	ASTM-A240M-S32050/SR50A	45	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTMS32205	ASTM-A240M-S32205	46	300	code-class=계열				Y
+STS_SPEC_GRD	ko	ASTMS43932	ASTM-A240M-439	47	400	code-class=계열				Y
+STS_SPEC_GRD	ko	DIN1.4301	DIN10088-1.4301	48	300	code-class=계열				Y
+STS_SPEC_GRD	ko	DIN1.4307	DIN10088-1.4307	49	300	code-class=계열				Y
+STS_SPEC_GRD	ko	DIN1.4310	DIN10088-1.4310	50	300	code-class=계열				Y
+STS_SPEC_GRD	ko	DIN1.4404	DIN10088-1.4404	51	300	code-class=계열				Y
+STS_SPEC_GRD	ko	DIN1.4509	DIN10088-1.4509	52	400	code-class=계열				Y
+STS_SPEC_GRD	ko	DIN1.4512	DIN10088-1.4512	53	400	code-class=계열				Y
+STS_SPEC_GRD	ko	DIN1.4512F	DIN10088-1.4512	54	400	code-class=계열				Y
+STS_SPEC_GRD	ko	DIN1.4541	DIN10082-1.4541	55	300	code-class=계열				Y
+STS_SPEC_GRD	ko	DIN1.4828	DIN10095-1.4828	56	300	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4003	EN10088-1.4003	57	300	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4016	EN10088-1.4016	58	400	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4301	EN10088-1.4301	59	300	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4307	EN10088-1.4307	60	300	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4310	EN10088-1.4310	61	300	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4404	EN10088-1.4404	62	300	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4439	EN10088-1.4439	63	300	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4509	EN10088-1.4509	64	400	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4510	EN10088-1.4510	65	400	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4512	EN10088-1.4512	66	400	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4541	EN10082-1.4541	67	300	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4571	EN10088-1.4571	68	300	code-class=계열				Y
+STS_SPEC_GRD	ko	EN1.4828	EN10095-1.4828	69	300	code-class=계열				Y
+STS_SPEC_GRD	ko	HIPOS	HIPOS	70	300	code-class=계열				Y
+STS_SPEC_GRD	ko	IS430TI1	IS 6911-430TI1	71	400	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911301	IS 6911-301	72	300	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911304S1	IS 6911-304S1	73	300	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911304S2	IS 6911-304S2	74	300	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911315	IS 6911-315	75	300	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911316L	IS 6911-316L	76	300	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911321	IS 6911-321	77	300	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911409	IS 6911-409	78	400	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911429	IS 6911-429	79	400	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911430	IS 6911-430	80	400	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911430J1	IS 6911-430J1L	81	400	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911430TI	IS6911 430TI / POSCO-SF1	82	400	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911439	IS 6911-439	83	400	code-class=계열				Y
+STS_SPEC_GRD	ko	IS6911441	IS 6911-441	84	400	code-class=계열				Y
+STS_SPEC_GRD	ko	P301-0	P301-0 / STS301	85	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P301-A	P301-A / STS301	86	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304-2	P304-2(ASTM304,EN1.4301/8.5Ni)	87	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304-50	P304-50 / SUS304	88	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304-A	ASTM/SUS/STS304,EN1.4301/8.0Ni	89	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304-D	P304-D / STS304	90	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304-J	P304-J(ASTM304,EN1.4301/9.0Ni)	91	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304-K	ASTM/SUS/STS304,EN1.4301	92	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304J1-1	P304J1-1 / STS304J1	93	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304J1-A	P304J1-A / STS304J1	94	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304L-2	P304L-2 (STS304,SUS304)	95	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304L-A	P304L-A / STS304L	96	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304L-B	P304L-B / STS304L	97	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304L-C	P304L-C / ASTM304L	98	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P304L-M	P304L-M (ASTM304L,EN4307)	99	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P316-A	P316-A / STS316	100	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P316L-A	P316L-A / STS316L	101	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P316L-B	P316L-B / ASTM316L	102	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P316L-M	P316L-M (ASTM316L,EN1.4404)	103	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P321-3	P321-3 (ASTM321, EN1.4541)	104	300	code-class=계열				Y
+STS_SPEC_GRD	ko	P409L-A	P409L-A / SUH409L	105	400	code-class=계열				Y
+STS_SPEC_GRD	ko	P410L-2	P410L-2 / STS410L	106	400	code-class=계열				Y
+STS_SPEC_GRD	ko	P420J2-A	P420J2-A / STS420J2	107	400	code-class=계열				Y
+STS_SPEC_GRD	ko	P420RB-A	P420RB-A / POS420RB	108	400	code-class=계열				Y
+STS_SPEC_GRD	ko	P430-3	P430-3 (ASTM430,EN1.4016)	109	400	code-class=계열				Y
+STS_SPEC_GRD	ko	P430-A	ASTM/SUS/STS430, EN1.4016	110	400	code-class=계열				Y
+STS_SPEC_GRD	ko	P430J1L-A	P430J1L-A / STS430J1L	111	400	code-class=계열				Y
+STS_SPEC_GRD	ko	P430TI-A	P430TI-A / POS430TI	112	400	code-class=계열				Y
+STS_SPEC_GRD	ko	P439-A	P439-A / STS439	113	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO204	POSCO204	114	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO301	KS D3698-STS301	115	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO304CUW	POSCO304CUW	116	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO304GS	POSCO304GS	117	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO304LS	POSCO304LS	118	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO304XD	POSCO304XD	119	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO316HN	POSCO316HN	120	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO316HN1	POSCO316HN1	121	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO316HN3	POSCO316HN3	122	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO316L	POSCO316L	123	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO316LMO	POSCO316LMO	124	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO318FC	POSCO318FC	125	300	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO420RB	POSCO420RB	126	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO420RB2	POSCO420RB2	127	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO428SI	POSCO428SI	128	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO429CP	POSCO429CP	129	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO429EM	POSCO429EM	130	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO429TP	POSCO429TP	131	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO430H	POSCO430H	132	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO430M2	POSCO430M2	133	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO430RE	POSCO430RE	134	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO430TI	POSCO430TI	135	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO439	POSCO439	136	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO439M	POSCO439M	137	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO439XF	POSCO439XF	138	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO441	POSCO441	139	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO441LN	POSCO441LN	140	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO444LM	POSCO444LM	141	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO444XH	POSCO444XH	142	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO445NF	POSCO445NF	143	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO446M	POSCO446M	144	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO460FC	POSCO460FC	145	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO470FC	POSCO470FC	146	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO_SF1	POSCO430SF1	156	400	code-class=계열				Y
+STS_SPEC_GRD	ko	POSCO_XF1	POSCO430XF1	157	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SS409M	SS409M	162	400	code-class=계열				Y
+STS_SPEC_GRD	ko	STS301	KS D3698-STS301	163	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS301L	KS D3698-STS301L	164	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS304	KS D3698-STS304	165	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS304J1	KS D3698-STS304J1	166	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS304L	KS D3698-STS304L	167	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS310S	KS D3698-STS310S	168	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS316L	KS D3698-STS316L	169	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS316TI	KS D3698-STS316TI	170	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS321	KS D3698-STS321	171	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS329FLD	KS D3698-STS329FLD	172	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS329J3L	KS D3698-STS329J3L	173	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS329LD	KS D3698-STS329LD	174	300	code-class=계열				Y
+STS_SPEC_GRD	ko	STS410	KS D3698-STS410	175	400	code-class=계열				Y
+STS_SPEC_GRD	ko	STS410L	KS D3698-STS410L	176	400	code-class=계열				Y
+STS_SPEC_GRD	ko	STS420J2	KS D3698-STS420J2	177	400	code-class=계열				Y
+STS_SPEC_GRD	ko	STS430	KS D3698-STS430	178	400	code-class=계열				Y
+STS_SPEC_GRD	ko	STS430J1L	KS D3698-STS430J1L	179	400	code-class=계열				Y
+STS_SPEC_GRD	ko	STS436J1L	KS D3698-STS436J1L	180	400	code-class=계열				Y
+STS_SPEC_GRD	ko	STS436L	KS D3698-STS436L	181	400	code-class=계열				Y
+STS_SPEC_GRD	ko	STS439	KS D3698-STS439	182	400	code-class=계열				Y
+STS_SPEC_GRD	ko	STS444	KS D3698-STS444	183	400	code-class=계열				Y
+STS_SPEC_GRD	ko	STS445NF	KS D3698-STS445NF	184	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUH409L	JIS-G4312-SUH409L	186	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS301	JIS-G4305-SUS301	187	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS301L	JIS-G4305-SUS301L	188	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS304	JIS-G4305-SUS304	189	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS304J1	JIS-G4305-SUS304J1	190	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS304L	JIS-G4305-SUS304L	191	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS304N1	JIS-G4305-SUS304N1	192	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS304NI8.5	JIS-G4305-SUS304	193	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS316	JIS-G4305-SUS316	194	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS316L	JIS-G4305-SUS316L	195	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS316TI	JIS-G4305-SUS316TI	196	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS321	JIS-G4305-SUS321	197	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS329J3L	JIS-G4305-SUS329J3L	198	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS329J4L	JIS-G4305-SUS329J4L	199	300	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS409L	JIS-G4305-SUS409L	200	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS409LT	JIS-G4305-SUS409LT	201	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS410L	JIS-G4305-SUS410L	202	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS420J2	JIS-G4305-SUS420J2	203	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS430	JIS-G4305-SUS430	204	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS430J1L	JIS-G4305-SUS430J1L	205	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS430LX	JIS-G4305-SUS430LX	206	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS436J1L	JIS-G4305-SUS436J1L	207	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS436L	JIS-G4305-SUS436L	208	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS439MT	JIS-G4305-SUS439MT	209	400	code-class=계열				Y
+STS_SPEC_GRD	ko	SUS444	JIS-G4305-SUS444	210	400	code-class=계열				Y
+STS_SPEC_GRD	ko	ZP304-8K	ZP304-8K	211	300	code-class=계열				Y
+SVC_TCD	ko	N	공로운송	1	*					Y
+TAX_DOMESTIC_TYPE	ko	F	내수	2	*					Y
+TAX_DOMESTIC_TYPE	ko	P	L/C거래	1	*					Y
+TAX_DOMESTIC_TYPE	ko	Z	클레임	3	*					Y
+TERMS_DETAIL_CD	ko	B01	구매약관(필수)	0	*	구매사 상세약관1				Y
+TERMS_DETAIL_CD	ko	E01	윤리실천특별약관(필수)	2	*	윤리실천특별약관 상세1				Y
+TERMS_DETAIL_CD	ko	I01	개인정보의 수집 및 이용 동의(필수)	3	*	개인정보의 수집 및 이용 동의(필수)				Y
+TERMS_DETAIL_CD	ko	I02	개인정보의 수집 및 이용 동의(선택)	4	*	개인정보의 수집 및 이용 동의(선택)				Y
+TERMS_DETAIL_CD	ko	I03	개인정보 처리위탁에 대한 동의(선택)	5	*	개인정보 처리위탁에 대한 동의(선택)				Y
+TERMS_DETAIL_CD	ko	I04	개인정보 제3자 제공에 대한 동의(선택)	6	*	개인정보 제3자 제공에 대한 동의(선택)				Y
+TERMS_DETAIL_CD	ko	P01	개인정보처리방침(필수)	7	*	개인정보처리방침				Y
+TERMS_DETAIL_CD	ko	S01	공급약관(필수)	1	*	공급사 상세약관1				Y
+TERMS_TYPE	ko	B	구매약관	0	*	구매사 약관				Y
+TERMS_TYPE	ko	E	윤리실천특별약관	2	*	윤리실철특별약관				Y
+TERMS_TYPE	ko	I	개인정보 수집 및 이용약관	3	*	개인정보 수집 및 이용약관				Y
+TERMS_TYPE	ko	P	개인정보처리방침	4	*	개인정보처리방침				Y
+TERMS_TYPE	ko	S	공급약관	1	*	공급사 약관				Y
+TRANS_ORDER_TYPE	ko	01	출하	1	*					Y
+TRANS_ORDER_TYPE	ko	02	운송	1	*					Y
+TRANS_TARGET	ko	jh_nick@poscointl.com	e-Sales 운송비 담당자	1	01093634810	황대현				
+TRANS_TARGET	ko	shenhc@poscointl.com	e-Sales 운송비 담당자	2	01074469441	심환철				
+TRANS_YN	ko	Y	운송사	0	*	운송사				Y
+TRFF_ITEM_CD	ko	B1	Billet 기타	5	*					Y
+TRFF_ITEM_CD	ko	B2	슬라브 기타	6	*					Y
+TRFF_ITEM_CD	ko	C1	냉연	7	*					Y
+TRFF_ITEM_CD	ko	EC	기타Coil	8	*					Y
+TRFF_ITEM_CD	ko	H1	열연	1	*					Y
+TRFF_ITEM_CD	ko	P1	PLATE	2	*					Y
+TRFF_ITEM_CD	ko	P2	HR PLATE	3	*					Y
+TRFF_ITEM_CD	ko	QC	STS 냉연	10	*					Y
+TRFF_ITEM_CD	ko	QH	STS 열연	9	*					Y
+TRFF_ITEM_CD	ko	W1	선재	4	*					Y
+TRNS_COST_TCD	ko	T01	공로	1	*					Y
+TRNS_COST_TCD	ko	T02	전자입찰	2	*					Y
+TYPE_TP	ko	1	지급내역	0	*					Y
+TYPE_TP	ko	2	환불내역	1	*					Y
+USER_TYPE	ko	N	사용자	2	*					Y
+USER_TYPE	ko	Y	마스터	1	*					Y
+USE_YN	ko	N	미사용	2	*					Y
+USE_YN	ko	Y	사용	1	*					Y
+WAREHOUSE	ko	ALL	Total	0	*					Y
+WAREHOUSE	ko	K	광양	2	*					Y
+WAREHOUSE	ko	P	포항	1	*					Y
+WAREHOUSE_N	ko	ALL	Total	0	*					Y
+WAREHOUSE_N	ko	G	강릉	4	M					Y
+WAREHOUSE_N	ko	K	광양	2	*					Y
+WAREHOUSE_N	ko	M	순천	3	M					Y
+WAREHOUSE_N	ko	P	포항	1	*					Y
+WEEK	ko	1	일요일	7	*					Y
+WEEK	ko	2	월요일	1	*					Y
+WEEK	ko	3	화요일	2	*					Y
+WEEK	ko	4	수요일	3	*					Y
+WEEK	ko	5	목요일	4	*					Y
+WEEK	ko	6	금요일	5	*					Y
+WEEK	ko	7	토요일	6	*					Y
+WGT_SECTION_CD	ko	A	15톤 미만	1	*					Y
+WGT_SECTION_CD	ko	B	15톤 이상	2	*					Y
+WGT_SECTION_CD	ko	C	15톤 미만  톤당, 24톤 미만 대당	2	*					Y
+WGT_SECTION_CD	ko	D	15톤 미만 대당, 24톤 미만 대당	3	*					Y
+WGT_UNIT	ko	1	M/T	1	*					Y
+WISH_PKG_001	ko	CG	냉연	0	*					
+WISH_PKG_002	ko	H1	열연	0	*					
+WISH_PKG_003	ko	P1	후판	0	*					
+WORKS_CODE	ko	K	광양	1	*					Y
+WORKS_CODE	ko	P	포항	2	*					Y
+YEAR	en	2018	2018년	1	*					N
+YEAR	ko	2018	2018년	1	*					N
+YEAR	ko	2019	2019년	2	*					Y
+YEAR	en	2019	2019년	2	*					Y
+YEAR	ko	2020	2020년	3	*					Y
+YEAR	en	2020	2020년	3	*					Y
+YEAR	ko	2021	2021년	4	*					Y
+YEAR	en	2021	2021년	4	*					Y
+YEAR	en	2022	2022년	5	*					Y
+YEAR	ko	2022	2022년	5	*					Y
+YEAR	ko	2023	2023년	6	*					Y
+YEAR	en	2023	2023년	6	*					Y
+YEAR	en	2024	2024년	7	*					Y
+YEAR	ko	2024	2024년	7	*					Y
+YEAR	ko	2025	2025년	8	*					Y
+YEAR	en	2025	2025년	8	*					Y
+YEAR	ko	2026	2026년	9	*					Y
+YEAR	en	2026	2026년	9	*					Y
+YEAR	ko	2027	2027년	10	*					Y
+YEAR	en	2027	2027년	10	*					Y
+YEAR	ko	2028	2028년	11	*					Y
+YEAR	en	2028	2028년	11	*					Y
+YEAR	en	2029	2029년	12	*					Y
+YEAR	ko	2029	2029년	12	*					Y
+YEAR	en	2030	2030년	13	*					Y
+YEAR	ko	2030	2030년	13	*					Y
+YEAR	ko	2031	2031년	14	*					N
+YEAR	en	2031	2031년	14	*					N
+YEAR	en	2032	2032년	15	*					N
+YEAR	ko	2032	2032년	15	*					N
+YEAR	ko	2033	2033년	16	*					N
+YEAR	en	2033	2033년	16	*					N
+YEAR	en	2034	2034년	17	*					N
+YEAR	ko	2034	2034년	17	*					N
+YEAR	ko	2035	2035년	18	*					N
+YEAR	en	2035	2035년	18	*					N
+YEAR	en	2036	2036년	19	*					N
+YEAR	ko	2036	2036년	19	*					N
+YEAR	ko	2037	2037년	20	*					N
+YEAR	en	2037	2037년	20	*					N
+YEAR	en	2038	2038년	21	*					N
+YEAR	ko	2038	2038년	21	*					N
+YEAR	ko	2039	2039년	22	*					N
+YEAR	en	2039	2039년	22	*					N
+YEAR	en	2040	2040년	23	*					N
+YEAR	ko	2040	2040년	23	*					N
+YEAR	ko	2041	2041년	24	*					N
+YEAR	en	2041	2041년	24	*					N
+YEAR	ko	2042	2042년	25	*					N
+YEAR	en	2042	2042년	25	*					N
+YEAR	en	2043	2043년	26	*					N
+YEAR	ko	2043	2043년	26	*					N
+YEAR	ko	2044	2044년	27	*					N
+YEAR	en	2044	2044년	27	*					N
+YEAR	ko	2045	2045년	28	*					N
+YEAR	en	2045	2045년	28	*					N
+YEAR	ko	2046	2046년	29	*					N
+YEAR	en	2046	2046년	29	*					N
+YEAR	ko	2047	2047년	30	*					N
+YEAR	en	2047	2047년	30	*					N
+YEAR	ko	2048	2048년	31	*					N
+YEAR	en	2048	2048년	31	*					N
+YEAR	en	2049	2049년	32	*					N
+YEAR	ko	2049	2049년	32	*					N
+YEAR	en	2050	2050년	33	*					N
+YEAR	ko	2050	2050년	33	*					N
+YEAR	en	2051	2051년	34	*					N
+YEAR	ko	2051	2051년	34	*					N
+YEAR	en	2052	2052년	35	*					N
+YEAR	ko	2052	2052년	35	*					N
+YEAR	ko	2053	2053년	36	*					N
+YEAR	en	2053	2053년	36	*					N
+YEAR	ko	2054	2054년	37	*					N
+YEAR	en	2054	2054년	37	*					N
+YEAR	en	2055	2055년	38	*					N
+YEAR	ko	2055	2055년	38	*					N
+YEAR	ko	2056	2056년	39	*					N
+YEAR	en	2056	2056년	39	*					N
+YEAR	ko	2057	2057년	40	*					N
+YEAR	en	2057	2057년	40	*					N
+YEAR	ko	2058	2058년	41	*					N
+YEAR	en	2058	2058년	41	*					N
+YEAR	en	2059	2059년	42	*					N
+YEAR	ko	2059	2059년	42	*					N
+YEAR	ko	2060	2060년	43	*					N
+YEAR	en	2060	2060년	43	*					N
+YEAR	ko	2061	2061년	44	*					N
+YEAR	en	2061	2061년	44	*					N
+YEAR	ko	2062	2062년	45	*					N
+YEAR	en	2062	2062년	45	*					N
+YEAR	ko	2063	2063년	46	*					N
+YEAR	en	2063	2063년	46	*					N
+YEAR	ko	2064	2064년	47	*					N
+YEAR	en	2064	2064년	47	*					N
+YEAR	ko	2065	2065년	48	*					N
+YEAR	en	2065	2065년	48	*					N
+YEAR	en	2066	2066년	49	*					N
+YEAR	ko	2066	2066년	49	*					N
+YEAR	en	2067	2067년	50	*					N
+YEAR	ko	2067	2067년	50	*					N
+YEAR	en	2068	2068년	51	*					N
+YEAR	ko	2068	2068년	51	*					N
+YEAR	ko	2069	2069년	52	*					N
+YEAR	en	2069	2069년	52	*					N
+YEAR	en	2070	2070년	53	*					N
+YEAR	ko	2070	2070년	53	*					N
+YEAR	ko	2071	2071년	54	*					N
+YEAR	en	2071	2071년	54	*					N
+YEAR	en	2072	2072년	55	*					N
+YEAR	ko	2072	2072년	55	*					N
+YEAR	ko	2073	2073년	56	*					N
+YEAR	en	2073	2073년	56	*					N
+YEAR	en	2074	2074년	57	*					N
+YEAR	ko	2074	2074년	57	*					N
+YEAR	en	2075	2075년	58	*					N
+YEAR	ko	2075	2075년	58	*					N
+YEAR	ko	2076	2076년	59	*					N
+YEAR	en	2076	2076년	59	*					N
+YEAR	en	2077	2077년	60	*					N
+YEAR	ko	2077	2077년	60	*					N
+YEAR	ko	2078	2078년	61	*					N
+YEAR	en	2078	2078년	61	*					N
+YEAR	en	2079	2079년	62	*					N
+YEAR	ko	2079	2079년	62	*					N
+YEAR	en	2080	2080년	63	*					N
+YEAR	ko	2080	2080년	63	*					N
+YEAR	ko	2081	2081년	64	*					N
+YEAR	en	2081	2081년	64	*					N
+YEAR	ko	2082	2082년	65	*					N
+YEAR	en	2082	2082년	65	*					N
+YEAR	ko	2083	2083년	66	*					N
+YEAR	en	2083	2083년	66	*					N
+YEAR	en	2084	2084년	67	*					N
+YEAR	ko	2084	2084년	67	*					N
+YEAR	ko	2085	2085년	68	*					N
+YEAR	en	2085	2085년	68	*					N
+YEAR	en	2086	2086년	69	*					N
+YEAR	ko	2086	2086년	69	*					N
+YEAR	ko	2087	2087년	70	*					N
+YEAR	en	2087	2087년	70	*					N
+YEAR	ko	2088	2088년	71	*					N
+YEAR	en	2088	2088년	71	*					N
+YEAR	ko	2089	2089년	72	*					N
+YEAR	en	2089	2089년	72	*					N
+YEAR	en	2090	2090년	73	*					N
+YEAR	ko	2090	2090년	73	*					N
+YEAR	en	2091	2091년	74	*					N
+YEAR	ko	2091	2091년	74	*					N
+YEAR	ko	2092	2092년	75	*					N
+YEAR	en	2092	2092년	75	*					N
+YEAR	ko	2093	2093년	76	*					N
+YEAR	en	2093	2093년	76	*					N
+YEAR	ko	2094	2094년	77	*					N
+YEAR	en	2094	2094년	77	*					N
+YEAR	ko	2095	2095년	78	*					N
+YEAR	en	2095	2095년	78	*					N
+YEAR	ko	2096	2096년	79	*					N
+YEAR	en	2096	2096년	79	*					N
+YEAR	ko	2097	2097년	80	*					N
+YEAR	en	2097	2097년	80	*					N
+YEAR	ko	2098	2098년	81	*					N
+YEAR	en	2098	2098년	81	*					N
+YEAR	en	2099	2099년	82	*					N
+YEAR	ko	2099	2099년	82	*					N
+YEAR	ko	2100	2100년	83	*					N
+YEAR	en	2100	2100년	83	*					N
+dormancy	ko	90	휴면일 수	0	*					Y
+
+
+
+
