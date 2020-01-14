@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans:beans
+	xmlns="http://www.springframework.org/schema/security"
+	xmlns:beans="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:security="http://www.springframework.org/schema/security"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+                        http://www.springframework.org/schema/beans/spring-beans.xsd
+				        http://www.springframework.org/schema/context
+				        http://www.springframework.org/schema/context/spring-context.xsd
+                        http://www.springframework.org/schema/security
+                        http://www.springframework.org/schema/security/spring-security.xsd">
+
+	<http use-expressions="true">
+		<intercept-url pattern="/assets/**" 	access="permitAll" />
+		<intercept-url pattern="/common/**" 	access="permitAll" />
+		<intercept-url pattern="/css/**" 		access="permitAll" />
+		<intercept-url pattern="/images/**" 	access="permitAll" />
+		<intercept-url pattern="/js/**" 		access="permitAll" />
+		<intercept-url pattern="/scss/**" 		access="permitAll" />
+		
+		<!-- 
+		<intercept-url pattern="/login/loginForm.do" 	access="permitAll" />
+		<intercept-url pattern="/home.do" 				access="permitAll" />
+		 -->
+		<intercept-url pattern="/admin/**" 				access="hasRole('ADMIN')" />
+		<intercept-url pattern="/protoType/**" 			access="hasRole('ADMIN')" />
+		
+		<intercept-url pattern="/**" 					access="permitAll" />
+		
+		<form-login     
+			login-processing-url="/login"
+			login-page="/login/loginForm.do" 
+			default-target-url="/home.do" 
+			username-parameter="id" 
+			password-parameter="password"
+			authentication-failure-url="/login/loginForm.do?error" 
+		/> 
+					
+    	<csrf disabled="true"/>
+    	 
+		<logout logout-url="/logout" logout-success-url="/home.do" />
+		<access-denied-handler error-page="/login/accessDenied.do" />
+	</http> 
+	
+	<!-- provider -->
+	
+	<authentication-manager>
+		<authentication-provider>
+			<user-service>
+				<user name="user" password="1" authorities="ROLE_USER" />
+				<user name="admin" password="1" authorities="ROLE_ADMIN" />
+			</user-service>
+		</authentication-provider>
+	</authentication-manager>
+	
+	
+	<!--
+	<beans:bean id="userDetailsService" class="org.springframework.security.core.userdetails.jdbc.JdbcDaoImpl">
+	    <beans:property name="dataSource" ref="dataSource"/>
+	</beans:bean>
+	-->
+	
+	<!--  provider  --><!-- 
+	<authentication-manager>
+	    <authentication-provider>
+		    <jdbc-user-service 
+		        data-source-ref="dataSource"
+		        role-prefix=""
+		        users-by-username-query="select user_id, password, enabled from tb_users where user_id = ?"
+		        authorities-by-username-query="select user_id auth from tb_auth where user_id = ?"
+		        group-authorities-by-username-query="select g.group_id, g.group_id, ga.auth from tb_groups g, tb_group_members gm, tb_group_auth ga where gm.user_id = ? and g.group_id = ga.group_id and g.group_id = gm.group_id"
+		    />
+	    </authentication-provider>
+	</authentication-manager>
+ -->
+
+</beans:beans>

@@ -42,9 +42,9 @@
     <!-- Bootstrap Core CSS -->
     <link href="/assets/plugins/bootstrap/css/bootstrap.min.css" rel="stylesheet">
     <!-- Custom CSS -->
-    <link href="css/style.css" rel="stylesheet">
+    <link href="/css/style.css" rel="stylesheet">
     <!-- You can change the theme colors from here -->
-    <link href="css/colors/blue.css" id="theme" rel="stylesheet">
+    <link href="/css/colors/blue.css" id="theme" rel="stylesheet">
 
     <!-- <script src="ES6_03.js"></script> -->
 </head>
@@ -275,9 +275,10 @@
     
     
     
-<script type="text/babel">
+<!-- <script type="text/babel"> -->
+<script type="text/javascript">
 	$( document ).ready(function() {
-		getProtoTypeList();
+		//getProtoTypeList();
 
 		$('#btnClick').click(function(){
 			getProtoTypeList();
@@ -286,7 +287,7 @@
 
 
 	let getProtoTypeList = function(){
-		_ajaxCall('/selectProtoTypeList.ajax', $('#frmSearch').serialize(), cb_protoTypeList);	
+		_ajaxCall('/protoType/selectProtoTypeList.ajax', $('#frmSearch').serialize(), cb_protoTypeList);	
 	};
   
 	let cb_protoTypeList = function(data){
@@ -338,15 +339,15 @@
     <script src="/assets/plugins/bootstrap/js/popper.min.js"></script>
     <script src="/assets/plugins/bootstrap/js/bootstrap.min.js"></script>
     <!-- slimscrollbar scrollbar JavaScript -->
-    <script src="js/jquery.slimscroll.js"></script>
+    <script src="/js/jquery.slimscroll.js"></script>
     <!--Wave Effects -->
-    <script src="js/waves.js"></script>
+    <script src="/js/waves.js"></script>
     <!--Menu sidebar -->
-    <script src="js/sidebarmenu.js"></script>
+    <script src="/js/sidebarmenu.js"></script>
     <!--stickey kit -->
     <script src="/assets/plugins/sticky-kit-master/dist/sticky-kit.min.js"></script>
     <!--Custom JavaScript -->
-    <script src="js/custom.min.js"></script>
+    <script src="/js/custom.min.js"></script>
     <!-- ============================================================== -->
     <!-- Style switcher -->
     <!-- ============================================================== -->

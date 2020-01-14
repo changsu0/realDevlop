@@ -10,7 +10,7 @@ Global Styles
 *******************/
 
 * {
-    outline: none; 
+    outline: none;
 }
 
 body {
@@ -238,11 +238,11 @@ html body {
         margin: 0px;
     }
 
-    .ml-1 {
+    .m-l-5 {
         margin-left: 5px;
     }
 
-    .ml-2 {
+    .m-l-10 {
         margin-left: 10px;
     }
 
@@ -250,23 +250,23 @@ html body {
         margin-left: 15px;
     }
 
-    .ml-3 {
+    .m-l-20 {
         margin-left: 20px;
     }
 
-    .ml-4 {
+    .m-l-30 {
         margin-left: 30px;
     }
 
-    .ml-5 {
+    .m-l-40 {
         margin-left: 40px;
     }
 
-    .mr-1 {
+    .m-r-5 {
         margin-right: 5px;
     }
 
-    .mr-2 {
+    .m-r-10 {
         margin-right: 10px;
     }
 
@@ -274,27 +274,27 @@ html body {
         margin-right: 15px;
     }
 
-    .mr-3 {
+    .m-r-20 {
         margin-right: 20px;
     }
 
-    .mr-4 {
+    .m-r-30 {
         margin-right: 30px;
     }
 
-    .mr-5 {
+    .m-r-40 {
         margin-right: 40px;
     }
 
-    .mt-0 {
+    .m-t-0 {
         margin-top: 0px;
     }
 
-    .mt-1 {
+    .m-t-5 {
         margin-top: 5px;
     }
 
-    .mt-2 {
+    .m-t-10 {
         margin-top: 10px;
     }
 
@@ -302,27 +302,27 @@ html body {
         margin-top: 15px;
     }
 
-    .mt-3 {
+    .m-t-20 {
         margin-top: 20px;
     }
 
-    .mt-4 {
+    .m-t-30 {
         margin-top: 30px;
     }
 
-    .mt-5 {
+    .m-t-40 {
         margin-top: 40px;
     }
 
-    .mb-0 {
+    .m-b-0 {
         margin-bottom: 0px;
     }
 
-    .mb-1 {
+    .m-b-5 {
         margin-bottom: 5px;
     }
 
-    .mb-2 {
+    .m-b-10 {
         margin-bottom: 10px;
     }
 
@@ -330,15 +330,15 @@ html body {
         margin-bottom: 15px;
     }
 
-    .mb-3 {
+    .m-b-20 {
         margin-bottom: 20px;
     }
 
-    .mb-4 {
+    .m-b-30 {
         margin-bottom: 30px;
     }
 
-    .mb-5 {
+    .m-b-40 {
         margin-bottom: 40px;
     }
 
@@ -451,9 +451,9 @@ html body {
 /*******************
 Background Colors
 *******************/
-html body {
+
 .bg-primary {
-    background-color: $primary !important;
+    background-color: $primary!important;
 }
 
 .bg-success {
@@ -479,7 +479,7 @@ html body {
 }
 
 .bg-inverse {
-    background-color: $inverse;
+    background-color: $inverse !important;
 }
 
 .bg-purple {
@@ -518,7 +518,7 @@ html body {
 .bg-white {
     background-color: $white;
 }
-}
+
 /*******************
 Rounds
 *******************/
@@ -734,20 +734,18 @@ Table Cell
     display: table-cell;
     vertical-align: middle;
 }
-/* .table td, .table th{
+.table td, .table th{
     border-color:$table-border; 
-} */
+}
 .table thead th, .table th{
     font-weight:500;
 }
 .table-hover tbody tr:hover{
     background:$light;
 }
-html body {
-.jqstooltip {
+html body .jqstooltip {
     width: auto;
     height: auto;
-}
 }
 .v-middle{
     td, th{
@@ -850,15 +848,15 @@ Wave Effects
         background-color: rgba(0, 150, 136, 0.7);
     }
 }
-html body {
-.waves-notransition {
+
+html body .waves-notransition {
     -webkit-transition: none;
-    -moz-transition: none ;
+    -moz-transition: none;
     -o-transition: none;
     -ms-transition: none;
     transition: none;
 }
-}
+
 .waves-circle {
     -webkit-transform: translateZ(0);
     -moz-transform: translateZ(0);
@@ -935,9 +933,8 @@ html body {
 }
 
 /*Text Color*/
-
 .text-white {
-    color: $white;
+    color: $white!important;
 }
 
 .text-danger {
@@ -961,7 +958,7 @@ html body {
 }
 
 .text-inverse {
-    color: $inverse!important;
+    color: $inverse;
 }
 
 .text-blue {
@@ -2102,24 +2099,16 @@ Layouts
 .card-no-border{
     .card{
         border: 0px;
+        
     }
     .sidebar-footer{
         background:$sidebar-white;
 
     }
-    .page-wrapper{
-        background:$light;
-    }
-    .left-sidebar{
-      box-shadow:1px 0px 20px rgba(0, 0, 0, 0.08);  
-    }
-    /* .left-sidebar, .sidebar-nav{
-        background:$sidebar-white;
-        
-    }
+    
     .sidebar-nav>ul>li>a.active{
-        background:$light;
-    } */
+        background:$white;
+    }
 }
 .card-no-border .shadow-none{
     box-shadow: none;
@@ -2153,22 +2142,6 @@ Layouts
     .page-wrapper{
         margin-left: 0px;
     }
-}
-
-/*******************/
-/*Documentation*/
-/*******************/
-
-.fix-width{
-    width:100%;
-    max-width: 1170px; 
-    margin:0 auto;
-}
-ul.common li{
-    display: inline-block;
-    line-height: 40px;
-    list-style: outside none none;
-    width: 48%;
 }
 
 /***********************

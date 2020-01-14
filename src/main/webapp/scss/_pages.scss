@@ -1,10 +1,10 @@
-
 /*
 Template Name: Monster Admin
 Author: Themedesigner
 Email: niravjoshi87@gmail.com
 File: scss
 */
+
 
 /*============================================================== 
  For all pages 
@@ -28,12 +28,16 @@ File: scss
 .page-wrapper {
     background: $bodycolor;
     padding-bottom: 60px;
+    padding-top: 60px;
 }
 
 .container-fluid {
-    padding: 25px 30px;
+    padding: 25px 0px;
+    max-width: 1280px;
 }
-
+.sidebartoggler {
+    display: none;
+}
 
 /*******************
  Topbar
@@ -44,13 +48,15 @@ File: scss
     z-index: 50;
     .top-navbar {
         min-height: 70px;
-        padding: 0px 15px 0 0;
+        margin: 0 auto;
+        max-width: 1280px;
+        padding: 0px;
         .dropdown-toggle::after {
             display: none;
         }
         .navbar-header {
             line-height: 65px;
-            text-align: center;
+            
             .navbar-brand {
                 margin-right: 0px;
                 padding-bottom: 0px;
@@ -486,6 +492,7 @@ ul#themecolors {
     bottom: 0;
     color: $bodytext;
     left: 0px;
+     text-align: center;
     padding: 17px 15px;
     position: absolute;
     right: 0;
@@ -752,13 +759,15 @@ html body .accordion {
     height: 100%;
 }
 
-html body .jqstooltip, 
-html body .flotTip {
-    width: auto!important;
-    height: auto!important;
+html body{
+    .jqstooltip,
+.flotTip {
+    width: auto !important;
+    height: auto !important;
     background: $dark;
     color: $white;
     padding: 5px 10px;
+}
 }
 
 
@@ -1196,7 +1205,6 @@ Form addons page
         }
     }
 }
-
 .select2-container--default .select2-selection--single{
     border-color:$form-brd;
     height:38px;
@@ -1209,9 +1217,8 @@ Form addons page
     height:33px; 
 }
 .input-form .btn {
-    padding: 7px 12px;
+    padding: 10px 12px;
 }
-
 
 
 /*============================================================== 
@@ -1221,23 +1228,19 @@ Form Material page
 .form-material .form-group{ overflow:hidden;}
 .form-material .form-control {
     background-color: rgba(0, 0, 0, 0);
-    // background-position: center bottom, center calc(100% - 1px);
-    background-position: bottom;
+    background-position: center bottom, center calc(100% - 1px);
     background-repeat: no-repeat;
     background-size: 0 2px, 100% 1px;
     padding: 0;
     transition: background 0s ease-out 0s;
     height: calc(2.25rem + 2px);
-    border-bottom: 1px solid $border !important;
 }
 .form-material .form-control, .form-material .form-control.focus, .form-material .form-control:focus {
     background-image: linear-gradient($themecolor, $themecolor), linear-gradient($form-brd, $form-brd);
     border: 0 none;
     border-radius: 0;
-    box-shadow: none !important;
+    box-shadow: none;
     float: none;
-    background-position: bottom;
-    
 }
 .form-material .form-control.focus, .form-material .form-control:focus {
     background-size: 100% 2px, 100% 1px;
@@ -2018,10 +2021,6 @@ Table- editable table
 /*******************
 Table- Footable
 ******************/
-/*******************
-Footable Table
-******************/
-
 #demo-foo-accordion .open > .dropdown-menu {
     display: block;
 }
@@ -2061,42 +2060,42 @@ table.footable{
 }
 
 
-.footable .pagination{
-    li{
-        a {
-            position: relative;
-            display: block;
-            padding: .5rem .75rem;
-            margin-left: -1px;
-            line-height: 1.25;
-            color: #0275d8;
-            background-color: $white;
-            border: 1px solid #ddd;    
+    .footable .pagination{
+        li{
+            a {
+                position: relative;
+                display: block;
+                padding: .5rem .75rem;
+                margin-left: -1px;
+                line-height: 1.25;
+                color: #0275d8;
+                background-color: $white;
+                border: 1px solid #ddd;    
+            }
+            &.active a{
+                z-index: 2;
+                color: #fff;
+                background-color: #0275d8;
+                border-color: #0275d8;
+            }
         }
-        &.active a{
-            z-index: 2;
-            color: #fff;
-            background-color: #0275d8;
-            border-color: #0275d8;
+        li.disabled {
+            a {
+                color: #636c72;
+                pointer-events: none;
+                cursor: not-allowed;
+                background-color: $white;
+                border-color: #ddd;
+            }
+        }
+        li:first-child {
+            a {
+                margin-left: 0;
+                border-bottom-left-radius: .25rem;
+                border-top-left-radius: .25rem;
+            }
         }
     }
-    li.disabled {
-        a {
-            color: #636c72;
-            pointer-events: none;
-            cursor: not-allowed;
-            background-color: $white;
-            border-color: #ddd;
-        }
-    }
-    li:first-child {
-        a {
-            margin-left: 0;
-            border-bottom-left-radius: .25rem;
-            border-top-left-radius: .25rem;
-        }
-    }
-}
 
 
 /*******************
@@ -2654,7 +2653,7 @@ Timeline page
     line-height: 50px;
     color: #fff;
     overflow:hidden;
-    
+   
 }
 
 .timeline > li.timeline-inverted > .timeline-panel {
@@ -3633,6 +3632,7 @@ Error Page
   .footer{
     width:100%;
     left:0px;
+     
     right:0px;
   }
 }
