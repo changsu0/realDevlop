@@ -7,14 +7,14 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
 	<title>Home</title>
-	
+
 	<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
 	<script src="/js/common.js"></script>
 </head>
 <body>
 <h1>Home!</h1>
 
-<%-- 
+<%--
 <sec:authorize access="hasRole('ROLE_USER')">
 <p><a href="<c:url value="/login/loginForm.do" />">USER</a></p>
 </sec:authorize>
@@ -37,12 +37,13 @@
 
 <h3>
 	<!-- <button id="btnClick">aJaaaaaaaaaax</button> -->
-    [<a href="<c:url value="/protoType/noneStyleList.do" />">소개 페이지</a>]
-    [<a href="<c:url value="/admin/adminHome.do" />">관리자 홈</a>]
+    [<a href="<c:url value="/protoType/noneStyleList.do" />">ProtoType NoneStyle GridList</a>]
+    [<a href="<c:url value="/shop/shopUserMgmt.do" />">Shop User Mgmt</a>]
+    <%-- [<a href="<c:url value="/admin/adminHome.do" />">관리자 홈</a>] --%>
 </h3>
 
-    
-    
+
+
 <!-- <script type="text/babel"> -->
 <script type="text/javascript">
 	$( document ).ready(function() {
@@ -55,14 +56,14 @@
 
 	let getProtoTypeList = function(){
 
-		_ajaxCall('/createPdf.ajax', '', cb_protoTypeList);	
+		_ajaxCall('/createPdf.ajax', '', cb_protoTypeList);
 	};
-  
+
 	let cb_protoTypeList = function(data){
 		console.log(data);
 		$('#btnClick').text(data.result);
 	};
-  
+
 </script>
 
 </body>

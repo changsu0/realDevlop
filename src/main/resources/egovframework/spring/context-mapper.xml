@@ -13,5 +13,8 @@
  	<bean class="egovframework.rte.psl.dataaccess.mapper.MapperConfigurer">
 		<property name="basePackage" value="egovframework.realDevlop.mapper" />
 	</bean>
-    
+ 	<bean class="egovframework.rte.psl.dataaccess.mapper.MapperConfigurer">
+		<property name="basePackage" value="egovframework.realDevlop.shop.mapper" />
+	</bean>
+
 </beans>

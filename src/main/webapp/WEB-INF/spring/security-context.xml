@@ -18,33 +18,36 @@
 		<intercept-url pattern="/images/**" 	access="permitAll" />
 		<intercept-url pattern="/js/**" 		access="permitAll" />
 		<intercept-url pattern="/scss/**" 		access="permitAll" />
-		
-		<!-- 
+
+		<!--
 		<intercept-url pattern="/login/loginForm.do" 	access="permitAll" />
 		<intercept-url pattern="/home.do" 				access="permitAll" />
 		 -->
 		<intercept-url pattern="/admin/**" 				access="hasRole('ADMIN')" />
 		<intercept-url pattern="/protoType/**" 			access="hasRole('ADMIN')" />
-		
+		<intercept-url pattern="/shop/**" 				access="hasRole('ADMIN')" />
+
+		<intercept-url pattern="/api/**" 				access="permitAll" />
+
 		<intercept-url pattern="/**" 					access="permitAll" />
-		
-		<form-login     
+
+		<form-login
 			login-processing-url="/login"
-			login-page="/login/loginForm.do" 
-			default-target-url="/home.do" 
-			username-parameter="id" 
+			login-page="/login/loginForm.do"
+			default-target-url="/home.do"
+			username-parameter="id"
 			password-parameter="password"
-			authentication-failure-url="/login/loginForm.do?error" 
-		/> 
-					
+			authentication-failure-url="/login/loginForm.do?error"
+		/>
+
     	<csrf disabled="true"/>
-    	 
+
 		<logout logout-url="/logout" logout-success-url="/home.do" />
 		<access-denied-handler error-page="/login/accessDenied.do" />
-	</http> 
-	
+	</http>
+
 	<!-- provider -->
-	
+
 	<authentication-manager>
 		<authentication-provider>
 			<user-service>
@@ -53,18 +56,18 @@
 			</user-service>
 		</authentication-provider>
 	</authentication-manager>
-	
-	
+
+
 	<!--
 	<beans:bean id="userDetailsService" class="org.springframework.security.core.userdetails.jdbc.JdbcDaoImpl">
 	    <beans:property name="dataSource" ref="dataSource"/>
 	</beans:bean>
 	-->
-	
-	<!--  provider  --><!-- 
+
+	<!--  provider  --><!--
 	<authentication-manager>
 	    <authentication-provider>
-		    <jdbc-user-service 
+		    <jdbc-user-service
 		        data-source-ref="dataSource"
 		        role-prefix=""
 		        users-by-username-query="select user_id, password, enabled from tb_users where user_id = ?"

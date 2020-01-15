@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="egovframework.realDevlop.shop.mapper.ShopMapper">
+
+	<select id="selectShopUserList" resultType="egovMap">
+		SELECT
+			  user_id
+			, user_nm
+			, business_no
+		FROM tb_shop_user
+		WHERE 1=1
+		<if test="businessNo != null and businessNo != ''">
+			AND business_no = #{businessNo}
+		</if>
+	</select>
+
+	<insert id="insertShopUser" parameterType="hashMap">
+
+			INSERT INTO tb_shop_user (
+				  user_id
+				, user_nm
+				, business_no
+			) VALUES (
+				  #{userId}
+				, #{userNm}
+				, #{businessNo}
+			)
+	</insert>
+
+	<select id="selectShopCustList" resultType="egovMap">
+		SELECT
+			  business_no
+			, shop_cd
+			, shop_nm
+			, owner_nm
+		FROM tb_shop_customer
+		WHERE 1=1
+		<if test="businessNo != null and businessNo != ''">
+			AND business_no = #{businessNo}
+		</if>
+	</select>
+
+	<insert id="insertShopCust" parameterType="hashMap">
+
+			INSERT INTO tb_shop_customer (
+				  business_no
+				, shop_cd
+				, shop_nm
+				, owner_nm
+			) VALUES (
+				  #{businessNo}
+				, #{shopCd}
+				, #{shopNm}
+				, #{ownerNm}
+			)
+	</insert>
+</mapper>
